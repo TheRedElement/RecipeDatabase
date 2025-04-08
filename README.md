@@ -3,6 +3,7 @@
 Database of recipes.
 For ideal experience consider opening the repository in [Obsidian](https://obsidian.md/).
 
+
 ## Table of Contents
 
 ```dataview

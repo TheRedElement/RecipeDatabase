@@ -235,6 +235,16 @@
             "id": "49e8d1e0c2cb6c19",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a2770999941b4965",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -242,7 +252,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -261,11 +271,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "a2770999941b4965",
   "lastOpenFiles": [
+    "recipes/Nudeleintopf.md",
     "README.md",
     "recipes/Kaesespaetzle.md",
-    "recipes/Nudeleintopf.md",
     "recipes/Caprese_TomatenMozzarella.md",
     "recipes/Tea Sri-Lanka.md",
     "templates/tmp_cooking.md",
