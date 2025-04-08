@@ -1,0 +1,51 @@
+%custom latex preamble for markdown in obsidian
+
+
+
+\RequirePackage{xcolor}               %for colors
+
+
+%%%%%%%%
+%Colors%
+%%%%%%%%
+\definecolor{minbetweenLS}{rgb}{0.7,0.7,0.7}    %for inbetween solutions in derivations (math)
+
+
+%%%%%%%%%%%
+%Shortcuts%
+%%%%%%%%%%%
+\newcommand{\diag}{\mathrm{diag}}
+\newcommand{\mat}[1]{\mathbf{#1}}
+\newcommand{\mean}{\mathrm{mean}}
+\newcommand{\median}{\mathrm{median}}
+\newcommand{\mse}{\mathrm{mse}}
+\newcommand{\Onemat}{\mathbb{1}}
+\newcommand{\optconstraint}[1]{\text{s.t. }#1}  %optimality constraints
+\newcommand{\prox}{\mathrm{prox}}               %proximal operator
+\newcommand{\Rbb}{\mathbb{R}}
+\newcommand{\sign}{\mathrm{sgn}}                %sign operator
+\newcommand{\softmax}{\mathrm{softmax}}
+\newcommand{\svd}{\mathrm{SVD}}                %sign operator
+\newcommand{\tr}{\mathrm{tr}}                %sign operator
+\newcommand{\var}[1]{\mathrm{var}\left\{#1\right\}} %variance operator
+% \renewcommand{\vec}[1]{\mathbf{#1}}
+
+
+%%%%%%%%%%%%%%%%
+%TextFormatting%
+%%%%%%%%%%%%%%%%
+\newcommand{\minbetweenh}[2][minbetweenLS]{\Bigg|\textcolor{#1}{#2}\Bigg|}  %to provide in-between comments/calculations within calculations in a horizontal layout
+\newcommand{\minbetweenv}[2][minbetweenLS]{%
+    \hspace{0.5em}\left|\begin{array}{ll}
+        \textcolor{#1}{#2}
+    \end{array}
+    \right.
+}
+\newcommand{\minbetweenvfollows}[2][minbetweenLS]{%                                %to provide in-between comments/calculations within calculationss in vertical layout
+    \hspace{0.3em}\left\Downarrow\begin{array}{ll}
+        \textcolor{#1}{#2}
+    \end{array}
+    \right.
+    \nonumber
+}
+\newcommand{\msplitline}[1][1em]{\nonumber\\&\hspace{#1}}   %to split a line in math align environment

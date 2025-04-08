@@ -1,0 +1,9 @@
+{
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "showLineNumber": true,
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative"
+}

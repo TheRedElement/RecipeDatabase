@@ -1,0 +1,190 @@
+/* @theme tre_light */
+/* tre_light.css */
+
+@import 'default';
+
+/* ################################################################## */
+/* base style */
+section {
+	background-color: #ffffff;
+	color: rgb(0, 0, 0);
+}
+
+/* ################################################################## */
+/* Title Slide */
+section.titleslide {
+	text-align: center;
+}
+section.titleslide h1 {
+	font-size: 5em;
+}
+section.titleslide h2 {
+	font-size: 2em;
+}
+
+/* ################################################################## */
+/* headers */
+/* slide title */
+section h1 {
+	color: #000000;
+	font-size: 1.5em;
+}
+/* columns title */
+section h2 {
+	color: #000000;
+	font-size: 1.3em;
+	font-weight: bold
+}
+
+section h3 {
+	color: #000000;
+	font-size: 1.1em;
+	font-weight: bold
+}
+section h4 {
+	color: #000000;
+	font-size: 1.0em;
+	font-weight: bold
+}
+
+/* ################################################################## */
+/* n column layout */
+
+.columns {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+}
+.column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    outline: 1px solid rgb(0, 255, 0, 0);
+}
+
+/* row layout */
+.rows {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 20px;
+    outline: 1px solid rgb(255, 0, 0, 0);
+}
+
+/* ################################################################## */
+/* crossreferences */
+a:link {
+	color: rgba(161, 0, 0, 1);
+	background-color: transparent;
+	text-decoration: none;
+	font-style: italic;
+}
+
+a:visited {
+	color: rgba(161, 0, 0, .7);
+	background-color: transparent;
+	text-decoration: none;
+	font-style: italic;
+}
+
+a:hover {
+	color: rgba(255, 0, 0, 1);
+	background-color: transparent;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+a:active {
+	color: rgba(255, 0, 0, 1);
+	background-color: transparent;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+/* ################################################################## */
+/* level colorings for bullet lists */
+section ul > li {
+	font-size: 1em;
+	color: hsl(0, 0%, 0%);
+}
+
+section ul > li > ul > li {
+	font-size: 0.9em;
+	color: hsl(0, 0%, 33%);
+}
+
+section ul > li > ul > li > ul > li {
+	font-size: 0.8em;
+	color: hsl(0, 0%, 66%);
+}
+
+/* ################################################################## */
+/* level colorings for ordered lists */
+/* top level */
+section ol {
+	list-style: none;
+	counter-reset: section;
+}
+section ol > li {
+	counter-increment: section;
+	font-size: 1em;
+	color: hsl(0, 0%, 0%);
+}
+section ol > li:before {
+	content: counter(section) ". ";
+	/* font-size: 1em; */
+	color: rgb(0, 0, 0);
+}
+
+/* second level */
+section ol > li > ol {
+	list-style: none;
+	counter-reset: subsection;
+}
+  
+section ol > li > ol > li {
+	counter-increment: subsection;
+	font-size: 0.9em;
+	color: hsl(0, 0%, 33%);
+}
+section ol > li > ol > li::before {
+	content: counter(section) "." counter(subsection) " ";
+	color: hsl(0, 0%, 33%);
+}
+section ol > li > ol > li {
+	font-size: 0.9em;
+	color: hsl(0, 0%, 33%);
+}
+
+/* third level */
+section ol > li > ol > li > ol {
+	list-style: none;
+	counter-reset: subsubsection;
+}
+  
+section ol > li > ol > li > ol > li {
+	counter-increment: subsubsection;
+	font-size: 0.8em;
+	color: hsl(0, 0%, 66%);
+}
+section ol > li > ol > li > ol > li::before {
+	content: counter(section) "." counter(subsection) "." counter(subsubsection) " ";
+	color: hsl(0, 0%, 66%);
+}
+section ol > li > ol > li > ol > li {
+	font-size: 0.8em;
+	color: hsl(0, 0%, 66%);
+}
+
+/* ################################################################## */
+/* iteration commands */
+font.commentLS {
+	color: rgb(240, 120, 120);
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	font-style: italic;
+}
