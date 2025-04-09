@@ -1,9 +1,11 @@
 ---
-tags: 
+tags:
+  - pasta
 aliases: 
 category: 
-country: 
-ingredients: []
+country:
+  - italy
+ingredients: 
 amounts: 
 duration_min: 
 todo: true
@@ -14,8 +16,9 @@ paginate: false
 ---
 
 
-# Name Of Dish
+# Spaghetti all'Assassina
 
 ## Recipe
 
 ## Notes
+

@@ -8,13 +8,15 @@ For ideal experience consider opening the repository in [Obsidian](https://obsid
 
 ```dataview
 TABLE
-	ingredients AS "Ingredients (4 Portions)",
+	ingredients AS "Ingredients", amounts AS "Amounts (4 Portions)",
 	filter(file.outlinks, (l) => !regexmatch("^.+gfx/.+$", string(l))) AS "Outlinks"
 WHERE 
 	file.name != "README"
 ```
 
 ## TODO
+
+- [ ] Adjust layouts to new template
 
 ```dataview
 TABLE todo
