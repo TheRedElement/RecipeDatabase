@@ -29,6 +29,7 @@
     "ingredients": "multitext",
     "amounts": "multitext",
     "acknowledgement": "multitext",
-    "acknowledgements": "multitext"
+    "acknowledgements": "multitext",
+    "links": "multitext"
   }
 }

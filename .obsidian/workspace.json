@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Semmelschmarrn.md",
+                "file": "recipes/Apfelmus.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Semmelschmarrn"
+              "title": "Apfelmus"
             },
             "group": "172f52323188ac5e"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Semmelschmarrn.md",
+                "file": "recipes/Apfelmus.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Semmelschmarrn"
+              "title": "Apfelmus"
             },
             "group": "172f52323188ac5e"
           }
@@ -247,7 +247,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "73226ff5b6a5c8d9",
   "lastOpenFiles": [
     "recipes/Kaiserschmarrn.md",
     "recipes/Semmelschmarrn.md",

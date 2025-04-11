@@ -25,6 +25,7 @@ duration_min:
 todo: true
 acknowledgements:
   - Oma Berni
+links:
 theme: tre_light
 marp: false
 paginate: false
@@ -34,6 +35,8 @@ paginate: false
 ## Recipe
 ### Dough
 1. mix flour, eggs, sugar, salt, raisins, milk
+2. optionally add a little bit of sparkling water
+	1. introduces more softness
 
 ### Finish
 1. heat up pan until #leidenfrost effect reached
@@ -47,3 +50,4 @@ paginate: false
 
 ## Notes
 * commonly served with [Apfelmus](Apfelmus)
+* 
