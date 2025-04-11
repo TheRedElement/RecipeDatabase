@@ -28,6 +28,7 @@
     "excalidraw-open-md": "checkbox",
     "ingredients": "multitext",
     "amounts": "multitext",
-    "acknowledgement": "multitext"
+    "acknowledgement": "multitext",
+    "acknowledgements": "multitext"
   }
 }
