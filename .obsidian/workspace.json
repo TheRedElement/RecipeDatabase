@@ -32,14 +32,10 @@
             "id": "6e0a63244092853c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/Poke Bowl.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Poke Bowl"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             },
             "group": "9c104e2aa8c34506"
           }
@@ -249,10 +245,10 @@
   },
   "active": "6e0a63244092853c",
   "lastOpenFiles": [
-    "recipes/PokeBowl (Sauce).md",
     "recipes/Poke Bowl.md",
-    "recipes/Apfelmus.md",
     "recipes/Kaiserschmarrn.md",
+    "recipes/PokeBowl (Sauce).md",
+    "recipes/Apfelmus.md",
     "recipes/Semmelschmarrn.md",
     "templates/tmp_cooking.md",
     "recipes/Kaesespaetzle.md",
