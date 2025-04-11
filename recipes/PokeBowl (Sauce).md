@@ -1,17 +1,17 @@
 ---
 tags:
   - sauce
-category: cooking
-country:
-duration_min:
+category:
+  - cooking
+country: []
+duration_min: 
 todo: true
-
 theme: tre_light
 marp: false
 paginate: false
 ---
 
-# Poke Bowl
+# Poke Bowl (Sauce)
 
 ## Ingredients
 
