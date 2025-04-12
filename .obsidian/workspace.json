@@ -11,14 +11,10 @@
             "id": "02925a86988eab43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/TacoSauce.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "TacoSauce"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             },
             "group": "9fddad6cad49d7d1"
           }
@@ -34,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/TacoSauce.md",
+                "file": "recipes/Apfelkren.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TacoSauce"
+              "title": "Apfelkren"
             },
             "group": "9fddad6cad49d7d1"
           }
@@ -237,20 +233,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "02925a86988eab43",
   "lastOpenFiles": [
-    "recipes/Semmelschmarrn.md",
+    "recipes/Apfelkren.md",
+    "recipes/TacoSauce.md",
     "recipes/Tea_SriLanka.md",
+    "recipes/Semmelschmarrn.md",
     "recipes/PokeBowl_Sauce.md",
     "recipes/Tacos_CombinedDish.md",
-    "recipes/TacoSauce.md",
     "recipes/Tacos.md",
     "recipes/Pancakes.md",
     "README.md",
     "recipes/Osterjause.md",
     "recipes/Osterpinze.md",
     "recipes/Reindling.md",
-    "recipes/Apfelkren.md",
     "recipes/Poke Bowl.md",
     "recipes/Kaiserschmarrn.md",
     "recipes/Apfelmus.md",
