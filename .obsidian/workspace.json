@@ -13,16 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Pancakes.md",
+                "file": "recipes/TacoSauce.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pancakes"
+              "title": "TacoSauce"
             },
             "group": "9fddad6cad49d7d1"
+          },
+          {
+            "id": "0827ed0ea14acf9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/PokeBowl_Sauce.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "PokeBowl_Sauce"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "310ace60cf5226a9",
@@ -34,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Pancakes.md",
+                "file": "recipes/TacoSauce.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Pancakes"
+              "title": "TacoSauce"
             },
             "group": "9fddad6cad49d7d1"
           }
@@ -237,10 +252,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02925a86988eab43",
+  "active": "0827ed0ea14acf9f",
   "lastOpenFiles": [
-    "recipes/Semmelschmarrn.md",
+    "recipes/Tacos_CombinedDish.md",
+    "recipes/TacoSauce.md",
+    "recipes/Tacos.md",
     "recipes/Pancakes.md",
+    "recipes/Semmelschmarrn.md",
     "README.md",
     "recipes/Osterjause.md",
     "recipes/Osterpinze.md",
@@ -248,7 +266,7 @@
     "recipes/Apfelkren.md",
     "recipes/Poke Bowl.md",
     "recipes/Kaiserschmarrn.md",
-    "recipes/PokeBowl (Sauce).md",
+    "recipes/PokeBowl_Sauce.md",
     "recipes/Apfelmus.md",
     "templates/tmp_cooking.md",
     "recipes/Kaesespaetzle.md",
