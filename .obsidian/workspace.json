@@ -21,23 +21,8 @@
               "title": "TacoSauce"
             },
             "group": "9fddad6cad49d7d1"
-          },
-          {
-            "id": "0827ed0ea14acf9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/Tea_SriLanka.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Tea_SriLanka"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "310ace60cf5226a9",
@@ -252,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0827ed0ea14acf9f",
+  "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
     "recipes/Semmelschmarrn.md",
     "recipes/Tea_SriLanka.md",
