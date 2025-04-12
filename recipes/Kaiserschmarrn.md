@@ -14,11 +14,11 @@ ingredients:
   - salt
   - sugar
 amounts:
-  - "350"
-  - "270"
+  - "350ml"
+  - "270g"
   - "5"
   - "0"
-  - "0"
+  - "1pinch"
   - "0"
   - "0"
 duration_min: 
