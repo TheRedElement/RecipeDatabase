@@ -2,6 +2,7 @@
 
 Database of recipes.
 For ideal experience consider opening the repository in [Obsidian](https://obsidian.md/).
+Look here for a google sheet that computes ingredients based on number of portions: [Ingredients](https://docs.google.com/spreadsheets/d/17TsMHgSJK_kX367CU9UGzMKYD2ffc12io5_qgkD2sjA/edit?gid=0#gid=0).
 
 
 ## Table of Contents

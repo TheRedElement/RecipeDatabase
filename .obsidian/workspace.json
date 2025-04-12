@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Osterjause.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Osterjause"
+              "title": "README"
             },
             "group": "9fddad6cad49d7d1"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Osterjause.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Osterjause"
+              "title": "README"
             },
             "group": "9fddad6cad49d7d1"
           }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -238,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "02925a86988eab43",
   "lastOpenFiles": [
     "recipes/Osterjause.md",
     "recipes/Osterpinze.md",
