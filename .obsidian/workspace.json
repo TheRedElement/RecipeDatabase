@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "recipes/Pancakes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Pancakes"
             },
             "group": "9fddad6cad49d7d1"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "recipes/Pancakes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Pancakes"
             },
             "group": "9fddad6cad49d7d1"
           }
@@ -239,6 +239,9 @@
   },
   "active": "02925a86988eab43",
   "lastOpenFiles": [
+    "recipes/Semmelschmarrn.md",
+    "recipes/Pancakes.md",
+    "README.md",
     "recipes/Osterjause.md",
     "recipes/Osterpinze.md",
     "recipes/Reindling.md",
@@ -247,13 +250,11 @@
     "recipes/Kaiserschmarrn.md",
     "recipes/PokeBowl (Sauce).md",
     "recipes/Apfelmus.md",
-    "recipes/Semmelschmarrn.md",
     "templates/tmp_cooking.md",
     "recipes/Kaesespaetzle.md",
     "recipes/Bread_SourDough.md",
     "recipes/Rice.md",
     "recipes/Eiernockerl_AppleAndCinnamon.md",
-    "README.md",
     "recipes/Nudeleintopf.md",
     "recipes/Soup_Chicken.md",
     "recipes/SpaghettiAllAssassina.md",

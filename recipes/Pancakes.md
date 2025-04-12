@@ -1,15 +1,23 @@
 ---
 tags:
   - sweet
-category: cooking
-country: USA
-duration_min:
+  - breakfast
+aliases: 
+category:
+  - sweet
+country:
+  - usa
+ingredients: 
+amounts: 
+duration_min: 
 todo: false
-
+acknowledgements:
+  - Andrea Schmidt
 theme: tre_light
 marp: false
 paginate: false
 ---
+
 
 # Pancakes (Andrea Schmidt)
 
