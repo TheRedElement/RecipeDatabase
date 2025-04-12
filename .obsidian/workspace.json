@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/PokeBowl_Sauce.md",
-                "mode": "source",
+                "file": "recipes/Tea_SriLanka.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PokeBowl_Sauce"
+              "title": "Tea_SriLanka"
             }
           }
         ],
@@ -254,11 +254,13 @@
   },
   "active": "0827ed0ea14acf9f",
   "lastOpenFiles": [
+    "recipes/Semmelschmarrn.md",
+    "recipes/Tea_SriLanka.md",
+    "recipes/PokeBowl_Sauce.md",
     "recipes/Tacos_CombinedDish.md",
     "recipes/TacoSauce.md",
     "recipes/Tacos.md",
     "recipes/Pancakes.md",
-    "recipes/Semmelschmarrn.md",
     "README.md",
     "recipes/Osterjause.md",
     "recipes/Osterpinze.md",
@@ -266,7 +268,6 @@
     "recipes/Apfelkren.md",
     "recipes/Poke Bowl.md",
     "recipes/Kaiserschmarrn.md",
-    "recipes/PokeBowl_Sauce.md",
     "recipes/Apfelmus.md",
     "templates/tmp_cooking.md",
     "recipes/Kaesespaetzle.md",
@@ -276,7 +277,6 @@
     "recipes/Nudeleintopf.md",
     "recipes/Soup_Chicken.md",
     "recipes/SpaghettiAllAssassina.md",
-    "recipes/Caprese_TomatenMozzarella.md",
-    "recipes/Tea Sri-Lanka.md"
+    "recipes/Caprese_TomatenMozzarella.md"
   ]
 }

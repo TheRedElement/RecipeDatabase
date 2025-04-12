@@ -1,14 +1,19 @@
 ---
 tags:
   - tea
+aliases: 
 category:
   - drink
 country:
   - srilanka
+ingredients: 
+amounts: 
 duration_min: 
 todo: true
+acknowledgements:
+  - Maleesha Bandara
 theme: tre_light
-marp: true
+marp: false
 paginate: false
 ---
 
