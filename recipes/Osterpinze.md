@@ -1,23 +1,24 @@
 ---
 tags:
-  - baking
   - tradition
+  - baking
   - easter
-category:
-  - cooking
-country:
-  - austria
+aliases: 
+category: 
+country: 
+ingredients: 
+amounts: 
 duration_min: 
 todo: true
+acknowledgements: 
+links: 
 theme: tre_light
-marp: true
+marp: false
 paginate: false
 ---
 
 
-# Kärntner Reindling
-
-## Ingredients
+# Osterpinze
 
 ## Recipe
 

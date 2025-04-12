@@ -8,36 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "75f2facf8c38374a",
+            "id": "02925a86988eab43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Poke Bowl.md",
+                "file": "recipes/Osterjause.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Poke Bowl"
+              "title": "Osterjause"
             },
-            "group": "9c104e2aa8c34506"
+            "group": "9fddad6cad49d7d1"
           }
         ]
       },
       {
-        "id": "77d92cfa65d1584c",
+        "id": "310ace60cf5226a9",
         "type": "tabs",
         "children": [
           {
-            "id": "6e0a63244092853c",
+            "id": "810ee11127995ee5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Osterjause.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Osterjause"
             },
-            "group": "9c104e2aa8c34506"
+            "group": "9fddad6cad49d7d1"
           }
         ]
       }
@@ -96,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -204,17 +209,7 @@
             }
           },
           {
-            "id": "6b6ff58c49ade5b3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "50827dc53b07bd31",
+            "id": "f836b594e1475bfc",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -243,8 +238,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e0a63244092853c",
+  "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/Osterjause.md",
+    "recipes/Osterpinze.md",
+    "recipes/Reindling.md",
+    "recipes/Apfelkren.md",
     "recipes/Poke Bowl.md",
     "recipes/Kaiserschmarrn.md",
     "recipes/PokeBowl (Sauce).md",
