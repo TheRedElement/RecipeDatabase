@@ -14,24 +14,24 @@ ingredients:
   - salt
   - sugar
 amounts:
-  - "350ml"
-  - "270g"
+  - 350ml
+  - 270g
   - "5"
   - "0"
-  - "1pinch"
+  - 1pinch
   - "0"
   - "0"
 duration_min: 
-todo: true
+todo: false
 acknowledgements:
   - Oma Berni
-links:
+links: 
 theme: tre_light
 marp: false
 paginate: false
 ---
 # Kaiserschmarrn
-
+![bg right](../gfx/PXL_20250412_113504363.jpg)
 ## Recipe
 ### Dough
 1. mix flour, eggs, sugar, salt, raisins, milk

@@ -2,11 +2,11 @@
 tags:
   - sweet
   - ill
-category: cooking
-country:
-duration_min:
-todo: true
-
+category:
+  - cooking
+country: 
+duration_min: 
+todo: false
 theme: tre_light
 marp: false
 paginate: false

@@ -1,11 +1,11 @@
 ---
 tags:
   - base
-todo: true
-category: cooking
-country:
-duration_min:
-
+todo: false
+category:
+  - cooking
+country: 
+duration_min: 
 theme: tre_light
 marp: false
 paginate: false

@@ -1,13 +1,13 @@
 ---
 tags:
   - soup
-category: cooking
+category:
+  - cooking
 country:
   - austria
   - hungary
-duration_min:
-todo: true
-
+duration_min: 
+todo: false
 theme: tre_light
 marp: false
 paginate: false

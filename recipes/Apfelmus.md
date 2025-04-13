@@ -20,7 +20,7 @@ amounts:
   - "1"
   - "0.5"
 duration_min: 
-todo: true
+todo: false
 acknowledgements: 
 links:
   - https://www.gutekueche.at/apfelmus-rezept-2387
@@ -31,7 +31,7 @@ paginate: false
 
 
 # Apfelmus
-
+![bg right](../gfx/PXL_20250412_024150021.jpg)
 ## Recipe
 1. rinse and peel apples
 2. remove apples core

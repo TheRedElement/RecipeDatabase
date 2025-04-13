@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "19d1249c2d0eb0b8",
+        "id": "29915ac8a7d2604c",
         "type": "tabs",
         "children": [
           {
-            "id": "02925a86988eab43",
+            "id": "46853e5a261982b0",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,28 +16,28 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             },
-            "group": "9fddad6cad49d7d1"
+            "group": "9d2a41cf7ab1bccb"
           }
         ]
       },
       {
-        "id": "310ace60cf5226a9",
+        "id": "0bbb63d3420f442e",
         "type": "tabs",
         "children": [
           {
-            "id": "810ee11127995ee5",
+            "id": "c4611664aa58bfbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Apfelkren.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Apfelkren"
+              "title": "README"
             },
-            "group": "9fddad6cad49d7d1"
+            "group": "9d2a41cf7ab1bccb"
           }
         ]
       }
@@ -207,6 +207,16 @@
             "id": "f836b594e1475bfc",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "052a59276365c0e8",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -233,31 +243,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02925a86988eab43",
+  "active": "46853e5a261982b0",
   "lastOpenFiles": [
-    "recipes/Apfelkren.md",
-    "recipes/TacoSauce.md",
-    "recipes/Tea_SriLanka.md",
-    "recipes/Semmelschmarrn.md",
-    "recipes/PokeBowl_Sauce.md",
-    "recipes/Tacos_CombinedDish.md",
-    "recipes/Tacos.md",
-    "recipes/Pancakes.md",
     "README.md",
-    "recipes/Osterjause.md",
-    "recipes/Osterpinze.md",
-    "recipes/Reindling.md",
-    "recipes/Poke Bowl.md",
-    "recipes/Kaiserschmarrn.md",
-    "recipes/Apfelmus.md",
-    "templates/tmp_cooking.md",
-    "recipes/Kaesespaetzle.md",
-    "recipes/Bread_SourDough.md",
+    "recipes/SterzPolenta.md",
+    "recipes/SpaghettiAglioEOlio.md",
     "recipes/Rice.md",
-    "recipes/Eiernockerl_AppleAndCinnamon.md",
-    "recipes/Nudeleintopf.md",
-    "recipes/Soup_Chicken.md",
-    "recipes/SpaghettiAllAssassina.md",
-    "recipes/Caprese_TomatenMozzarella.md"
+    "recipes/Pasta.md",
+    "recipes/MolkereiGulasch.md",
+    "recipes/Knoedel_Semmel.md",
+    "recipes/Kaiserschmarrn.md",
+    "recipes/Gulasch_Beef.md",
+    "recipes/EggFriedRice.md",
+    "recipes/Chicken_Paprika.md",
+    "recipes/Ritschert.md",
+    "recipes/Spaetzle.md",
+    "recipes/Buchteln.md",
+    "recipes/BreadCroutons.md",
+    "recipes/Apfelmus.md",
+    "recipes/Apfelkren.md",
+    "recipes/SpaghettiAlRagu.md",
+    "recipes/Tofu_Fried.md",
+    "recipes/PokeBowl_Sauce.md",
+    "recipes/Griessbrei.md",
+    "recipes/Griessnockerl.md",
+    "recipes/Poke Bowl.md",
+    "recipes/Tacos.md",
+    "gfx/PXL_20250413_031727090.jpg",
+    "gfx/PXL_20250413_031221242.jpg",
+    "gfx/PXL_20250413_031138428.jpg",
+    "gfx/PXL_20250412_113504363.jpg",
+    "gfx/PXL_20250412_024150021.jpg",
+    "gfx/PXL_20250406_034954726.jpg",
+    "gfx/PXL_20250405_015652237.jpg",
+    "gfx/PXL_20250401_084821659.jpg",
+    "gfx/PXL_20250331_121458181.jpg",
+    "gfx/PXL_20250329_031809635.jpg",
+    "recipes/TacoSauce.md",
+    "recipes/Tea_SriLanka.md"
   ]
 }
