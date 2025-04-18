@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Letscho.md",
+                "file": "recipes/Osterjause.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Letscho"
+              "title": "Osterjause"
             },
             "group": "9d2a41cf7ab1bccb"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Letscho.md",
+                "file": "recipes/Osterjause.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Letscho"
+              "title": "Osterjause"
             },
             "group": "9d2a41cf7ab1bccb"
           }
@@ -98,13 +98,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -235,6 +233,16 @@
             "id": "076f13c727e89a79",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a888ac9df8fb472e",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -263,6 +271,13 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/Egg_HardBoiled.md",
+    "recipes/Osterjause.md",
+    "recipes/Egg_SoftBoiled.md",
+    "recipes/Egg_Scrambled.md",
+    "recipes/Egg_Poached.md",
+    "recipes/Egg_Omlette.md",
+    "recipes/Letscho.md",
     "README.md",
     "recipes/SterzPolenta.md",
     "recipes/SpaghettiAglioEOlio.md",
@@ -282,11 +297,6 @@
     "recipes/Apfelkren.md",
     "recipes/SpaghettiAlRagu.md",
     "recipes/Tofu_Fried.md",
-    "recipes/PokeBowl_Sauce.md",
-    "recipes/Griessbrei.md",
-    "recipes/Griessnockerl.md",
-    "recipes/Poke Bowl.md",
-    "recipes/Tacos.md",
     "gfx/PXL_20250413_031727090.jpg",
     "gfx/PXL_20250413_031221242.jpg",
     "gfx/PXL_20250413_031138428.jpg",
@@ -296,8 +306,6 @@
     "gfx/PXL_20250405_015652237.jpg",
     "gfx/PXL_20250401_084821659.jpg",
     "gfx/PXL_20250331_121458181.jpg",
-    "gfx/PXL_20250329_031809635.jpg",
-    "recipes/TacoSauce.md",
-    "recipes/Tea_SriLanka.md"
+    "gfx/PXL_20250329_031809635.jpg"
   ]
 }

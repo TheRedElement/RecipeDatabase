@@ -11,7 +11,7 @@ marp: false
 paginate: false
 ---
 
-# Egg (Soft-Boiled)
+# Soft-Boiled Egg
 
 
 ## Ingredients

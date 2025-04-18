@@ -11,7 +11,7 @@ marp: false
 paginate: false
 ---
 
-# Egg (Poached)
+# Poached Egg
 
 
 ## Ingredients

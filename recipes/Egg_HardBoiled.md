@@ -11,7 +11,7 @@ marp: false
 paginate: false
 ---
 
-# Egg (Hard-Boiled)
+# Hard-Boiled Egg
 
 
 ## Ingredients

@@ -11,7 +11,7 @@ marp: false
 paginate: false
 ---
 
-# Egg (Scrambled)
+# Scrambled Egg
 
 
 ## Ingredients
