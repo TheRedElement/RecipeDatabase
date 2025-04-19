@@ -6,7 +6,7 @@
       {
         "id": "29915ac8a7d2604c",
         "type": "tabs",
-        "dimension": 54.47598253275109,
+        "dimension": 50.43668122270743,
         "children": [
           {
             "id": "46853e5a261982b0",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Osterjause.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Osterjause"
+              "title": "README"
             },
             "group": "9d2a41cf7ab1bccb"
           }
@@ -28,7 +28,7 @@
       {
         "id": "0bbb63d3420f442e",
         "type": "tabs",
-        "dimension": 45.5240174672489,
+        "dimension": 49.56331877729257,
         "children": [
           {
             "id": "c4611664aa58bfbf",
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Osterjause.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Osterjause"
+              "title": "README"
             },
             "group": "9d2a41cf7ab1bccb"
           }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -243,6 +244,16 @@
             "id": "a888ac9df8fb472e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7deb5ffe22a00d14",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -271,14 +282,18 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
-    "recipes/Egg_HardBoiled.md",
+    "README.md",
     "recipes/Osterjause.md",
+    "gfx/IMG_20240330_142044.jpg",
+    "gfx/PXL_20250419_115015200.jpg",
+    "recipes/Apfelkren.md",
+    "recipes/Poke Bowl.md",
+    "recipes/Egg_HardBoiled.md",
     "recipes/Egg_SoftBoiled.md",
     "recipes/Egg_Scrambled.md",
     "recipes/Egg_Poached.md",
     "recipes/Egg_Omlette.md",
     "recipes/Letscho.md",
-    "README.md",
     "recipes/SterzPolenta.md",
     "recipes/SpaghettiAglioEOlio.md",
     "recipes/Rice.md",
@@ -294,9 +309,6 @@
     "recipes/Buchteln.md",
     "recipes/BreadCroutons.md",
     "recipes/Apfelmus.md",
-    "recipes/Apfelkren.md",
-    "recipes/SpaghettiAlRagu.md",
-    "recipes/Tofu_Fried.md",
     "gfx/PXL_20250413_031727090.jpg",
     "gfx/PXL_20250413_031221242.jpg",
     "gfx/PXL_20250413_031138428.jpg",
@@ -304,8 +316,6 @@
     "gfx/PXL_20250412_024150021.jpg",
     "gfx/PXL_20250406_034954726.jpg",
     "gfx/PXL_20250405_015652237.jpg",
-    "gfx/PXL_20250401_084821659.jpg",
-    "gfx/PXL_20250331_121458181.jpg",
-    "gfx/PXL_20250329_031809635.jpg"
+    "gfx/PXL_20250401_084821659.jpg"
   ]
 }

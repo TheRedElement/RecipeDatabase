@@ -20,6 +20,13 @@ WHERE
 - [ ] Adjust layouts to new template
 
 ```dataview
+TABLE task.text AS "Task", choice(task.completed, "✅", "❌") AS "Completed"
+FROM ""
+FLATTEN file.tasks AS task
+WHERE !task.completed or task.completed
+```
+
+```dataview
 TABLE todo
 WHERE todo = true
 ```
