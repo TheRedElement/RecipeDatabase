@@ -6,44 +6,42 @@
       {
         "id": "29915ac8a7d2604c",
         "type": "tabs",
-        "dimension": 50.43668122270743,
         "children": [
           {
-            "id": "46853e5a261982b0",
+            "id": "4f135634e4850347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "recipes/ApfelKrenSuppe.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ApfelKrenSuppe"
             },
-            "group": "9d2a41cf7ab1bccb"
+            "group": "fe5a2cbff33a3960"
           }
         ]
       },
       {
-        "id": "0bbb63d3420f442e",
+        "id": "0f80c6e53f94fbec",
         "type": "tabs",
-        "dimension": 49.56331877729257,
         "children": [
           {
-            "id": "c4611664aa58bfbf",
+            "id": "1eacfe7abc43d3ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "recipes/ApfelKrenSuppe.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ApfelKrenSuppe"
             },
-            "group": "9d2a41cf7ab1bccb"
+            "group": "fe5a2cbff33a3960"
           }
         ]
       }
@@ -254,6 +252,16 @@
             "id": "7deb5ffe22a00d14",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "255fd5f3dcfc9d63",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -282,6 +290,8 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/SpaghettiConPesto_Genovese.md",
+    "recipes/ApfelKrenSuppe.md",
     "README.md",
     "recipes/Osterjause.md",
     "gfx/IMG_20240330_142044.jpg",
@@ -308,7 +318,6 @@
     "recipes/Spaetzle.md",
     "recipes/Buchteln.md",
     "recipes/BreadCroutons.md",
-    "recipes/Apfelmus.md",
     "gfx/PXL_20250413_031727090.jpg",
     "gfx/PXL_20250413_031221242.jpg",
     "gfx/PXL_20250413_031138428.jpg",
