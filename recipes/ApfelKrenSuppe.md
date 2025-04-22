@@ -7,7 +7,6 @@ country:
   - austria
 ingredients:
   - cream
-  - juice (apple)
   - water
   - apple
   - horseradish
@@ -15,7 +14,6 @@ ingredients:
   - salt
   - soup seasoning (vegetables)
 amounts:
-  - 300mL
   - 300mL
   - 300mL
   - 0.350kg
@@ -35,13 +33,14 @@ paginate: false
 
 
 # Apfel-Kren-Suppe
+![bg right](../gfx/PXL_20250421_040459972.jpg)
 
 ## Recipe
 1. prepare [Vegetable Soup](Soup_Vegetables.md#Vegetable%20Soup)
 	1. alternatively you can also use **soup-spices** and **water**
 2. peel **apples**
 3. cut **apples** in small cubes
-4. mix **cream**, [Vegetable Soup](Soup_Vegetables.md#Vegetable%20Soup), **juice (apple)**, **apple pieces**
+4. mix **cream**, [Vegetable Soup](Soup_Vegetables.md#Vegetable%20Soup), **apple pieces**
 5. let boil once
 6. reduce heat and let simmer until **apples** are soft
 7. add **horseradish**

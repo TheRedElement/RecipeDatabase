@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/ApfelKrenSuppe.md",
+                "file": "recipes/Apfelkren.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ApfelKrenSuppe"
+              "title": "Apfelkren"
             },
             "group": "fe5a2cbff33a3960"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/ApfelKrenSuppe.md",
+                "file": "recipes/Apfelkren.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ApfelKrenSuppe"
+              "title": "Apfelkren"
             },
             "group": "fe5a2cbff33a3960"
           }
@@ -262,6 +262,16 @@
             "id": "255fd5f3dcfc9d63",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0dfd0be13495d5f3",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -290,8 +300,10 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
-    "recipes/SpaghettiConPesto_Genovese.md",
     "recipes/ApfelKrenSuppe.md",
+    "gfx/PXL_20250420_025526263.jpg",
+    "gfx/PXL_20250421_040459972.jpg",
+    "recipes/SpaghettiConPesto_Genovese.md",
     "README.md",
     "recipes/Osterjause.md",
     "gfx/IMG_20240330_142044.jpg",
@@ -317,14 +329,11 @@
     "recipes/Ritschert.md",
     "recipes/Spaetzle.md",
     "recipes/Buchteln.md",
-    "recipes/BreadCroutons.md",
     "gfx/PXL_20250413_031727090.jpg",
     "gfx/PXL_20250413_031221242.jpg",
     "gfx/PXL_20250413_031138428.jpg",
     "gfx/PXL_20250412_113504363.jpg",
     "gfx/PXL_20250412_024150021.jpg",
-    "gfx/PXL_20250406_034954726.jpg",
-    "gfx/PXL_20250405_015652237.jpg",
-    "gfx/PXL_20250401_084821659.jpg"
+    "gfx/PXL_20250406_034954726.jpg"
   ]
 }

@@ -16,7 +16,7 @@ amounts:
   - "0"
   - "0"
 duration_min: 
-todo: true
+todo: false
 acknowledgements:
   - Daniela Steinwender
 links: 
@@ -27,6 +27,8 @@ paginate: false
 
 
 # Apfelkren
+
+![bg right](../gfx/PXL_20250420_025526263.jpg)
 
 ## Recipe
 1. grate **horseradish**
