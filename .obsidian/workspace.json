@@ -8,40 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4f135634e4850347",
+            "id": "7b97caac7750eb04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Apfelkren.md",
+                "file": "gfx/Schinkenfleckerl.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Apfelkren"
+              "title": "Schinkenfleckerl"
             },
-            "group": "fe5a2cbff33a3960"
+            "group": "73ce6ee19c1850b0"
           }
         ]
       },
       {
-        "id": "0f80c6e53f94fbec",
+        "id": "a071c766004631b5",
         "type": "tabs",
         "children": [
           {
-            "id": "1eacfe7abc43d3ab",
+            "id": "ef71bdfb551a46f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Apfelkren.md",
+                "file": "gfx/Schinkenfleckerl.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Apfelkren"
+              "title": "Schinkenfleckerl"
             },
-            "group": "fe5a2cbff33a3960"
+            "group": "73ce6ee19c1850b0"
           }
         ]
       }
@@ -194,8 +194,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -272,6 +272,46 @@
             "id": "0dfd0be13495d5f3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "db333c364d174c47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d5fb5563adc71128",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9f31da6faff064c2",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          },
+          {
+            "id": "02bc2d256d32f3fa",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -300,15 +340,20 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
-    "recipes/ApfelKrenSuppe.md",
     "gfx/PXL_20250420_025526263.jpg",
+    "gfx/Schinkenfleckerl.md",
     "gfx/PXL_20250421_040459972.jpg",
+    "recipes/Apfelkren.md",
+    "gfx/IMG_20240122_121558.jpg",
+    "gfx/IMG_20231126_184614.jpg",
+    "gfx/IMG_20231125_144736.jpg",
+    "gfx/IMG_20231108_130236.jpg",
+    "recipes/ApfelKrenSuppe.md",
     "recipes/SpaghettiConPesto_Genovese.md",
     "README.md",
     "recipes/Osterjause.md",
     "gfx/IMG_20240330_142044.jpg",
     "gfx/PXL_20250419_115015200.jpg",
-    "recipes/Apfelkren.md",
     "recipes/Poke Bowl.md",
     "recipes/Egg_HardBoiled.md",
     "recipes/Egg_SoftBoiled.md",
@@ -328,12 +373,7 @@
     "recipes/Chicken_Paprika.md",
     "recipes/Ritschert.md",
     "recipes/Spaetzle.md",
-    "recipes/Buchteln.md",
     "gfx/PXL_20250413_031727090.jpg",
-    "gfx/PXL_20250413_031221242.jpg",
-    "gfx/PXL_20250413_031138428.jpg",
-    "gfx/PXL_20250412_113504363.jpg",
-    "gfx/PXL_20250412_024150021.jpg",
-    "gfx/PXL_20250406_034954726.jpg"
+    "gfx/PXL_20250413_031221242.jpg"
   ]
 }
