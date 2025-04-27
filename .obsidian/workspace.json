@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gfx/Schinkenfleckerl.md",
+                "file": "recipes/Schinkenfleckerl.md",
                 "mode": "source",
                 "source": true
               },
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gfx/Schinkenfleckerl.md",
+                "file": "recipes/Schinkenfleckerl.md",
                 "mode": "preview",
                 "source": true
               },
@@ -302,6 +302,16 @@
             "id": "9f31da6faff064c2",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "02bc2d256d32f3fa",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -309,7 +319,7 @@
             }
           },
           {
-            "id": "02bc2d256d32f3fa",
+            "id": "10578f358a92e1f4",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -341,7 +351,7 @@
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
     "gfx/PXL_20250420_025526263.jpg",
-    "gfx/Schinkenfleckerl.md",
+    "recipes/Schinkenfleckerl.md",
     "gfx/PXL_20250421_040459972.jpg",
     "recipes/Apfelkren.md",
     "gfx/IMG_20240122_121558.jpg",
