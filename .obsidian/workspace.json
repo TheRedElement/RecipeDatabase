@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Schinkenfleckerl.md",
+                "file": "recipes/RisottoAllaZucca.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Schinkenfleckerl"
+              "title": "RisottoAllaZucca"
             },
             "group": "73ce6ee19c1850b0"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Schinkenfleckerl.md",
+                "file": "recipes/RisottoAllaZucca.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Schinkenfleckerl"
+              "title": "RisottoAllaZucca"
             },
             "group": "73ce6ee19c1850b0"
           }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -312,6 +311,16 @@
             "id": "02bc2d256d32f3fa",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "10578f358a92e1f4",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -319,7 +328,7 @@
             }
           },
           {
-            "id": "10578f358a92e1f4",
+            "id": "b20aaef294997d6b",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -350,27 +359,31 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
-    "gfx/PXL_20250420_025526263.jpg",
+    "gfx/IMG_20231108_130236.jpg",
+    "recipes/RisottoAllaZucca.md",
+    "recipes/Milchreis.md",
     "recipes/Schinkenfleckerl.md",
+    "recipes/Letscho.md",
     "gfx/PXL_20250421_040459972.jpg",
+    "gfx/PXL_20250503_040908636.jpg",
+    "gfx/PXL_20250502_132518317.jpg",
+    "gfx/PXL_20250427_050855859.jpg",
+    "gfx/PXL_20250422_091543344.jpg",
+    "gfx/PXL_20250420_025526263.jpg",
     "recipes/Apfelkren.md",
     "gfx/IMG_20240122_121558.jpg",
     "gfx/IMG_20231126_184614.jpg",
     "gfx/IMG_20231125_144736.jpg",
-    "gfx/IMG_20231108_130236.jpg",
     "recipes/ApfelKrenSuppe.md",
     "recipes/SpaghettiConPesto_Genovese.md",
     "README.md",
     "recipes/Osterjause.md",
-    "gfx/IMG_20240330_142044.jpg",
-    "gfx/PXL_20250419_115015200.jpg",
     "recipes/Poke Bowl.md",
     "recipes/Egg_HardBoiled.md",
     "recipes/Egg_SoftBoiled.md",
     "recipes/Egg_Scrambled.md",
     "recipes/Egg_Poached.md",
     "recipes/Egg_Omlette.md",
-    "recipes/Letscho.md",
     "recipes/SterzPolenta.md",
     "recipes/SpaghettiAglioEOlio.md",
     "recipes/Rice.md",
@@ -380,10 +393,6 @@
     "recipes/Kaiserschmarrn.md",
     "recipes/Gulasch_Beef.md",
     "recipes/EggFriedRice.md",
-    "recipes/Chicken_Paprika.md",
-    "recipes/Ritschert.md",
-    "recipes/Spaetzle.md",
-    "gfx/PXL_20250413_031727090.jpg",
-    "gfx/PXL_20250413_031221242.jpg"
+    "recipes/Chicken_Paprika.md"
   ]
 }

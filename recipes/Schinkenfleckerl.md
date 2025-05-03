@@ -41,6 +41,8 @@ paginate: false
 
 # Schinkenfleckerl
 
+![bg right](../gfx/PXL_20250427_050855859.jpg)
+
 ## Recipe
 
 1. chop **onions**, **garlic**, **ham** in small pieces

@@ -45,6 +45,8 @@ links:
 
 # Letscho
 
+![bg right](../gfx/PXL_20250422_091543344.jpg)
+
 ## Recipe
 1. peel and chop **onions**, **garlic**
 2. chop **capsicum** into small pieces
