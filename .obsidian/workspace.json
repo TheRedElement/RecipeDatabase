@@ -13,35 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Apfelkren.md",
+                "file": "recipes/Nudeleintopf.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Apfelkren"
+              "title": "Nudeleintopf"
             },
-            "group": "fe5a2cbff33a3960"
+            "group": "68535ab820ded0ac"
           }
         ]
       },
       {
-        "id": "0f80c6e53f94fbec",
+        "id": "8cd775c762ae90ba",
         "type": "tabs",
         "children": [
           {
-            "id": "1eacfe7abc43d3ab",
+            "id": "a844b2714c2a13ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Apfelkren.md",
+                "file": "recipes/Nudeleintopf.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Apfelkren"
+              "title": "Nudeleintopf"
             },
-            "group": "fe5a2cbff33a3960"
+            "group": "68535ab820ded0ac"
           }
         ]
       }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -194,8 +193,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -272,6 +271,26 @@
             "id": "0dfd0be13495d5f3",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e0f25cf4f04d990f",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
+          },
+          {
+            "id": "af7591295f52b286",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -298,42 +317,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "4f135634e4850347",
   "lastOpenFiles": [
+    "recipes/Ritschert.md",
+    "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
+    "recipes/PakrikaGeschnetzeltes.md",
+    "gfx/PXL_20250316_030704050.jpg",
+    "recipes/Knoedel_Semmel.md",
+    "gfx/PXL_20250319_082227399.jpg",
+    "gfx/PXL_20250313_200802642.jpg",
+    "gfx/PXL_20250310_023956351.jpg",
+    "gfx/PXL_20250308_103017032.jpg",
+    "gfx/PXL_20250305_090156369.jpg",
+    "gfx/PXL_20250302_022758726.MP.jpg",
+    "gfx/PXL_20250323_075626273.jpg",
+    "recipes/Pancakes.md",
+    "recipes/Letscho.md",
+    "README.md",
+    "recipes/Apfelkren.md",
+    "recipes/SpaghettiAgliSpinaci.md",
+    "recipes/Pasta.md",
     "recipes/ApfelKrenSuppe.md",
     "gfx/PXL_20250420_025526263.jpg",
     "gfx/PXL_20250421_040459972.jpg",
     "recipes/SpaghettiConPesto_Genovese.md",
-    "README.md",
     "recipes/Osterjause.md",
-    "gfx/IMG_20240330_142044.jpg",
-    "gfx/PXL_20250419_115015200.jpg",
-    "recipes/Apfelkren.md",
     "recipes/Poke Bowl.md",
     "recipes/Egg_HardBoiled.md",
     "recipes/Egg_SoftBoiled.md",
     "recipes/Egg_Scrambled.md",
     "recipes/Egg_Poached.md",
     "recipes/Egg_Omlette.md",
-    "recipes/Letscho.md",
     "recipes/SterzPolenta.md",
     "recipes/SpaghettiAglioEOlio.md",
     "recipes/Rice.md",
-    "recipes/Pasta.md",
     "recipes/MolkereiGulasch.md",
-    "recipes/Knoedel_Semmel.md",
     "recipes/Kaiserschmarrn.md",
     "recipes/Gulasch_Beef.md",
-    "recipes/EggFriedRice.md",
-    "recipes/Chicken_Paprika.md",
-    "recipes/Ritschert.md",
-    "recipes/Spaetzle.md",
-    "recipes/Buchteln.md",
-    "gfx/PXL_20250413_031727090.jpg",
-    "gfx/PXL_20250413_031221242.jpg",
-    "gfx/PXL_20250413_031138428.jpg",
-    "gfx/PXL_20250412_113504363.jpg",
-    "gfx/PXL_20250412_024150021.jpg",
-    "gfx/PXL_20250406_034954726.jpg"
+    "recipes/EggFriedRice.md"
   ]
 }

@@ -8,14 +8,17 @@ country:
 duration_min: 
 todo: true
 theme: tre_light
-marp: true
+marp: false
 paginate: false
+aliases: 
+ingredients: 
+amounts: 
+acknowledgements: 
+links:
 ---
 
 
 # Nudeleintopf
-
-## Ingredients
 
 ## Recipe
 

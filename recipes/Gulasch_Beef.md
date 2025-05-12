@@ -15,7 +15,7 @@ paginate: false
 
 # Gulasch (Beef)
 
-![bg right](../../gfx/PXL_20250323_080123124~2.jpg)
+![bg right](../gfx/PXL_20250323_080123124.jpg)
 ## Ingredients
 
 ## Recipe
