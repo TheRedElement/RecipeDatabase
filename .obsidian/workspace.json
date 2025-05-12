@@ -11,11 +11,37 @@
             "id": "01ca2f2ef5bcc342",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Ritschert.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
+              "title": "Ritschert"
+            },
+            "group": "b6dd36591508eba0"
+          }
+        ]
+      },
+      {
+        "id": "667a5bb456f35d64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45d0f4638eaef41a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Ritschert.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ritschert"
+            },
+            "group": "b6dd36591508eba0"
           }
         ]
       }
@@ -291,8 +317,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "45d0f4638eaef41a",
   "lastOpenFiles": [
+    "recipes/Letscho.md",
     "recipes/Nudeleintopf.md",
     "conflict-files-obsidian-git.md",
     "recipes/Schinkenfleckerl.md",
@@ -311,7 +338,6 @@
     "gfx/PXL_20250308_103017032.jpg",
     "gfx/PXL_20250305_090156369.jpg",
     "recipes/Pancakes.md",
-    "recipes/Letscho.md",
     "README.md",
     "recipes/Apfelkren.md",
     "recipes/SpaghettiAgliSpinaci.md",
