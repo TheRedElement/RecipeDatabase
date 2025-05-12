@@ -4,44 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "29915ac8a7d2604c",
+        "id": "925c197c8aacb7f3",
         "type": "tabs",
         "children": [
           {
-            "id": "4f135634e4850347",
+            "id": "01ca2f2ef5bcc342",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/Nudeleintopf.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nudeleintopf"
-            },
-            "group": "68535ab820ded0ac"
-          }
-        ]
-      },
-      {
-        "id": "8cd775c762ae90ba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a844b2714c2a13ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/Nudeleintopf.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Nudeleintopf"
-            },
-            "group": "68535ab820ded0ac"
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -317,8 +291,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f135634e4850347",
+  "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/Nudeleintopf.md",
+    "conflict-files-obsidian-git.md",
+    "recipes/Schinkenfleckerl.md",
+    "gfx/PXL_20250503_040908636.jpg",
+    "gfx/PXL_20250502_132518317.jpg",
+    "gfx/PXL_20250427_050855859.jpg",
+    "gfx/PXL_20250422_091543344.jpg",
     "recipes/Ritschert.md",
     "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
     "recipes/PakrikaGeschnetzeltes.md",
@@ -329,8 +310,6 @@
     "gfx/PXL_20250310_023956351.jpg",
     "gfx/PXL_20250308_103017032.jpg",
     "gfx/PXL_20250305_090156369.jpg",
-    "gfx/PXL_20250302_022758726.MP.jpg",
-    "gfx/PXL_20250323_075626273.jpg",
     "recipes/Pancakes.md",
     "recipes/Letscho.md",
     "README.md",
@@ -338,8 +317,6 @@
     "recipes/SpaghettiAgliSpinaci.md",
     "recipes/Pasta.md",
     "recipes/ApfelKrenSuppe.md",
-    "gfx/PXL_20250420_025526263.jpg",
-    "gfx/PXL_20250421_040459972.jpg",
     "recipes/SpaghettiConPesto_Genovese.md",
     "recipes/Osterjause.md",
     "recipes/Poke Bowl.md",
@@ -351,9 +328,6 @@
     "recipes/SterzPolenta.md",
     "recipes/SpaghettiAglioEOlio.md",
     "recipes/Rice.md",
-    "recipes/MolkereiGulasch.md",
-    "recipes/Kaiserschmarrn.md",
-    "recipes/Gulasch_Beef.md",
-    "recipes/EggFriedRice.md"
+    "recipes/MolkereiGulasch.md"
   ]
 }
