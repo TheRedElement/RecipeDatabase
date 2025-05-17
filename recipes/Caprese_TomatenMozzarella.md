@@ -12,7 +12,7 @@ paginate: false
 
 # Caprese (Tomaten Mozzarella)
 
-![](../../gfx/PXL_20250318_080215440.jpg)
+![](../gfx/PXL_20250318_080215440.jpg)
 
 ## Ingredients
 

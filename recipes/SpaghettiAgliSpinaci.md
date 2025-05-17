@@ -13,7 +13,7 @@ paginate: false
 
 # Spaghetti agli Spinaci
 
-![](../../gfx/IMG_20240122_121558.jpg)
+![](../gfx/IMG_20240122_121558.jpg)
 
 ---
 ## Ingredients

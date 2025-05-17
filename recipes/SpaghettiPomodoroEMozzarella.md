@@ -13,7 +13,7 @@ paginate: false
 
 # Spaghetti Tomato e Mozzarella
 
-![](../../gfx/PXL_20250127_011922751.jpg)
+![](../gfx/PXL_20250127_011922751.jpg)
 
 ---
 

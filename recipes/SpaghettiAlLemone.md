@@ -13,7 +13,7 @@ paginate: false
 
 # Spaghetti al Lemone
 
-![](../../gfx/PXL_20250319_082227399.jpg)
+![](../gfx/PXL_20250319_082227399.jpg)
 ## Ingredients
 ## Recipe
 1. grate **lemon** to get zests

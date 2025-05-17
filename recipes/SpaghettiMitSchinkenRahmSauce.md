@@ -13,7 +13,7 @@ paginate: false
 
 # Spaghetti mit Schinken-Rahm Sauce
 
-![](../../gfx/PXL_20250308_103017032.jpg)
+![](../gfx/PXL_20250308_103017032.jpg)
 
 ---
 

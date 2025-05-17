@@ -37,13 +37,13 @@ paginate: false
 
 ### Baking the Pancakes
 1. griddle shall be at maximum heat for the start
-    1. water shall form drops and slide around ([leidenfrost effect](https://en.wikipedia.org/wiki/Leidenfrost_effect), [Leidenfrost, 1964](../../references/references.pdf))
-1. oil very well
+    1. water shall form drops and slide around ([leidenfrost effect](https://en.wikipedia.org/wiki/Leidenfrost_effect), [Leidenfrost, 1964](../references/references.pdf))
+2. oil very well
     1. use paper towel or something similar to evenly oil griddle with a thin layer
-1. to a well-oiled griddle add 60ml ($\frac{1}{4}$ cup) of [dough](#dough)
-1. griddle should be at medium heat
-1. when bubbles form on surface of pancake (3-4min) flip
-1. cook additional 1-2min
+3. to a well-oiled griddle add 60ml ($\frac{1}{4}$ cup) of [dough](#dough)
+4. griddle should be at medium heat
+5. when bubbles form on surface of pancake (3-4min) flip
+6. cook additional 1-2min
 
 ## Notes
 

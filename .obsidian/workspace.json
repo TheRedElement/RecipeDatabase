@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Ritschert.md",
+                "file": "recipes/SpaghettiPomodoroEMozzarella.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ritschert"
+              "title": "SpaghettiPomodoroEMozzarella"
             },
             "group": "d507df446c84efd6"
           }
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Ritschert.md",
+                "file": "recipes/SpaghettiPomodoroEMozzarella.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ritschert"
+              "title": "SpaghettiPomodoroEMozzarella"
             },
             "group": "d507df446c84efd6"
           }
@@ -90,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bg right",
+                "query": "../../",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -382,34 +382,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3fb6593ab6c4168",
+  "active": "cd757c9d9c4f2309",
   "lastOpenFiles": [
-    "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
-    "recipes/Ritschert.md",
-    "recipes/Tofu_Fried.md",
-    "recipes/SpaghettiPomodoroEMozzarella.md",
     "recipes/SpaghettiMitSchinkenRahmSauce.md",
-    "recipes/SpaghettiAlRagu.md",
     "recipes/SpaghettiAlLemone.md",
     "recipes/SpaghettiAgliSpinaci.md",
+    "recipes/RisottoAgliZucchini.md",
+    "recipes/Pancakes.md",
+    "recipes/Palatschinken.md",
+    "recipes/Oatmeal.md",
+    "recipes/MolkereiGulasch.md",
+    "recipes/LemonSoup.md",
+    "recipes/Kaesespaetzle.md",
+    "recipes/Griesssuppe_SemolinaSoup.md",
+    "recipes/EggFriedRice.md",
+    "recipes/Curry_Vegetables.md",
+    "recipes/Chicken_Teriyaki.md",
+    "recipes/Caprese_TomatenMozzarella.md",
+    "recipes/Ritschert.md",
+    "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
+    "recipes/Tofu_Fried.md",
+    "recipes/SpaghettiPomodoroEMozzarella.md",
+    "recipes/SpaghettiAlRagu.md",
     "recipes/SpaghettiAglioEOlio.md",
     "recipes/Schinkenfleckerl.md",
     "recipes/RisottoAllaZucca.md",
-    "recipes/RisottoAgliZucchini.md",
     "recipes/PokeBowl_Sauce.md",
     "recipes/Poke Bowl.md",
-    "recipes/Palatschinken.md",
     "recipes/Osterjause.md",
-    "recipes/Oatmeal.md",
-    "recipes/MolkereiGulasch.md",
-    "recipes/Milchreis.md",
-    "recipes/Letscho.md",
-    "recipes/LemonSoup.md",
-    "recipes/Knoedel_Semmel.md",
-    "recipes/Kaiserschmarrn.md",
-    "recipes/Kaesespaetzle.md",
-    "recipes/Gulasch_Beef.md",
-    "recipes/Griesssuppe_SemolinaSoup.md",
     "gfx/PXL_20250513_085158834.jpg",
     "gfx/PXL_20250507_090646098.jpg",
     "gfx/PXL_20250514_091842767.jpg",
