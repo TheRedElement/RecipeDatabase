@@ -57,7 +57,6 @@ links:
 
 ![](../../gfx/PXL_20250316_030704050.jpg)
 
----
 ## Recipe
 1. peel and chop **onion**, **potato**, **carrot**, **celery** into small cubes
 2. roast **onion** in oil in a large pot

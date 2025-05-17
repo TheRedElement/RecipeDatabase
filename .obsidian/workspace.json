@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Tofu_Fried.md",
+                "file": "recipes/Ritschert.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tofu_Fried"
+              "title": "Ritschert"
             },
             "group": "d507df446c84efd6"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Tofu_Fried.md",
+                "file": "recipes/Ritschert.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tofu_Fried"
+              "title": "Ritschert"
             },
             "group": "d507df446c84efd6"
           }
@@ -96,8 +96,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -370,6 +369,8 @@
   },
   "active": "b489b7de73de6677",
   "lastOpenFiles": [
+    "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
+    "recipes/Tofu_Fried.md",
     "recipes/SpaghettiPomodoroEMozzarella.md",
     "recipes/SpaghettiMitSchinkenRahmSauce.md",
     "recipes/SpaghettiAlRagu.md",
@@ -394,8 +395,6 @@
     "recipes/Kaesespaetzle.md",
     "recipes/Gulasch_Beef.md",
     "recipes/Griesssuppe_SemolinaSoup.md",
-    "recipes/Griessbrei.md",
-    "recipes/EggFriedRice.md",
     "gfx/PXL_20250513_085158834.jpg",
     "gfx/PXL_20250507_090646098.jpg",
     "gfx/PXL_20250514_091842767.jpg",
