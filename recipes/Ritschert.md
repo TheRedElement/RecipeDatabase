@@ -55,7 +55,7 @@ links:
 
 # Ritschert
 
-![bg right](../../gfx/PXL_20250316_030704050.jpg)
+![](../../gfx/PXL_20250316_030704050.jpg)
 
 ---
 ## Recipe

@@ -13,7 +13,7 @@ paginate: false
 
 # Lemon Soup
 
-![bg right](../../gfx/IMG_20241201_182535.jpg)
+![](../../gfx/IMG_20241201_182535.jpg)
 
 ---
 

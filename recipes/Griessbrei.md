@@ -30,7 +30,7 @@ links:
 
 
 # Grießbrei
-![bg right](../gfx/PXL_20250331_121458181.jpg)
+![](../gfx/PXL_20250331_121458181.jpg)
 ## Ingredients
 
 ## Recipe

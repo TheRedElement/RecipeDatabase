@@ -14,7 +14,7 @@ paginate: false
 
 # Palatschinken
 
-![bg right](../../gfx/PXL_20250329_031809635.jpg)
+![](../../gfx/PXL_20250329_031809635.jpg)
 
 ## Ingredients
 

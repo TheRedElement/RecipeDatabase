@@ -33,7 +33,7 @@ paginate: false
 
 
 # Apfel-Kren-Suppe
-![bg right](../gfx/PXL_20250421_040459972.jpg)
+![](../gfx/PXL_20250421_040459972.jpg)
 
 ## Recipe
 1. prepare [Vegetable Soup](Soup_Vegetables.md#Vegetable%20Soup)

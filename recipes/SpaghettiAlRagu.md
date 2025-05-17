@@ -45,7 +45,7 @@ links:
 ---
 
 # Spaghetti al Ragu
-![bg right](../gfx/PXL_20250406_034954726.jpg)
+![](../gfx/PXL_20250406_034954726.jpg)
 ## Ingredients
 
 ## Recipe

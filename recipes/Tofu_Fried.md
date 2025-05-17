@@ -33,7 +33,7 @@ paginate: false
 
 
 # Fried Tofu
-![bg right](../gfx/PXL_20250413_031138428.jpg)
+![](../gfx/PXL_20250413_031138428.jpg)
 ## Recipe
 1. chop **spring onions**, **garlic**
 2. press **tofu** block to get liquid out

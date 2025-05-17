@@ -41,7 +41,7 @@ paginate: false
 
 # Schinkenfleckerl
 
-![bg right](../gfx/PXL_20250427_050855859.jpg)
+![](../gfx/PXL_20250427_050855859.jpg)
 
 ## Recipe
 

@@ -33,7 +33,7 @@ links:
 
 # Chicken (Paprika)
 
-![bg right](../gfx/PXL_20250401_084821659.jpg)
+![](../gfx/PXL_20250401_084821659.jpg)
 ## Ingredients
 
 ## Recipe

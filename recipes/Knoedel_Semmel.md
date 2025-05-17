@@ -15,7 +15,7 @@ paginate: false
 
 # Knödel (Semmel)
 
-![bg right](../gfx/PXL_20250323_075626273.jpg)
+![](../gfx/PXL_20250323_075626273.jpg)
 ## Ingredients
 
 ## Recipe

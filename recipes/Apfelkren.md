@@ -28,7 +28,7 @@ paginate: false
 
 # Apfelkren
 
-![bg right](../gfx/PXL_20250420_025526263.jpg)
+![](../gfx/PXL_20250420_025526263.jpg)
 
 ## Recipe
 1. grate **horseradish**

@@ -13,7 +13,7 @@ paginate: false
 
 # Curry (Vegetables)
 
-![bg right](../../gfx/PXL_20250226_090918885.jpg)
+![](../../gfx/PXL_20250226_090918885.jpg)
 
 ---
 

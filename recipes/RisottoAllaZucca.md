@@ -42,7 +42,7 @@ links:
 
 # Risotto alla Zucca
 
-![bg right](../gfx/PXL_20250503_040908636.jpg)
+![](../gfx/PXL_20250503_040908636.jpg)
 
 ---
 

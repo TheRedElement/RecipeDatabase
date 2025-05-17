@@ -57,7 +57,7 @@ paginate: false
 
 
 # Poke Bowl
-![bg right](../gfx/PXL_20250413_031727090.jpg)
+![](../gfx/PXL_20250413_031727090.jpg)
 ## Recipe
 
 1. Combine various different options from [Base](#Base), [Protein](#Protein), [Veggies](#Veggies), [Sauce](#Sauce), [Toppings](#Toppings)

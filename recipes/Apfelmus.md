@@ -31,7 +31,7 @@ paginate: false
 
 
 # Apfelmus
-![bg right](../gfx/PXL_20250412_024150021.jpg)
+![](../gfx/PXL_20250412_024150021.jpg)
 ## Recipe
 1. rinse and peel apples
 2. remove apples core

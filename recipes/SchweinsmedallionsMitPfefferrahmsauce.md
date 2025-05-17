@@ -45,7 +45,7 @@ links:
 ---
 
 # Schweinsmedallions mit Pfefferrahmsauce
-
+![](../gfx/PXL_20250514_091842767.jpg)
 ## Recipe
 
 ### The Filets
@@ -78,9 +78,9 @@ links:
 8. let rest for $\approx1\,min$ (put lid on pan)
 
 ## Side
+* [PotatoWedges](PotatoWedges.md)
+* [Rice](Rice.md)
 * [Kroketten](Kroketten)
 * [Roesti](Roesti)
-* [Rice](Rice.md)
-* [Potatp Wedges](Potatp%20Wedges)
 
 ## Notes

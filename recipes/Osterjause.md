@@ -41,7 +41,7 @@ paginate: false
 - [ ] update ingredients once [Reindling](Reindling.md) done
 - [ ] update ingredients once [Osterpinze](Osterpinze.md) done
 
-![bg right](../gfx/IMG_20240330_142044.jpg)
+![](../gfx/IMG_20240330_142044.jpg)
 
 ## Recipe
 

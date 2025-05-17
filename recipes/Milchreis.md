@@ -13,7 +13,7 @@ paginate: false
 ---
 
 # Milchreis
-![bg right](../gfx/PXL_20250502_132518317.jpg)
+![](../gfx/PXL_20250502_132518317.jpg)
 
 ## Ingredients
 

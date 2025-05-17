@@ -14,7 +14,7 @@ paginate: false
 
 # Molkerei Gulasch
 
-![bg right](../../gfx/IMG_20231125_144736.jpg)
+![](../../gfx/IMG_20231125_144736.jpg)
 
 --
 

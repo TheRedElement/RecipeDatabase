@@ -14,7 +14,7 @@ paginate: false
 
 # Risotto Agli Zucchini
 
-![bg right](../../gfx/PXL_20250223_083411370.jpg)
+![](../../gfx/PXL_20250223_083411370.jpg)
 
 ---
 

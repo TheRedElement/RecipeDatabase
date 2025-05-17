@@ -13,7 +13,7 @@ paginate: false
 
 # Egg Fried Rice
 
-![bg right](../../gfx/PXL_20250310_023956351.jpg)
+![](../../gfx/PXL_20250310_023956351.jpg)
 
 ---
 

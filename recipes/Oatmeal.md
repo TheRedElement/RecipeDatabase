@@ -13,7 +13,7 @@ paginate: false
 
 # Oatmeal
 
-![bg right](../../gfx/PXL_20250313_200802642.jpg)
+![](../../gfx/PXL_20250313_200802642.jpg)
 
 ## Ingredients
 

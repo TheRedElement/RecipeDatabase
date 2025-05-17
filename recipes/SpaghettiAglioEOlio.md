@@ -32,7 +32,7 @@ links:
 
 # Spaghetti Aglio E Olio
 
-![bg right](../gfx/PXL_20250405_015652237.jpg)
+![](../gfx/PXL_20250405_015652237.jpg)
 ## Ingredients
 
 ## Recipe

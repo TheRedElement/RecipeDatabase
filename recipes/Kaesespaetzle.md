@@ -14,7 +14,7 @@ paginate: false
 
 # Käsespätzle
 
-![bg right](../../gfx/PXL_20250305_090156369.jpg)
+![](../../gfx/PXL_20250305_090156369.jpg)
 
 --- 
 

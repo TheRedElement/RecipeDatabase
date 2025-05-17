@@ -31,7 +31,7 @@ marp: false
 paginate: false
 ---
 # Kaiserschmarrn
-![bg right](../gfx/PXL_20250412_113504363.jpg)
+![](../gfx/PXL_20250412_113504363.jpg)
 ## Recipe
 ### Dough
 1. mix flour, eggs, sugar, salt, raisins, milk

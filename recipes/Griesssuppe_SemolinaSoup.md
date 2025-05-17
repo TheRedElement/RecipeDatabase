@@ -15,7 +15,7 @@ paginate: false
 
 # Grießsuppe (Semolina Soup)
 
-![bg right](../../gfx/IMG_20231126_184614.jpg)
+![](../../gfx/IMG_20231126_184614.jpg)
 
 ---
 

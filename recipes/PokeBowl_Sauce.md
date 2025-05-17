@@ -29,7 +29,7 @@ links:
 ---
 
 # Poke Bowl (Sauce)
-![bg right](../gfx/PXL_20250413_031221242.jpg)
+![ right](../gfx/PXL_20250413_031221242.jpg)
 ## Ingredients
 
 ## Recipe

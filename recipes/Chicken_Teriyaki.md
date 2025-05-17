@@ -13,7 +13,7 @@ paginate: false
 
 # Chicken (Teriyaki)
 
-![bg right](../../gfx/PXL_20250302_022758726.MP.jpg)
+![](../../gfx/PXL_20250302_022758726.MP.jpg)
 
 ---
 
