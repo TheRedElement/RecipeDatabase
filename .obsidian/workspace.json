@@ -29,6 +29,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1769e82a2386c16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SchweinsmedallionsMitPfefferrahmsauce"
+            }
+          },
+          {
             "id": "e3fb6593ab6c4168",
             "type": "leaf",
             "state": {
@@ -43,7 +57,8 @@
             },
             "group": "d507df446c84efd6"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -367,9 +382,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b489b7de73de6677",
+  "active": "e3fb6593ab6c4168",
   "lastOpenFiles": [
     "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
+    "recipes/Ritschert.md",
     "recipes/Tofu_Fried.md",
     "recipes/SpaghettiPomodoroEMozzarella.md",
     "recipes/SpaghettiMitSchinkenRahmSauce.md",
@@ -378,7 +394,6 @@
     "recipes/SpaghettiAgliSpinaci.md",
     "recipes/SpaghettiAglioEOlio.md",
     "recipes/Schinkenfleckerl.md",
-    "recipes/Ritschert.md",
     "recipes/RisottoAllaZucca.md",
     "recipes/RisottoAgliZucchini.md",
     "recipes/PokeBowl_Sauce.md",
