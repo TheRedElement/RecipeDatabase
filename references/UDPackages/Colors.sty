@@ -1,0 +1,55 @@
+%Template by Steinwender Lukas
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%- Package providing user defined colors
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%==============================================================
+%Identification:
+%The package identifies itself and the LaTeX version needed
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{Colors}[2024/11/12 v1.0 Colors for the document.]
+
+%==============================================================
+%Require packages and preliminary definitions needed
+\RequirePackage{xcolor}               %for colors
+
+
+
+%==============================================================
+
+\definecolor{redLS}{RGB}{161, 0, 0}         %characteristic LS color
+\definecolor{textcolor}{RGB}{0, 0, 0}       %global text color
+\definecolor{cfutureLS}{RGB}{180,180,180}   %color for future events
+
+%AuthorDocumentInfo
+\definecolor{colorToDo}{RGB}{255,255,0}     %ToDo on title page
+
+%IterationCommands
+\definecolor{colorToDoAll}{RGB}{5, 235, 215}    %ToDo concerning all authord
+\definecolor{ITcommLS}{RGB}{161, 33, 33}        %comment from LS
+\definecolor{ITtodoLS}{RGB}{255, 145, 0.0}      %TODO concerning LS
+
+%TextFormatting
+\definecolor{minbetweenLS}{rgb}{0.7,0.7,0.7}    %for inbetween solutions in derivations (math)
+
+%links, crossreferences and floats
+\definecolor{urlcolor}{RGB}{161, 0, 0}          %color for urls and crossreferences
+\definecolor{captioncolor}{RGB}{0, 0, 0}        %color for captions
+\definecolor{captiontextcolor}{RGB}{0, 0, 0}    %color for text in captions
+\definecolor{bibcolorLS}{RGB}{120, 0, 0}        %color for my publications
+
+%listings/code
+\definecolor{codebackground_color}{RGB}{30, 30, 30}
+\definecolor{codeconstant_color}{RGB}{86, 156, 214} %#569CD6
+\definecolor{codecomment_color}{RGB}{106, 153, 85}   %#6A9955
+\definecolor{codestring_color}{RGB}{206, 145, 120}    %#D16969, ##CE9178
+\definecolor{codenumeric_color}{RGB}{181, 206, 168}  %#B5CEA8
+\definecolor{codekeyword_color}{RGB}{197, 134, 192}  %#569CD6, #C586C0
+
+
+%==============================================================
+
+

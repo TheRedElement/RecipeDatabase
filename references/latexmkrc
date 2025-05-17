@@ -1,0 +1,5 @@
+#NOTE: Further parameters to pass to latexmk
+#use ``#'' for comments
+
+ensure_path( 'TEXINPUTS', './UDPackages//' );
+# set_tex_cmds( '--shell-escape %O %S' );         #to make svg package work (enables call of inkscape)

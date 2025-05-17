@@ -1,0 +1,142 @@
+%%%%%%%%%%%%%%%%%%
+%Utility commands%
+%%%%%%%%%%%%%%%%%%
+\newcommand{\documentlanguage}{english}
+% \newcommand{\documentlanguage}{german}
+\newcommand{\globalshowhidecomments}{showcomments}
+% \renewcommand{\globalshowhidecomments}{hidecomments}
+\newcommand{\printmonochrome}{}
+% \renewcommand{\printmonochrome}{monochrome}
+
+\RequirePackage[\printmonochrome]{xcolor}       %switch to render B&W or Color
+
+\documentclass[
+    % twoside,                %activate when using `book`
+    bibliography=totoc      %show bibliography in toc
+]{article}
+% ]{book}
+\usepackage[                        %page layout modifications
+	paper=a4paper,					%- use A4 paper size
+    inner=1in,                      %- margin near the binding (typical default for a4: 1in)
+    outer=1in,                      %- margin away from the binding (typical default for a4: 1in)
+	bindingoffset=0.45in,			  %- binding correction	(typical default for a4: .45in)
+    % scale={0.86,0.94},			  %- total body size (h,v)
+	% scale={0.86,0.94},			  %- total body size (h,v)
+	% nohead,						  %- no header
+	% includefoot,					  %- include footer space
+	% includemp,					  %- include side note space
+	% top=2.25cm,					  %- total body: top margin
+	% left=3.75cm,					  %- total body: left margin (odd pages)
+	% right=0.75cm,					  %- total body: right margin (odd pages)
+	bottom=3cm,				        %- total body: bottom margin
+	% marginparwidth=1.75cm,		  %- width for side note
+	% marginparsep=2pt,				  %- space between notes and body text (content)
+	footskip=1.5cm,					%- footer skip size
+]{geometry}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Load and Configure Packages%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%UDPackages
+%----------
+%(User defined packages)
+\usepackage{Colors}             %NOTE: Needs to be loaded first!
+\usepackage{Shortcuts}
+
+%Other packages (alphabetically if no interdependencies)
+%-------------------------------------------------------
+\usepackage[\documentlanguage]{babel}   %babel system, adjust the language of the content
+\usepackage{hyperref}                   %for cross referencing, active urls ect. 
+
+
+%setup the hyperref-package
+%--------------------------
+\hypersetup{					
+	% pdftitle={\thesisTitle},	      % 	- title (PDF meta)
+	% pdfsubject={\thesisSubject},    % 	- subject (PDF meta)
+	% pdfauthor={\thesisName},	      % 	- author (PDF meta)
+	plainpages=false,			    %
+	colorlinks=true,			    %colorize links?
+	citecolor=urlcolor,             %
+    linkcolor=urlcolor,             %
+    urlcolor=urlcolor,              %
+    pdfborder={0 0 0},			    %
+	breaklinks=true,			    %allow line break inside links
+	bookmarksnumbered=true,		    %
+	bookmarksopen=true			    %
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%set up bibliography and citing%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%load and configure biblatex
+%---------------------------
+\usepackage[
+    bibencoding=utf8,
+    maxbibnames=99,                 %Maximum number of authors to display in bibliography
+    minbibnames=5,                  %Minimum number of authors to display in bibloography
+    backend=biber,
+    style=authoryear,               %for astronomy
+    % style=ieee,                     %for computer-science
+    % style=numeric,                  %needed to have enumeration in List of Publications
+    natbib=true,
+    % defernumbers=true,              %needed for enumearating references
+    % labelnumber=true,
+    % sorting=ynt,                    %sort by year, name, title
+    % dashed=false,                   %no dashes for repeating autornames
+]{biblatex}
+
+%add file(s) where bib looks up stuff
+%------------------------------------
+\addbibresource{bib-refs/bib-refs.bib}                %for adding a file where bib looks up stuff
+
+% %add my publications
+% %-------------------
+% \addbibresource{bib-refs/bib-refs-mypublications.bib}
+
+% %category for my publications
+% % https://tex.stackexchange.com/questions/470035/filter-by-a-list-of-bibkey-on-printbibliograhy
+% \DeclareBibliographyCategory{pubsLS}
+% \DeclareBibliographyCategory{pubsLS_nonrefereed}
+% \DeclareBibliographyCategory{pubsLS_refereed}
+% \DeclareBibliographyCategory{media}
+% \addtocategory{pubsLS}{Steinwender2022_MLRRLyr_Steinwender}
+% \addtocategory{pubsLS}{Beck2022_SB9_Steinwender}
+% \addtocategory{pubsLS}{Beck2023_GaiaBinaryRG_Steinwender}
+% \addtocategory{pubsLS}{Steinwender2023_UnsupRRLyr_Steinwender}
+% \addtocategory{pubsLS_nonrefereed}{Steinwender2022_MLRRLyr_Steinwender}
+% \addtocategory{pubsLS_nonrefereed}{Steinwender2023_UnsupRRLyr_Steinwender}
+% \addtocategory{pubsLS_refereed}{Beck2022_SB9_Steinwender}
+% \addtocategory{pubsLS_refereed}{Beck2023_GaiaBinaryRG_Steinwender}
+% \addtocategory{media}{Unigraz2017}
+
+\usepackage[
+    babel,
+    strict=true,                    %makes warnings into errors
+    german=quotes
+]{csquotes}  %german citing-style 
+
+%correct default u.a to et. al.
+%------------------------------
+\DefineBibliographyStrings{german}{andothers={et\addabbrvspace al\adddot}}  
+
+%redefine \cite to \citet [Name et. al., 2015 --> Name et. al. (2015)]
+%---------------------------------------------------------------------
+\let\cite\citet     %comment if no authors shall be displayed at all
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%================
+%DOCUMENT CONTENT
+%================
+
+\begin{document}
+
+\nocite{*}
+\printbibliography[heading=bibintoc]
+
+
+\end{document}

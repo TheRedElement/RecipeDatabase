@@ -1,0 +1,179 @@
+%Template by Steinwender Lukas
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%- Package providing commands for shortcuts to various
+%   --> journals
+%   --> satellites
+%   --> telescopes
+%   --> codes
+%   --> databases
+%   --> and other things that might come in handy while writing
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%==============================================================
+%Identification:
+%The package identifies itself and the LaTeX version needed
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{Shortcuts}[2021/10/14 v1.0 Commands for shortcuts to journals and other things that might come in handy]
+
+%==============================================================
+%Require packages and preliminary definitions needed
+
+\RequirePackage{verbatim}               %for comment blocks
+\RequirePackage{ifthen}                 %for if-else
+\RequirePackage{bbold}
+
+
+
+%==============================================================
+%Handle options that might be passed to the package
+
+
+%==============================================================
+%Definitions are done here
+%NOTES:
+%- Try sorting alphabetically for easy finding
+%- Look through your bib-refs.bib file to find other journals that might not have been implemented yet
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Various shortcuts for journals%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\aap}{Astronomy and Astrophysics}
+\newcommand{\aaps}{Astronomy and Astrophysics Supplement}
+\newcommand{\aapr}{The Astronomy and Astrophysics Review}
+\newcommand{\aj}{Astronomical Journal}
+\newcommand{\apj}{The Astrophysical Journal}
+\newcommand{\apjl}{The Astrophysical Journal}
+\newcommand{\apjs}{The Astrophysical Journal Supplement}
+\newcommand{\araa}{Annual Review of Astronomy and Astrophysics}
+\newcommand{\mnras}{Monthly Notices of the RAS}
+\newcommand{\nat}{Nature}
+\newcommand{\pasp}{Publications of the Astronomical Society of the Pacific}
+\newcommand{\ssr}{Space Science Reviews}
+
+
+%cities and places
+%-----------------
+\ifthenelse{\equal{\documentlanguage}{german}}
+{
+    \newcommand{\austria}{Österreich}
+}
+{
+    \newcommand{\austria}{Austria}
+}
+
+%academic titles
+%---------------
+\newcommand{\bsc}{BSc}
+\newcommand{\msc}{MSc}
+\newcommand{\di}{Dipl.-Ing.\,}
+\newcommand{\dr}{Dr.\,}
+\newcommand{\phd}{Ph.D.}
+\newcommand{\prof}{Prof.\,}
+
+%Math
+%----
+\newcommand{\diag}{\mathrm{diag}}
+\newcommand{\mat}[1]{\mathbf{#1}}
+\newcommand{\mean}{\mathrm{mean}}
+\newcommand{\median}{\mathrm{median}}
+\newcommand{\mse}{\mathrm{mse}}
+\newcommand{\Onemat}{\mathbbm{1}}
+\newcommand{\optconstraint}[1]{\text{s.t. }#1}  %optimality constraints
+\newcommand{\prox}{\mathrm{prox}}               %proximal operator
+\newcommand{\Rbb}{\mathbb{R}}
+\newcommand{\sign}{\mathrm{sgn}}                %sign operator
+\newcommand{\softmax}{\mathrm{softmax}}
+\newcommand{\svd}{\mathrm{SVD}}                %sign operator
+\newcommand{\tr}{\mathrm{tr}}                %sign operator
+\newcommand{\var}[1]{\mathrm{var}\left\{#1\right\}} %variance operator
+% \renewcommand{\vec}[1]{\mathbf{#1}}
+
+
+%units
+%-----
+\newcommand{\minutes}{\mathrm{min}}
+
+%skilllevels
+%-----------
+\ifthenelse{\equal{\documentlanguage}{german}}
+{
+    \newcommand{\lvA}{Grundkenntnisse}
+    \newcommand{\lvB}{Grund - Fortgeschrittenen Kenntnisse}
+    \newcommand{\lvC}{Fortgeschrittenen Kenntnisse}
+    \newcommand{\lvD}{Fortgeschrittenen - Experten Kenntnisse}
+    \newcommand{\lvE}{Experten Kenntnisse}
+    
+    %CEFR https://www.europaeischer-referenzrahmen.de/sprachniveau.php
+    \newcommand{\lvlangA}{A2}
+    \newcommand{\lvlangB}{B1}
+    \newcommand{\lvlangC}{B2}
+    \newcommand{\lvlangD}{C1}
+    \newcommand{\lvlangE}{C2}
+}
+{
+    \newcommand{\lvA}{Basic knowledge}
+    \newcommand{\lvB}{Basic - Advanced knowledge}
+    \newcommand{\lvC}{Advanced knowledge}
+    \newcommand{\lvD}{Advanced - Expert knowledge}
+    \newcommand{\lvE}{Expert knowledge}
+
+    \newcommand{\lvlangA}{Elementary Proficiency}
+    \newcommand{\lvlangB}{Limited Working Proficiency}
+    \newcommand{\lvlangC}{Professional Working Proficiency}
+    \newcommand{\lvlangD}{Full Professional Proficiency}
+    % \newcommand{\lvlangE}{Mother Tongue}
+    \newcommand{\lvlangE}{Native/Bilingual Proficiency}
+}
+
+
+%Sports
+%------
+%tournaments
+\newcommand{\pastates}{Durabird PA States}
+\newcommand{\karntnerms}{Kärntner Meisterschaften}
+\ifthenelse{\equal{\documentlanguage}{german}}
+{
+    \newcommand{\bundesliga}{Bundesliga}
+}
+{
+    \newcommand{\bundesliga}{National League}
+}
+
+%events
+\newcommand{\menssingles}{Men's Singles}
+\newcommand{\xdoubles}{Mix Doubles}
+\newcommand{\mensdoubles}{Men's Doubles}
+
+%placements
+\ifthenelse{\equal{\documentlanguage}{german}}
+{
+    \newcommand{\first}{\textbf{Meister}}
+    \newcommand{\second}{\textbf{Vizemeister}}
+}
+{
+    \newcommand{\first}{\textbf{Master}}
+    \newcommand{\second}{\textbf{Runner-Up}}
+}
+
+
+%Utilities
+%---------
+\ifthenelse{\equal{\documentlanguage}{english}}
+{
+    \newcommand{\ongoing}{Ongoing}
+    \newcommand{\player}{Player}
+}
+{
+    \newcommand{\ongoing}{Dato}
+    \newcommand{\player}{Spieler}
+}
+
+
+%Document Specific
+%-----------------
+
+%==============================================================
+
