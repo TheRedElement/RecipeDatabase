@@ -6,6 +6,7 @@
       {
         "id": "29915ac8a7d2604c",
         "type": "tabs",
+        "dimension": 51.29533678756477,
         "children": [
           {
             "id": "b489b7de73de6677",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/SpaghettiPomodoroEMozzarella.md",
+                "file": "recipes/ChilliConCarne.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SpaghettiPomodoroEMozzarella"
+              "title": "ChilliConCarne"
             },
             "group": "d507df446c84efd6"
           }
@@ -27,6 +28,7 @@
       {
         "id": "ab785e09e4f75b00",
         "type": "tabs",
+        "dimension": 48.704663212435236,
         "children": [
           {
             "id": "1769e82a2386c16c",
@@ -48,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/SpaghettiPomodoroEMozzarella.md",
+                "file": "recipes/ChilliConCarne.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SpaghettiPomodoroEMozzarella"
+              "title": "ChilliConCarne"
             },
             "group": "d507df446c84efd6"
           }
@@ -115,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 204.5
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -346,6 +348,36 @@
             "id": "b20aaef294997d6b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6db8e8eb2cf7464e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "94a3e35f32cf8406",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "fcb4d7ff8dee0e02",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -353,7 +385,7 @@
             }
           },
           {
-            "id": "6db8e8eb2cf7464e",
+            "id": "a5cf64023b5da05a",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -382,8 +414,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd757c9d9c4f2309",
+  "active": "b489b7de73de6677",
   "lastOpenFiles": [
+    "recipes/Nudeleintopf.md",
+    "README.md",
+    "recipes/Apfelmus.md",
+    "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
+    "recipes/Chicken_Mozzarella.md",
+    "recipes/Apfelkren.md",
+    "recipes/Pancakes.md",
+    "references/references.pdf",
+    "recipes/SpaghettiPomodoroEMozzarella.md",
     "references/references.synctex(busy)",
     "references/pdflatex9993.fls",
     "references/pdflatex9989.fls",
@@ -393,13 +434,10 @@
     "references/references.blg",
     "references/references.run.xml",
     "references/references.bcf",
-    "references/references.out",
-    "references/references.log",
     "recipes/SpaghettiMitSchinkenRahmSauce.md",
     "recipes/SpaghettiAlLemone.md",
     "recipes/SpaghettiAgliSpinaci.md",
     "recipes/RisottoAgliZucchini.md",
-    "recipes/Pancakes.md",
     "recipes/Palatschinken.md",
     "recipes/Oatmeal.md",
     "recipes/MolkereiGulasch.md",
@@ -411,15 +449,9 @@
     "recipes/Chicken_Teriyaki.md",
     "recipes/Caprese_TomatenMozzarella.md",
     "recipes/Ritschert.md",
-    "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
     "recipes/Tofu_Fried.md",
-    "recipes/SpaghettiPomodoroEMozzarella.md",
     "recipes/SpaghettiAlRagu.md",
     "recipes/SpaghettiAglioEOlio.md",
-    "recipes/Schinkenfleckerl.md",
-    "recipes/RisottoAllaZucca.md",
-    "recipes/PokeBowl_Sauce.md",
-    "recipes/Poke Bowl.md",
     "gfx/PXL_20250513_085158834.jpg",
     "gfx/PXL_20250507_090646098.jpg",
     "gfx/PXL_20250514_091842767.jpg",

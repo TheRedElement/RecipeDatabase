@@ -1,33 +1,72 @@
 ---
-tags:
-  - 
-category: cooking
-country:
+tags: 
+category:
+  - cooking
+country: 
 duration_min: 
-todo: false
-
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+ingredients:
+  - water
+  - tomato
+  - corn
+  - beans
+  - bread rolls
+  - garlic
+  - capsicum
+  - onion
+  - chili
+  - tomato paste
+  - bread
+  - minced meat
+  - pepper
+  - salt
+  - oil
+  - soup seasoning (vegetables)
+  - pepper spice
+  - tumeric
+amounts:
+  - 500ml
+  - 500g
+  - 250g
+  - 220g
+  - "10"
+  - "3"
+  - "2"
+  - "1"
+  - "1"
+  - "1"
+  - "0.5"
+  - "0.5"
+  - "0"
+  - "0"
+  - "0"
+  - "0"
+  - "0"
+  - "0"
+acknowledgements: 
+links:
 ---
 
-# Chilli con Carne
 
-## Ingredients
+# Chilli con Carne
 
 ## Recipe
 
 1. chop **onions**, **peppers**, **garlic**
-1. heat **oil** in big pot
-1. roast chopped onions
-1. add **minced meat**
+2. heat **oil** in big pot
+3. roast chopped onions
+4. add **minced meat**
     1. sear in pot
-1. add **tomato paste**, **tomatoes**, **water** + **soup seasoning**
-    1. let simmer for ~20min
-1. season to taste with **garlic powder**, **salt**, **pepper**, **pepper powder**, **turmeric**
-1. add **beans**, **corn**, **peppers**
-1. add **chilli** to taste and wished spiciness
-1. let brew for ~20min on low heat
+5. add **tomato paste**, **tomatoes**, **water** + **soup seasoning**
+    1. let simmer for $\approx20\,min$
+6. season to taste with **garlic powder**, **salt**, **pepper**, **pepper powder**, **turmeric**
+7. add **beans**, **corn**, **peppers**
+8. add **chilli** to taste and wished spiciness
+9. let brew for $\approx20\,min$ on low heat
 
 ## Side
 * **bread (white)**
