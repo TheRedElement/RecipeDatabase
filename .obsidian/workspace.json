@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/RisottoBolognese.md",
+                "file": "recipes/PotatoWedges.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "RisottoBolognese"
+              "title": "PotatoWedges"
             },
             "group": "d507df446c84efd6"
           }
@@ -31,36 +31,21 @@
         "dimension": 48.704663212435236,
         "children": [
           {
-            "id": "1769e82a2386c16c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "SchweinsmedallionsMitPfefferrahmsauce"
-            }
-          },
-          {
             "id": "e3fb6593ab6c4168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/RisottoBolognese.md",
+                "file": "recipes/PotatoWedges.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "RisottoBolognese"
+              "title": "PotatoWedges"
             },
             "group": "d507df446c84efd6"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5,
-    "collapsed": true
+    "width": 204.5
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -389,6 +373,16 @@
             "id": "a5cf64023b5da05a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4f601cd67554c99e",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -396,7 +390,7 @@
             }
           },
           {
-            "id": "4f601cd67554c99e",
+            "id": "4cf78ba6791cd177",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -425,12 +419,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b489b7de73de6677",
+  "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/ChilliConCarne.md",
+    "recipes/OvenSettings.md",
+    "gfx/oven_grill.png.crdownload",
+    "gfx/oven_bottomheat.png.crdownload",
+    "gfx/oven_fangrill.png.crdownload",
+    "gfx/oven_pizza.png.crdownload",
+    "gfx/oven_conventional.png.crdownload",
+    "gfx/oven_fanforced.png.crdownload",
+    "gfx/oven_fanassist.png",
+    "gfx/oven_fanassist.png.crdownload",
+    "gfx/oven_bottomheat.png",
+    "gfx/oven_conventional.png",
+    "gfx/oven_fanforced.png",
+    "gfx/oven_fangrill.png",
+    "gfx/oven_grill.png",
+    "gfx/oven_pizza.png",
+    "gfx/oven_topheat.png",
+    "recipes/PotatoWedges.md",
+    "gfx/PXL_20250601_112637795.jpg",
+    "recipes/MolkereiGulasch.md",
+    "gfx/PXL_20250527_044942054.jpg",
     "recipes/Soup_Vegetables.md",
+    "recipes/NudelMitEi.md",
     "recipes/RisottoBolognese.md",
     "recipes/RisottoAllaZucca.md",
-    "recipes/ChilliConCarne.md",
     "recipes/Nudeleintopf.md",
     "README.md",
     "recipes/Apfelmus.md",
@@ -442,36 +457,14 @@
     "recipes/SpaghettiPomodoroEMozzarella.md",
     "references/references.synctex(busy)",
     "references/pdflatex9993.fls",
-    "references/pdflatex9989.fls",
-    "references/references.synctex.gz",
-    "references/pdflatex9987.fls",
-    "references/references.bbl",
-    "references/references.blg",
-    "references/references.run.xml",
-    "references/references.bcf",
     "recipes/SpaghettiMitSchinkenRahmSauce.md",
     "recipes/SpaghettiAlLemone.md",
     "recipes/SpaghettiAgliSpinaci.md",
     "recipes/RisottoAgliZucchini.md",
     "recipes/Palatschinken.md",
     "recipes/Oatmeal.md",
-    "recipes/MolkereiGulasch.md",
     "recipes/LemonSoup.md",
     "recipes/Kaesespaetzle.md",
-    "recipes/Griesssuppe_SemolinaSoup.md",
-    "recipes/EggFriedRice.md",
-    "recipes/Curry_Vegetables.md",
-    "recipes/Chicken_Teriyaki.md",
-    "recipes/Caprese_TomatenMozzarella.md",
-    "gfx/PXL_20250513_085158834.jpg",
-    "gfx/PXL_20250507_090646098.jpg",
-    "gfx/PXL_20250514_091842767.jpg",
-    "gfx/PXL_20250514_091642478.jpg",
-    "gfx/PXL_20250323_080123124.jpg",
-    "gfx/PXL_20250323_075626273.jpg",
-    "gfx/PXL_20250316_030704050.jpg",
-    "gfx/IMG_20231108_130236.jpg",
-    "gfx/PXL_20250421_040459972.jpg",
-    "gfx/PXL_20250503_040908636.jpg"
+    "recipes/Griesssuppe_SemolinaSoup.md"
   ]
 }

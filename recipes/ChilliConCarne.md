@@ -4,7 +4,7 @@ category:
   - cooking
 country: 
 duration_min: 
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false
@@ -53,7 +53,7 @@ links:
 
 
 # Chilli con Carne
-
+![](../gfx/PXL_20250601_112637795.jpg)
 ## Recipe
 
 1. chop **onions**, **peppers**, **garlic**

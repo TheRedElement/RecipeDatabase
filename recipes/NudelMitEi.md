@@ -12,6 +12,7 @@ paginate: false
 ---
 
 # Nudel mit Ei
+![](../gfx/PXL_20250518_032953551.jpg)
 
 ## Ingredients
 

@@ -12,7 +12,7 @@ paginate: false
 ---
 
 # Vegetable Soup
-
+![](../gfx/PXL_20250526_091042688.jpg)
 ## Ingredients
 
 ## Recipe
