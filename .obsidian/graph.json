@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "[\"todo\":false]",
+  "collapse-filter": true,
+  "search": "[\"todo\":true]",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.335753870409862,
+  "scale": 0.41540234008180926,
   "close": false
 }

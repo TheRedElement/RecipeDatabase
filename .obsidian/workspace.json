@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/ChilliConCarne.md",
+                "file": "recipes/RisottoBolognese.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ChilliConCarne"
+              "title": "RisottoBolognese"
             },
             "group": "d507df446c84efd6"
           }
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/ChilliConCarne.md",
+                "file": "recipes/RisottoBolognese.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ChilliConCarne"
+              "title": "RisottoBolognese"
             },
             "group": "d507df446c84efd6"
           }
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -378,6 +379,16 @@
             "id": "fcb4d7ff8dee0e02",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "a5cf64023b5da05a",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -385,7 +396,7 @@
             }
           },
           {
-            "id": "a5cf64023b5da05a",
+            "id": "4f601cd67554c99e",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -416,6 +427,10 @@
   },
   "active": "b489b7de73de6677",
   "lastOpenFiles": [
+    "recipes/Soup_Vegetables.md",
+    "recipes/RisottoBolognese.md",
+    "recipes/RisottoAllaZucca.md",
+    "recipes/ChilliConCarne.md",
     "recipes/Nudeleintopf.md",
     "README.md",
     "recipes/Apfelmus.md",
@@ -448,10 +463,6 @@
     "recipes/Curry_Vegetables.md",
     "recipes/Chicken_Teriyaki.md",
     "recipes/Caprese_TomatenMozzarella.md",
-    "recipes/Ritschert.md",
-    "recipes/Tofu_Fried.md",
-    "recipes/SpaghettiAlRagu.md",
-    "recipes/SpaghettiAglioEOlio.md",
     "gfx/PXL_20250513_085158834.jpg",
     "gfx/PXL_20250507_090646098.jpg",
     "gfx/PXL_20250514_091842767.jpg",
