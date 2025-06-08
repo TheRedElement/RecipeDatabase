@@ -25,7 +25,7 @@ paginate: false
     1. to unfreeze/evaporate water
 1. fill up with **cream**
 1. once it came to a boil add **feta cheese**
-1. season with **salt**, **pepper**, **tumeric**, **lemon**, (**green goddess seasoning blend**)
+2. season with **salt**, **pepper**, **turmeric**, **lemon**, (**green goddess seasoning blend**)
     1. (can be substituted with **soup seasoning**)
 
 ## Notes

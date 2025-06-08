@@ -27,7 +27,7 @@ ingredients:
   - oil
   - soup seasoning (vegetables)
   - pepper spice
-  - tumeric
+  - turmeric
 amounts:
   - 500ml
   - 500g

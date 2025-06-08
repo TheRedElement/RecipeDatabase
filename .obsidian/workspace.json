@@ -6,7 +6,7 @@
       {
         "id": "29915ac8a7d2604c",
         "type": "tabs",
-        "dimension": 51.29533678756477,
+        "dimension": 38.63636363636363,
         "children": [
           {
             "id": "b489b7de73de6677",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/PotatoWedges.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PotatoWedges"
+              "title": "README"
             },
             "group": "d507df446c84efd6"
           }
@@ -28,7 +28,7 @@
       {
         "id": "ab785e09e4f75b00",
         "type": "tabs",
-        "dimension": 48.704663212435236,
+        "dimension": 61.36363636363637,
         "children": [
           {
             "id": "e3fb6593ab6c4168",
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/PotatoWedges.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PotatoWedges"
+              "title": "README"
             },
             "group": "d507df446c84efd6"
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "../../",
+                "query": "tumeric",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -383,6 +383,26 @@
             "id": "4f601cd67554c99e",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "4cf78ba6791cd177",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b829eeaee675c1db",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -390,7 +410,7 @@
             }
           },
           {
-            "id": "4cf78ba6791cd177",
+            "id": "609d7368038d14cf",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -421,7 +441,15 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/DahlCurry_SriLanka.md",
+    "recipes/DahlCurry_SriLanka.pdf",
+    "recipes/Untitled.md",
+    "recipes/DahlCurry_SriLanka.html",
     "recipes/ChilliConCarne.md",
+    "recipes/SpaghettiAgliSpinaci.md",
+    "gfx/PXL_20250608_041626270.jpg",
+    "recipes/Egg_Fried.md",
+    "recipes/PotatoWedges.md",
     "recipes/OvenSettings.md",
     "gfx/oven_grill.png.crdownload",
     "gfx/oven_bottomheat.png.crdownload",
@@ -438,10 +466,8 @@
     "gfx/oven_grill.png",
     "gfx/oven_pizza.png",
     "gfx/oven_topheat.png",
-    "recipes/PotatoWedges.md",
     "gfx/PXL_20250601_112637795.jpg",
     "recipes/MolkereiGulasch.md",
-    "gfx/PXL_20250527_044942054.jpg",
     "recipes/Soup_Vegetables.md",
     "recipes/NudelMitEi.md",
     "recipes/RisottoBolognese.md",
@@ -455,16 +481,10 @@
     "recipes/Pancakes.md",
     "references/references.pdf",
     "recipes/SpaghettiPomodoroEMozzarella.md",
-    "references/references.synctex(busy)",
-    "references/pdflatex9993.fls",
     "recipes/SpaghettiMitSchinkenRahmSauce.md",
     "recipes/SpaghettiAlLemone.md",
-    "recipes/SpaghettiAgliSpinaci.md",
     "recipes/RisottoAgliZucchini.md",
     "recipes/Palatschinken.md",
-    "recipes/Oatmeal.md",
-    "recipes/LemonSoup.md",
-    "recipes/Kaesespaetzle.md",
-    "recipes/Griesssuppe_SemolinaSoup.md"
+    "recipes/Oatmeal.md"
   ]
 }
