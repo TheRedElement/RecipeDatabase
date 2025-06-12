@@ -40,7 +40,7 @@ amounts:
   - "1"
   - "1"
   - "1"
-  - "0"
+  - "150g"
   - 0.2kg
   - "0"
   - "0"
@@ -65,6 +65,7 @@ links:
 	1. roast alongside for a short time (no crunchyness wanted)
 7. add **tomato-sauce**
 	1. season with **salt**, **pepper**, **italian herbs seasoning blend**
+8. add **bay leave**
 8. add **rice**
 	1. let roast for about $2\,min$
 9. pour in (**wine**), [vegetable broth](Soup_Vegetables.md) until fully absorbed
