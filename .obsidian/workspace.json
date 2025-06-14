@@ -6,7 +6,7 @@
       {
         "id": "29915ac8a7d2604c",
         "type": "tabs",
-        "dimension": 38.63636363636363,
+        "dimension": 52.94759825327511,
         "children": [
           {
             "id": "b489b7de73de6677",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "recipes/DahlCurry_SriLanka.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "DahlCurry_SriLanka"
             },
             "group": "d507df446c84efd6"
           }
@@ -28,7 +28,7 @@
       {
         "id": "ab785e09e4f75b00",
         "type": "tabs",
-        "dimension": 61.36363636363637,
+        "dimension": 47.05240174672489,
         "children": [
           {
             "id": "e3fb6593ab6c4168",
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "recipes/DahlCurry_SriLanka.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "DahlCurry_SriLanka"
             },
             "group": "d507df446c84efd6"
           }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -403,6 +404,16 @@
             "id": "b829eeaee675c1db",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "609d7368038d14cf",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -410,7 +421,7 @@
             }
           },
           {
-            "id": "609d7368038d14cf",
+            "id": "8fba09651137256f",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -441,6 +452,8 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/Curry_Chicken.md",
+    "README.md",
     "recipes/DahlCurry_SriLanka.md",
     "recipes/DahlCurry_SriLanka.pdf",
     "recipes/Untitled.md",
@@ -473,7 +486,6 @@
     "recipes/RisottoBolognese.md",
     "recipes/RisottoAllaZucca.md",
     "recipes/Nudeleintopf.md",
-    "README.md",
     "recipes/Apfelmus.md",
     "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
     "recipes/Chicken_Mozzarella.md",

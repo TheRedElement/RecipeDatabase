@@ -75,17 +75,22 @@ paginate: false
 1. rinse **lentils (red)** 2-3 times
 	1. get rid of starch
 2. add a little **water** (such that the **lentils (red)** are covered) and set aside
-3. chop **onion**, **garlic**, **chili (green)**, **pandan leave**
-	1. just chop **garlic** do not mince!
-4. in pot add **lentils (red)**, **chili (green)**
-5. add $\frac{2}{3}$ of **onion**,  **garlic**, **pandan leave**, **curry leave**, **cinnamon stick**
-6. add spices
-	1. **salt**, **curry powder (sri lanka)**, **fenugreek seed** (ground), **turmeric**, **cumin**, **cardamon**, **chili powder**
-7. add **water**, $\frac{1}{3}$ of **coconut milk**
-8. let simmer until **lentils (red)** are cooked through (loose their color - turn from red/orange to yellow)
+3. slice **onion**, **garlic**, **chili (green)**, **pandan leave**
+	1. just slice **garlic** do not mince!
+4. add **lentils (red)** to pot
+5. add a little **water** (just enough to cover the **lentils (red)**)
+6. add **chili (green)** to pot
+7. add $\frac{2}{3}$ of **onion**,  **garlic**, **pandan leave**, **curry leave**, **cinnamon stick**
+8. add spices
+	1. **salt**, **curry powder (sri lanka)**, **fenugreek seed** (roasted), **turmeric**, **cumin**, **cardamon**, **chili powder**
+9. dilute $0.5\,cup$ of **coconut milk** in $0.5\,cup$ of **water**
+	1. add to pot 
+10. let simmer until **lentils (red)** are cooked through (loose their color - turn from red/orange to yellow)
 	1. stir occasionally
-9. stir in remaining $\frac{2}{3}$ of **coconut milk**
-10. mix well
+	2. keep lid closed
+11. stir in remaining **coconut milk**
+	1. technically this is thick **coconut milk**
+12. mix well
 
 ### Tempering
 1. chop **chili (red)**
@@ -93,7 +98,9 @@ paginate: false
 2. add **oil (coconut)** to pan
 3. add **mustard seed**
 4. once **mustard seed** pop, add remaining $\frac{1}{3}$ of
-	1. **garlic**, **curry leaves**, **onion**, **chili (red)**, **pandan leave**, **chili flakes**
+	1. **garlic**, **curry leaves**, **onion**, **chili (red)**, **pandan leave**
+5. saute **chili flakes** in medium heat
+	1. to avoid bitter taste
 
 ### Merging
 1. take a little bit of [The Curry](#The%20Curry) and add it to [Tempering](#Tempering)
@@ -104,7 +111,7 @@ paginate: false
 ## Side
 * traditionally served with
 	* [Rice](Rice.md)
-	* $\text{\textcolor{red}{TODO: How was the other traditional thing called?}}$
+	- [ ] How was the other traditional thing called? 
 
 ## Notes
 * alternatively you can add a [Egg_Fried](Egg_Fried.md)
