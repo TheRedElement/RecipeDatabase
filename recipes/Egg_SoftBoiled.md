@@ -1,18 +1,23 @@
 ---
 tags:
   - eggs
-category: cooking
-country:
+category:
+  - cooking
+country: 
 duration_min: 3.5
-todo: false
-
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Soft-Boiled Egg
 
+|Ingredient|Amount (4 portions)|
+| :- | :- |
 
 ## Ingredients
 

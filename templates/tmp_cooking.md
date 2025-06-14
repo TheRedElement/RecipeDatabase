@@ -3,8 +3,6 @@ tags:
 aliases: 
 category: 
 country: 
-ingredients: 
-amounts: 
 duration_min: 
 todo: true
 acknowledgements: 
@@ -16,6 +14,10 @@ paginate: false
 
 
 # Name Of Dish
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+
 
 ## Recipe
 

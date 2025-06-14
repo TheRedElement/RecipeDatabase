@@ -1,19 +1,31 @@
 ---
-tags:
-  - 
-category: cooking
-country:
+tags: 
+category:
+  - cooking
+country: 
 duration_min: 
 todo: true
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
 
 # Chicken (Mozzarella)
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|rice|800 g|
+|chicken breast|1.0 kg|
+|mozzarella|150 g|
+|oil (olive)|-|
+|pepper spice|-|
+|salt|-|
+|tomato|500 g|
+
 
 ## Recipe
 

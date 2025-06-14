@@ -5,20 +5,6 @@ aliases:
 category:
   - sweet
 country: 
-ingredients:
-  - water
-  - sugar
-  - vanilla bean
-  - apple
-  - cinnamon stick
-  - lenon
-amounts:
-  - 80ml
-  - 2tbsp
-  - "2"
-  - "1"
-  - "1"
-  - "0.5"
 duration_min: 
 todo: false
 acknowledgements: 
@@ -31,7 +17,17 @@ paginate: false
 
 
 # Apfelmus
-![](../gfx/PXL_20250412_024150021.jpg)
+![300](../gfx/PXL_20250412_024150021.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|80 ml|
+|sugar|2 tbsp|
+|vanilla bean|2|
+|apple|1 kg|
+|cinnamon stick|1|
+|lemon|0.5|
+
 ## Recipe
 1. rinse and peel apples
 2. remove apples core

@@ -9,15 +9,29 @@ todo: false
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Egg Fried Rice
 
-![](../gfx/PXL_20250310_023956351.jpg)
+![300](../gfx/PXL_20250310_023956351.jpg)
 
----
-
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|rice|800 g|
+|egg|5|
+|carrot|4 g|
+|garlic|4 cloves|
+|spring onion|4|
+|capsicum|1.5|
+|oil|-|
+|pepper|-|
+|salt|-|
+|soy sauce|-|
+|(vegetables)|-|
+|water|-|
 
 ## Recipe
 1. cook [rice](./Rice.md)

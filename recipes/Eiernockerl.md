@@ -1,19 +1,29 @@
 ---
 tags:
   - base
-category: cooking
-country:
-duration_min:
-todo: false
-
+category:
+  - cooking
+country: 
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Eiernockerl
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|flour|300 g|
+|milk|150 mL|
+|butter|50 g|
+|egg|3|
+|salt|0.4 g|
+|water|-|
 
 ## Recipe
 

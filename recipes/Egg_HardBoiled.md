@@ -1,20 +1,24 @@
 ---
 tags:
   - eggs
-category: cooking
-country:
+category:
+  - cooking
+country: 
 duration_min: 4
-todo: false
-
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Hard-Boiled Egg
 
+|Ingredient|Amount (4 portions)|
+| :- | :- |
 
-## Ingredients
 
 ## Recipe
 1. boil **water**

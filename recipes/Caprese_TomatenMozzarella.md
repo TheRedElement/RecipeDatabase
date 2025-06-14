@@ -1,20 +1,36 @@
 ---
 tags:
   - salad
-category: cooking
+category:
+  - cooking
 country: 
 duration_min: 
 todo: false
 theme: tre_light
 marp: false
 paginate: false
+aliases:
+  - Tomaten Mozzarella
+acknowledgements: 
+links:
 ---
 
 # Caprese (Tomaten Mozzarella)
 
-![](../gfx/PXL_20250318_080215440.jpg)
+![300](../gfx/PXL_20250318_080215440.jpg)
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|tomato|1000 g|
+|mozzarella|250 g|
+|pepper|-|
+|salt|-|
+|basil|-|
+|bread|-|
+|italian herbs seasaoning blend|-|
+|oil (olive)|-|
+|vinegar|-|
+|lemon|-|
 
 ## Recipe
 1. chop **tomatoes** into slices

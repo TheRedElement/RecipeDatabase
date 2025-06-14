@@ -13,7 +13,22 @@ paginate: false
 
 # Vegetable Soup
 ![](../gfx/PXL_20250526_091042688.jpg)
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+| water | 1000 ml |
+| carrot | 2 |
+| celery | 0.6 |
+| leek | 0.6 |
+| onion | 0.6 |
+| parsley | 0.6 bunch |
+| bay leaf | 1 |
+| juniper berries | - |
+| oil | - |
+| pepper | - |
+| salt | - |
+| (soup seasoning) | - |
+
 
 ## Recipe
 1. peel and chop **onion**

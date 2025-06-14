@@ -1,18 +1,23 @@
 ---
 tags:
   - eggs
-category: cooking
-country:
-duration_min:
-todo: false
-
+category:
+  - cooking
+country: 
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Scrambled Egg
 
+|Ingredient|Amount (4 portions)|
+| :- | :- |
 
 ## Ingredients
 

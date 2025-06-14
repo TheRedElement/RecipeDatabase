@@ -4,18 +4,6 @@ tags:
 aliases: 
 category: 
 country: 
-ingredients:
-  - egg
-  - oil
-  - salt
-  - pepper
-  - chili flakes
-amounts:
-  - "4"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
 duration_min: 
 todo: true
 acknowledgements: 
@@ -27,6 +15,14 @@ paginate: false
 
 
 # Fried Egg
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|egg|4|
+|oil|-|
+|salt|-|
+|pepper|-|
+|chili flakes|-|
 
 ## Recipe
 1. add **oil** to pan

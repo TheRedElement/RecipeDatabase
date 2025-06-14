@@ -1,21 +1,37 @@
 ---
 tags:
   - meat
-category: cooking
-country:
-duration_min: 30
-todo: false
-
+category:
+  - cooking
+country: 
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+acknowledgements: 
+links:
+  - https://www.tamingtwins.com/simple-sticky-midweek-chicken-teriyaki-recipe/
 ---
 
 # Chicken (Teriyaki)
 
-![](../gfx/PXL_20250302_022758726.MP.jpg)
+![300](../gfx/PXL_20250302_022758726.MP.jpg)
 
----
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|rice|800 g|
+|water|80 mL|
+|soy sauce|20 mL|
+|salt|8.5 g|
+|sugar|7 g|
+|honey|5 mL|
+|pepper|3.5 g|
+|oil (sesame)|2.5 mL|
+|chicken breast|1 kg|
+|garlic|-|
+|ginger|-|
+|starch|-|
 
 ## Ingredients
 
@@ -33,7 +49,5 @@ paginate: false
 * [rice](./Rice.md)
 
 ## Notes
-
-1. [https://www.tamingtwins.com/simple-sticky-midweek-chicken-teriyaki-recipe/](https://www.tamingtwins.com/simple-sticky-midweek-chicken-teriyaki-recipe/)
 
 

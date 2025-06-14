@@ -10,14 +10,6 @@ theme: tre_light
 marp: false
 paginate: false
 aliases: 
-ingredients:
-  - egg
-  - water
-  - salt
-amounts:
-  - "4"
-  - "0"
-  - "0"
 acknowledgements:
   - Reiner Schmidt
 links:
@@ -25,8 +17,13 @@ links:
 
 # Poached Egg
 
-![](../gfx/PXL_20250513_085158834.jpg)
+![300](../gfx/PXL_20250513_085158834.jpg)
 
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|egg|4|
+|water|-|
+|salt|-|
 
 ## Recipe
 1. add some **salt** to water

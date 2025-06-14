@@ -9,44 +9,6 @@ theme: tre_light
 marp: false
 paginate: false
 aliases: 
-ingredients:
-  - water
-  - tomato
-  - corn
-  - beans
-  - bread rolls
-  - garlic
-  - capsicum
-  - onion
-  - chili
-  - tomato paste
-  - bread
-  - minced meat
-  - pepper
-  - salt
-  - oil
-  - soup seasoning (vegetables)
-  - pepper spice
-  - turmeric
-amounts:
-  - 500ml
-  - 500g
-  - 250g
-  - 220g
-  - "10"
-  - "3"
-  - "2"
-  - "1"
-  - "1"
-  - "1"
-  - "0.5"
-  - "0.5"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
 acknowledgements: 
 links:
 ---
@@ -54,6 +16,28 @@ links:
 
 # Chilli con Carne
 ![](../gfx/PXL_20250601_112637795.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|500 mL|
+|tomato|500 g|
+|corn|250 g|
+|beans|220 g|
+|(bread rolls)|10|
+|garlic|3 cloves|
+|capsicum|2|
+|onion|1|
+|chili|1|
+|tomato paste|1 tbsp|
+|(bread)|0.5 loaf|
+|minced meat|0.5 kg|
+|pepper|-|
+|salt|-|
+|oil|-|
+|soup seasoning (vegetables)|-|
+|pepper spice|-|
+|turmeric|-|
+
 ## Recipe
 
 1. chop **onions**, **peppers**, **garlic**

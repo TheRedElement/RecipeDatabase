@@ -7,54 +7,6 @@ category:
   - cooking
 country:
   - srilanka
-ingredients:
-  - water
-  - rice
-  - lentils (red)
-  - coconut milk
-  - curry leave
-  - egg
-  - garlic
-  - chili (green)
-  - chili (red)
-  - chili flakes
-  - curry powder (sri lanka)
-  - cumin
-  - cumin seed
-  - fenugreek seed
-  - mustard seed
-  - pandan leave
-  - turmeric
-  - cinnamon stick
-  - onion
-  - cardamon
-  - chili powder
-  - oil (coconut)
-  - salt
-amounts:
-  - 1900mL
-  - 800g
-  - 150g
-  - 120mL
-  - "15"
-  - "4"
-  - 3cloves
-  - "2.5"
-  - "2"
-  - 1tsp
-  - 1tsp
-  - 0.5tsp
-  - 0.5tsp
-  - 0.5tsp
-  - 0.5tsp
-  - "0.5"
-  - 0.5tsp
-  - "0.25"
-  - "0.25"
-  - 1pinch
-  - 1pinch
-  - "0"
-  - "0"
 duration_min: 60
 todo: true
 acknowledgements:
@@ -68,6 +20,32 @@ paginate: false
 
 # Sri Lankan Dahl Curry
 ![300](../gfx/PXL_20250608_041626270.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|1900 mL|
+|rice|800 g|
+|lentils (red)|150 g|
+|coconut milk|120 mL|
+|curry leave|15|
+|egg|4|
+|garlic|3 cloves|
+|chili (green)|2.5|
+|chili (red)|2|
+|chili flakes|1 tsp|
+|curry powder (sri lanka)|1 tsp|
+|cumin|0.5 tsp|
+|cumin seed|0.5 tsp|
+|fenugreek seed|0.5 tsp|
+|mustard seed|0.5 tsp|
+|pandan leave|0.5|
+|turmeric|0.5 tsp|
+|cinnamon stick|0.25|
+|onion|0.25|
+|cardamon|1 pinch|
+|chili powder|1 pinch|
+|oil (coconut)|-|
+|salt|-|
 
 ## Recipe
 

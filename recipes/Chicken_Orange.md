@@ -1,19 +1,41 @@
 ---
 tags:
   - meat
-category: cooking
-country:
-duration_min: 30
-todo: false
-
+category:
+  - cooking
+country: 
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
 
 # Chicken (Orange)
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|1900 mL|
+|rice|800 g|
+|balsamico|75 mL|
+|starch (corn)|60 g|
+|sugar|60 g|
+|flour|30 g|
+|soy sauce|22 mL|
+|salt|8.5 g|
+|rice wine|5 mL|
+|pepper|3.5 g|
+|oil (sesame)|2.5mL|
+|egg|2|
+|ginger|2|
+|spring onion|2|
+|chicken breast|1 kg|
+|garlic|1 clove|
+|orange|1|
 
 ## Recipe
 1. chicken banner

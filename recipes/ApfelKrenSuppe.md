@@ -5,22 +5,6 @@ aliases:
 category: 
 country:
   - austria
-ingredients:
-  - cream
-  - water
-  - apple
-  - horseradish
-  - pepper
-  - salt
-  - soup seasoning (vegetables)
-amounts:
-  - 300mL
-  - 300mL
-  - 0.350kg
-  - 3tbsp
-  - "0"
-  - "0"
-  - "0"
 duration_min: 
 todo: true
 acknowledgements: 
@@ -33,7 +17,17 @@ paginate: false
 
 
 # Apfel-Kren-Suppe
-![](../gfx/PXL_20250421_040459972.jpg)
+![300](../gfx/PXL_20250421_040459972.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|cream|300 mL|
+|water|300 mL|
+|apple|0.350 kg|
+|horseradish|3 tbsp|
+|pepper|-|
+|salt|-|
+|soup seasoning (vegetables)|-|
 
 ## Recipe
 1. prepare [Vegetable Soup](Soup_Vegetables.md#Vegetable%20Soup)

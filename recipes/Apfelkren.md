@@ -7,14 +7,6 @@ category:
   - tradition
 country:
   - austria
-ingredients:
-  - apple
-  - horseradish
-  - vinegar
-amounts:
-  - "2"
-  - "0"
-  - "0"
 duration_min: 
 todo: false
 acknowledgements:
@@ -27,8 +19,13 @@ paginate: false
 
 
 # Apfelkren
+![300](../gfx/PXL_20250420_025526263.jpg)
 
-![](../gfx/PXL_20250420_025526263.jpg)
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+| apple | 2 |
+| horseradish | - |
+| vinegar | - |
 
 ## Recipe
 1. grate **horseradish**

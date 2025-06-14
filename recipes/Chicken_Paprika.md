@@ -10,31 +10,24 @@ theme: tre_light
 marp: false
 paginate: false
 aliases: 
-ingredients:
-  - rice
-  - chicken breast
-  - garlic
-  - salt
-  - oil
-  - pepper
-  - pepper spice
-amounts:
-  - 800g
-  - 1kg
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
 acknowledgements: 
 links:
 ---
 
 
 # Chicken (Paprika)
+![300](../gfx/PXL_20250401_084821659.jpg)
 
-![](../gfx/PXL_20250401_084821659.jpg)
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|rice|800 g|
+|chicken breast|1 kg|
+|garlic|-|
+|salt|-|
+|oil|-|
+|pepper|-|
+|pepper spice|-|
 
 ## Recipe
 

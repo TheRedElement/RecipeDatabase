@@ -1,18 +1,33 @@
 ---
 tags: 
-  - 
-category: cooking
-country:
+category:
+  - cooking
+country: 
 duration_min: 
-todo: false
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+ingredients: 
+amounts: 
+acknowledgements: 
+links:
 ---
+
 
 # Chicken (Lemon Peppered)
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|rice|800 g|
+|lemon|2|
+|butter|-|
+|chicken breast|1.0 kg|
+|honey|-|
+|oil|-|
+|pepper|-|
+|salt|-|
 
 ## Recipe
 1. slice half of the **lemons**, squeeze juice out of other half

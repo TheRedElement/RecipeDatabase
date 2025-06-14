@@ -1,23 +1,44 @@
 ---
-tags:
-  - 
-category: cooking
-country:
+tags: 
+category:
+  - cooking
+country: 
 duration_min: 60
 todo: false
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+ingredients: 
+amounts: 
+acknowledgements: 
+links:
 ---
 
 # Curry (Vegetables)
 
-![](../gfx/PXL_20250226_090918885.jpg)
+![300](../gfx/PXL_20250226_090918885.jpg)
 
----
-
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|rice|600 g|
+|tomato|350 g|
+|chickpeas|240 g|
+|brussel sprouts|150 g|
+|coconut milk|125 mL|
+|cream|125 mL|
+|carrot|3|
+|garlic|2 cloves|
+|onion|1|
+|oil|-|
+|salt|-|
+|vegetable|-|
+|cinnamon|-|
+|curry powder|-|
+|ginger|-|
+|pepper|-|
+|soup seasoning|-|
+|water|-|
 
 ## Recipe
 
