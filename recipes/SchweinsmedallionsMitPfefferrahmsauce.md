@@ -11,41 +11,31 @@ theme: tre_light
 marp: false
 paginate: false
 aliases: 
-ingredients:
-  - pork filet
-  - cream
-  - water
-  - bay leaf
-  - garlic
-  - mustard
-  - oil
-  - pepper
-  - peppercorns
-  - salt
-  - soup seasoning (beef)
-  - soy sauce
-  - thyme
-amounts:
-  - 600g
-  - 250mL
-  - 200mL
-  - "2"
-  - 2cloves
-  - 1tsp
-  - "0"
-  - "0"
-  - 3tsp
-  - "0"
-  - "0"
-  - 1tbsp
-  - 3twigs
 acknowledgements: 
 links:
   - https://emmikochteinfach.de/schweinemedaillons-in-pfefferrahmsauce/
 ---
 
 # Schweinsmedallions mit Pfefferrahmsauce
-![](../gfx/PXL_20250514_091842767.jpg)
+
+![300](../gfx/PXL_20250514_091842767.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|pork filet|600 g|
+|cream|250 mL|
+|water|200 mL|
+|bay leaf|2|
+|garlic|2 cloves|
+|mustard|1 tsp|
+|oil|-|
+|pepper|-|
+|peppercorns|3 tsp|
+|salt|-|
+|soup seasoning (beef)|-|
+|soy sauce|1 tbsp|
+|thyme|3 twigs|
+
 ## Recipe
 
 ### The Filets

@@ -4,32 +4,8 @@ tags:
 aliases: 
 category: 
 country: 
-ingredients:
-  - pasta
-  - cream
-  - cheese
-  - ham
-  - egg
-  - garlic
-  - onion
-  - marjoram
-  - oil
-  - pepper
-  - salt
-amounts:
-  - 400g
-  - 200mL
-  - 100g
-  - 12dag
-  - "1"
-  - "1"
-  - "1"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
 duration_min: 
-todo: true
+todo: false
 acknowledgements: 
 links:
   - https://www.gutekueche.at/schinkenfleckerl-rezept-4907
@@ -41,7 +17,22 @@ paginate: false
 
 # Schinkenfleckerl
 
-![](../gfx/PXL_20250427_050855859.jpg)
+![300](../gfx/PXL_20250427_050855859.jpg)
+
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|pasta|400 g|
+|cream|200 mL|
+|cheese|100 g|
+|ham|12 dag|
+|egg|1|
+|garlic|1|
+|onion|1|
+|marjoram|-|
+|oil|-|
+|pepper|-|
+|salt|-|
 
 ## Recipe
 

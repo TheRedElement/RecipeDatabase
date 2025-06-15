@@ -1,36 +1,46 @@
 ---
 tags:
   - pasta
-category: cooking
-country:
-duration_min:
+category:
+  - cooking
+country: 
+duration_min: 
 todo: false
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Spaghetti mit Schinken-Rahm Sauce
 
-![](../gfx/PXL_20250308_103017032.jpg)
+![300](../gfx/PXL_20250308_103017032.jpg)
 
----
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|pasta|500 g|
+|bacon cubes|-|
+|ham|-|
+|cream|-|
+|onion|-|
+|parmesan|-|
+|water|-|
 
-## Ingredients
 
 ## Recipe
 1. prepare [pasta](Pasta.md)
-1. chop **onion**
-1. cut **ham** into small pieces
-1. sauce
+2. chop **onion**
+3. cut **ham** into small pieces
+4. sauce
     1. roast **onion** in pan
-    1. add **ham** to roast alongside for a short amount of time
-    1. add **cream**
-    1. add **cheese (hard)**
+    2. add **ham** to roast alongside for a short amount of time
+    3. add **cream**
+    4. add **cheese (hard)**
         1. blend everything together
-    1. season with **salt**, **pepper**, **rosemary**, (**provence seasoning blend**)
-1. marry [pasta](Pasta.md) and sauce
+    5. season with **salt**, **pepper**, **rosemary**, (**provence seasoning blend**)
+5. marry [pasta](Pasta.md) and sauce
 
 ## Notes
 

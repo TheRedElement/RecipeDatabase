@@ -1,30 +1,47 @@
 ---
 tags:
   - sauce
-category: cooking
-country:
+category:
+  - cooking
+country: 
 duration_min: 45
-todo: false
-
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Taco Sauce
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|minced meat|880 g|
+|onion|1.5|
+|spring onion|1.5|
+|water|1300 mL|
+|carrot|-|
+|cumin|-|
+|curry powder|-|
+|flour|-|
+|oil|-|
+|parmesan|-|
+|pepper|-|
+|pepper spice|-|
+|salt|-|
 
 ## Recipe
 1. heat **oil** in a pan
-1. roast **garlic**, **onion**, **spring onion**
+2. roast **garlic**, **onion**, **spring onion**
     1. add **carrot** if wished for
-1. add **minced meat** and roast until well done
-1. add **water**
-1. season with **cumin**, **salt**, **pepper**, **pepper spice**, **curry**
+3. add **minced meat** and roast until well done
+4. add **water**
+5. season with **cumin**, **salt**, **pepper**, **pepper spice**, **curry**
     1. add additional seasoning if you want
-1. let simmer
-1. add **flour**, **parmesan** if not viscous enough
+6. let simmer
+7. add **flour**, **parmesan** if not viscous enough
     1. other **cheese** also works
 
 ## Notes

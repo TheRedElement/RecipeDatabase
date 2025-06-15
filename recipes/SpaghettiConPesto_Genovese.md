@@ -1,19 +1,24 @@
 ---
 tags:
   - pasta
-category: cooking
-country: italy
-duration_min:
-todo: todo
-
+category:
+  - cooking
+country:
+  - italy
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Spaghetti con Pesto
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
 
 ## Recipe
 

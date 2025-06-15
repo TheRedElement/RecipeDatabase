@@ -1,19 +1,32 @@
 ---
 tags:
   - sauce
-category: cooking
-country:
-duration_min:
-todo: false
-
+category:
+  - cooking
+country: 
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
+  - https://www.allrecipes.com/recipe/259887/simple-teriyaki-sauce/
 ---
 
 # Teriyaki Sauce
 
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|80 mL|
+|soy sauce|20 mL|
+|sugar|7 g|
+|honey|5 mL|
+|garlic|-|
+|ginger|-|
+|starch (corn)|-|
 
 ## Recipe
 1. mix **water**, **soy sauce**, **sugar (brown)**, **honey**, **ginger (powder)**, **garlic (powder)** in saucepan over medium heat
@@ -25,5 +38,3 @@ paginate: false
     1. around 5-7min 
 
 ## Notes
-
-* [https://www.allrecipes.com/recipe/259887/simple-teriyaki-sauce/](https://www.allrecipes.com/recipe/259887/simple-teriyaki-sauce/)

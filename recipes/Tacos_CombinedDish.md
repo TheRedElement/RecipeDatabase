@@ -3,12 +3,10 @@ tags:
 aliases: 
 category: 
 country: 
-ingredients: 
-amounts: 
 duration_min: 
 todo: true
 acknowledgements: 
-links:
+links: 
 theme: tre_light
 marp: false
 paginate: false
@@ -16,6 +14,9 @@ paginate: false
 
 
 # Tacos
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
 
 ## Recipe
 

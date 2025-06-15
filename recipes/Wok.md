@@ -1,19 +1,24 @@
 ---
-tags:
-  -
-category: cooking
-country:
-duration_min:
-todo: false
-
+tags: 
+category:
+  - cooking
+country: 
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Wok
 
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+
 
 ## Recipe
 1. boil **brussel sprout**, **sweet-peas**

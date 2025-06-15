@@ -11,42 +11,6 @@ theme: tre_light
 marp: false
 paginate: false
 aliases: 
-ingredients:
-  - water
-  - barley (pearl)
-  - beans
-  - ivy (ground)
-  - lovage
-  - sage
-  - carrot
-  - spring onion
-  - potato
-  - bay leaf
-  - celery
-  - meat (selch)
-  - pepper
-  - salt
-  - oil
-  - sausage (selch)
-  - soup seasoning (vegetables)
-amounts:
-  - 670mL
-  - 140g
-  - 140g
-  - 3.5g
-  - 3.5g
-  - 3.5g
-  - "1.5"
-  - "1.5"
-  - "1.5"
-  - "1"
-  - "1"
-  - "1"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
 acknowledgements: 
 links:
   - https://www.ichkoche.at/kaerntner-ritschert-rezept-228054
@@ -55,7 +19,27 @@ links:
 
 # Ritschert
 
-![](../gfx/PXL_20250316_030704050.jpg)
+![300](../gfx/PXL_20250316_030704050.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|670 mL|
+|barley (pearl)|140 g|
+|beans|140 g|
+|ivy (ground)|3.5 g|
+|lovage|3.5 g|
+|sage|3.5 g|
+|carrot|1.5|
+|spring onion|1.5|
+|potato|1.5|
+|bay leaf|1|
+|celery|1|
+|meat (selch)|1|
+|pepper|-|
+|salt|-|
+|oil|-|
+|sausage (selch)|-|
+|soup seasoning (vegetables)|-|
 
 ## Recipe
 1. peel and chop **onion**, **potato**, **carrot**, **celery** into small cubes

@@ -1,33 +1,47 @@
 ---
-tags:
-  -
-category: cooking
+tags: 
+category:
+  - cooking
 country:
   - austria
-duration_min:
-todo: false
-
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
 
 # Tiroler Gröstl
 
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|potato|600 g|
+|ham|25 dag|
+|egg|4|
+|onion|1|
+|marjoram|-|
+|oil|-|
+|parsley|-|
+|pepper|-|
+|salt|-|
 
 ## Recipe
 1. cook **potato**
-1. peel **potato**
-1. cut **potato** in slices
-1. cut **ham** into bite-sized pieces
-1. peel and cut **onion**
-1. add **oil** to pan
-1. roast **onion**
-1. add **potato**, **ham**
-1. season with **salt**, **pepper**, **marjoram**, **parsley**
-1. either add **egg** into pan
-1. or cook **egg** sunny-side up
+2. peel **potato**
+3. cut **potato** in slices
+4. cut **ham** into bite-sized pieces
+5. peel and cut **onion**
+6. add **oil** to pan
+7. roast **onion**
+8. add **potato**, **ham**
+9. season with **salt**, **pepper**, **marjoram**, **parsley**
+10. either add **egg** into pan
+11. or cook **egg** sunny-side up
 
 ## Notes
 1. often made with leftover meat instead of **ham**

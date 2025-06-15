@@ -15,12 +15,15 @@ acknowledgements:
 theme: tre_light
 marp: false
 paginate: false
+links:
 ---
 
 
 # Sri-Lankan Tea
 
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
 
 ## Recipe
 

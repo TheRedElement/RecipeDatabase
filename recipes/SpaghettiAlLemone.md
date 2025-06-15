@@ -1,19 +1,36 @@
 ---
 tags:
   - pasta
-category: cooking
-country:
-duration_min:
+category:
+  - cooking
+country: 
+duration_min: 
 todo: false
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
+  - https://catslovecooking.wordpress.com/2011/05/18/jamie-oliver-lemon-linguine/
 ---
 
 # Spaghetti al Lemone
 
-![](../gfx/PXL_20250319_082227399.jpg)
+![300](../gfx/PXL_20250319_082227399.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|pasta|500 g|
+|parmesan|125 g|
+|oil (olive)|88 mL|
+|lemon|3|
+|egg|2|
+|basil|-|
+|pepper|-|
+|salt|-|
+|water|-|
+
 ## Ingredients
 ## Recipe
 1. grate **lemon** to get zests
@@ -26,4 +43,3 @@ paginate: false
 1. mix in chopped **basil**
 
 ## Notes
-* [https://catslovecooking.wordpress.com/2011/05/18/jamie-oliver-lemon-linguine/](https://catslovecooking.wordpress.com/2011/05/18/jamie-oliver-lemon-linguine/)

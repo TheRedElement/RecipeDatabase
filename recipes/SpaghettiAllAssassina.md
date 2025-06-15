@@ -5,8 +5,6 @@ aliases:
 category: 
 country:
   - italy
-ingredients: 
-amounts: 
 duration_min: 
 todo: true
 acknowledgements: 
@@ -17,6 +15,10 @@ paginate: false
 
 
 # Spaghetti all'Assassina
+
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
 
 ## Recipe
 

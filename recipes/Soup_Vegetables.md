@@ -1,18 +1,22 @@
 ---
 tags:
   - soup
-category: cooking
-country:
-duration_min:
+category:
+  - cooking
+country: 
+duration_min: 
 todo: false
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
+  - https://www.gutekueche.at/gemuesesuppe-rezept-8768
 ---
 
 # Vegetable Soup
-![](../gfx/PXL_20250526_091042688.jpg)
+![300](../gfx/PXL_20250526_091042688.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
@@ -42,5 +46,4 @@ paginate: false
 1. season to taste with **salt**, **pepper**, (**soup seasoning**)
 
 ## Notes
-* [https://www.gutekueche.at/gemuesesuppe-rezept-8768](https://www.gutekueche.at/gemuesesuppe-rezept-8768)
 

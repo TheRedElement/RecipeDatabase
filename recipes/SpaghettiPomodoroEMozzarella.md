@@ -1,23 +1,33 @@
 ---
 tags:
   - pasta
-category: cooking
-country:
-duration_min:
+category:
+  - cooking
+country: 
+duration_min: 
 todo: false
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Spaghetti Tomato e Mozzarella
 
-![](../gfx/PXL_20250127_011922751.jpg)
+![300](../gfx/PXL_20250127_011922751.jpg)
 
----
-
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|tomato|1000 g|
+|pasta|500 g|
+|mozzarella|250 g|
+|basil|-|
+|italian herbs seasoning blend|-|
+|oil (olive)|-|
+|salt|-|
+|water|-|
 
 ## Recipe
 1. prepare [pasta](Pasta.md)

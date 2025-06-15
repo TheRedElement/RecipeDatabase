@@ -1,20 +1,30 @@
 ---
 tags:
   - pasta
-category: cooking
+category:
+  - cooking
 country:
   - italy
-duration_min:
-todo: false
-
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Bechamel Sauce
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|milk|650 mL|
+|flour|70 g|
+|butter|55 g|
+|nutmeg|-|
+|pepper|-|
+|salt|-|
 
 ## Recipe
 1. melt **butter** in pot

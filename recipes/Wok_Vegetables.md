@@ -1,19 +1,38 @@
 ---
-tags:
-  -
-category: cooking
-country:
-duration_min:
-todo: false
-
+tags: 
+category:
+  - cooking
+country: 
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
+  - https://www.gutekueche.at/wok-gemuese-rezept-2978
 ---
+
 
 # Wok (vegetable)
 
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|sweet peas|200 g|
+|water|200 mL|
+|broccoly|10 g|
+|capsicum|2|
+|onion|2|
+|chili|1|
+|starch (corn)|1 g|
+|coconut milk|-|
+|oil|-|
+|pepper spice|-|
+|salt|-|
+|soup seasoning|-|
+|soy sauce|-|
 
 ## Recipe
 1. cook **sweet-pea** and **broccoli** in salted **water** (~5min and until soft, respectively)
@@ -34,6 +53,5 @@ paginate: false
 * **wok noodles**
 
 ## Notes
-* [https://www.gutekueche.at/wok-gemuese-rezept-2978](https://www.gutekueche.at/wok-gemuese-rezept-2978)
 
 

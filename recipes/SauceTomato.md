@@ -2,19 +2,33 @@
 tags:
   - sauce
   - pasta
-category: cooking
-country: italy
-duration_min:
-todo: false
-
+category:
+  - cooking
+country:
+  - italy
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
 
 # Tomato Sauce
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|tomato|800 g|
+|pasta|500 g|
+|garlic|20 cloves|
+|italian herbs seasoning blend|-|
+|oil (olive)|-|
+|parsley|-|
+|salt|-|
+|water|-|
 
 ## Recipe
 1. prepare [pasta](Pasta.md)

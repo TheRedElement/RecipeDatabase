@@ -1,20 +1,31 @@
 ---
 tags:
   - pasta
-category: cooking
+category:
+  - cooking
 country: 
-duration_min:
-todo: false
-
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Spaghetti Aglio E Pomodoro
 
-
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|tomato|800 g|
+|pasta|500 g|
+|garlic|20 cloves|
+|italian herbs seasoning blend|-|
+|oil (olive)|-|
+|parsley|-|
+|salt|-|
+|water|-|
 
 ## Recipe
 1. cook [pasta](Pasta.md)

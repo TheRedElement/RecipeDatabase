@@ -7,15 +7,22 @@ country:
   - italy
   - austria
 duration_min: 
-todo: false
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases:
+  - Polenta
+acknowledgements: 
+links:
 ---
+
 
 # Sterz/Polenta
 
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
 
 ## Recipe
 

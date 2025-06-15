@@ -2,18 +2,31 @@
 tags:
   - base
 todo: true
-country: austria
-category: cooking
-duration_min:
-
+country:
+  - austria
+category:
+  - cooking
+duration_min: 
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
+
 
 # Spätzle
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|flour|300 g|
+|milk|150 mL|
+|butter|50 g|
+|egg|3|
+|salt|0.4 g|
+|water|-|
 
 ## Recipe
 1. melt **butter**

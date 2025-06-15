@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Ritschert.md",
+                "file": "recipes/Wok_Vegetables.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ritschert"
+              "title": "Wok_Vegetables"
             },
             "group": "d507df446c84efd6"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Ritschert.md",
+                "file": "recipes/Wok_Vegetables.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ritschert"
+              "title": "Wok_Vegetables"
             },
             "group": "d507df446c84efd6"
           }
@@ -451,35 +451,40 @@
   },
   "active": "b489b7de73de6677",
   "lastOpenFiles": [
-    "recipes/RisottoBolognese.md",
-    "recipes/Ritschert.md",
+    "recipes/Wok.md",
+    "recipes/WienerSchnitzel.md",
+    "recipes/Vanillesauce.md",
+    "recipes/Tofu_Fried.md",
+    "recipes/Untitled.md",
+    "recipes/TirolerGroestl.md",
+    "recipes/Teriyaki_Sauce.md",
+    "recipes/Tea_SriLanka.md",
+    "recipes/Tafelspitz.md",
+    "recipes/TacoSauce.md",
+    "recipes/Tacos_CombinedDish.md",
+    "recipes/Tacos.md",
+    "recipes/Strudel_Spinach.md",
+    "recipes/Strudel_Ham.md",
+    "recipes/Sterz.md",
+    "recipes/SpaghettiPomodoroEMozzarella.md",
+    "recipes/SpaghettiMitSchinkenRahmSauce.md",
+    "recipes/SpaghettiConPesto_Genovese.md",
+    "recipes/SpaghettiCarbonara.md",
+    "gfx/PXL_20250520_093409646.jpg",
+    "gfx/PXL_20250527_044942054.jpg",
+    "gfx/PXL_20250526_091042688.jpg",
+    "gfx/PXL_20250518_032953551.jpg",
+    "recipes/SpaghettiAlRagu.md",
+    "recipes/SpaghettiAlLemone.md",
+    "recipes/SpaghettiAllAssassina.md",
+    "recipes/SpaghettiAgliSpinaci.md",
+    "recipes/SpaghettiAglioEPomodoro.md",
+    "recipes/SauceTomato.md",
+    "recipes/SpaghettiAglioEOlio.md",
+    "gfx/PXL_20250316_030704050.jpg",
     "gfx/PXL_20250614_032336054.jpg",
     "gfx/PXL_20250608_041626270.jpg",
     "gfx/PXL_20250612_085253379.jpg",
-    "recipes/RisottoAllaZucca.md",
-    "recipes/RisottoAgliZucchini.md",
-    "recipes/Rice.md",
-    "recipes/Reindling.md",
-    "recipes/Ramen.md",
-    "recipes/PumpkinSoup.md",
-    "recipes/PotatoWedges.md",
-    "recipes/PotatoPuree.md",
-    "recipes/Potato_Roasted.md",
-    "recipes/Potato_ButterAndParsley.md",
-    "recipes/Potato_Baked.md",
-    "recipes/PokeBowl_Sauce.md",
-    "recipes/Poke Bowl.md",
-    "recipes/Pizza.md",
-    "recipes/Pasta.md",
-    "recipes/PapayaSeeds.md",
-    "recipes/Pancakes.md",
-    "recipes/Palatschinken.md",
-    "recipes/PakrikaGeschnetzeltes.md",
-    "recipes/Chicken_Paprika.md",
-    "recipes/OvenSettings.md",
-    "recipes/Osterpinze.md",
-    "recipes/Osterjause.md",
-    "recipes/Oatmeal.md",
     "recipes/DahlCurry_SriLanka.pdf",
     "recipes/DahlCurry_SriLanka.html",
     "gfx/oven_grill.png.crdownload",
@@ -491,11 +496,6 @@
     "gfx/oven_fanassist.png",
     "gfx/oven_fanassist.png.crdownload",
     "gfx/oven_bottomheat.png",
-    "gfx/oven_conventional.png",
-    "gfx/oven_fanforced.png",
-    "gfx/oven_fangrill.png",
-    "gfx/oven_grill.png",
-    "gfx/oven_pizza.png",
     "references/references.pdf"
   ]
 }

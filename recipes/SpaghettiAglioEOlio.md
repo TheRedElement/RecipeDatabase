@@ -11,29 +11,24 @@ theme: tre_light
 marp: false
 paginate: false
 aliases: 
-ingredients:
-  - pasta
-  - garlic
-  - salt
-  - oil
-  - parsley
-  - water
-amounts:
-  - 500g
-  - 20cloves
-  - "0"
-  - "0"
-  - "0"
-  - "0"
 acknowledgements: 
 links:
+  - https://www.gutekueche.at/spaghetti-aglio-e-olio-rezept-37
 ---
 
 
 # Spaghetti Aglio E Olio
 
-![](../gfx/PXL_20250405_015652237.jpg)
-## Ingredients
+![300](../gfx/PXL_20250405_015652237.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|pasta|500 g|
+|garlic|20 cloves|
+|salt|-|
+|oil|-|
+|parsley|-|
+|water|-|
 
 ## Recipe
 1. cook [pasta](Pasta.md)
@@ -44,5 +39,4 @@ links:
 
 
 ## Notes
-* [https://www.gutekueche.at/spaghetti-aglio-e-olio-rezept-37](https://www.gutekueche.at/spaghetti-aglio-e-olio-rezept-37)
 

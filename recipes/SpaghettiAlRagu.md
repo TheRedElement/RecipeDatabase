@@ -6,47 +6,35 @@ category:
 country:
   - italy
 duration_min: 
-todo: false
+todo: true
 theme: tre_light
 marp: false
 paginate: false
 aliases:
-  - SpaghettiBolognese
-ingredients:
-  - pasta
-  - tomato-sauce
-  - minced meat
-  - garlic
-  - tomato paste
-  - carrot
-  - salt
-  - oil
-  - water
-  - pepper
-  - italian herbs seasoning blend
-  - marjoram
-  - wine (red)
-amounts:
-  - 500g
-  - 400mL
-  - 350g
-  - 2cloves
-  - 2tbsp
-  - "1"
-  - "1"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
+  - Spaghetti Bolognese
 acknowledgements: 
 links:
 ---
 
+
 # Spaghetti al Ragu
-![](../gfx/PXL_20250406_034954726.jpg)
-## Ingredients
+![300](../gfx/PXL_20250406_034954726.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|pasta|500 g|
+|tomato-sauce|400 mL|
+|minced meat|350 g|
+|garlic|2 cloves|
+|tomato paste|2 tbsp|
+|carrot|1|
+|salt|1|
+|oil|-|
+|water|-|
+|pepper|-|
+|italian herbs seasoning blend|-|
+|marjoram|-|
+|wine (red)|-|
 
 ## Recipe
 1. chop ***onion***, **garlic**
