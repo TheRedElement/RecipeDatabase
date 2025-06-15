@@ -13,30 +13,6 @@ theme: tre_light
 marp: false
 paginate: false
 aliases: 
-ingredients:
-  - water
-  - tomato
-  - spring onion
-  - capsicum
-  - garlic
-  - tomato paste
-  - sugar
-  - oil
-  - pepper
-  - pepper spice
-  - salt
-amounts:
-  - 100mL
-  - "3"
-  - "2"
-  - 20g
-  - 2cloves
-  - 1.5tbsp
-  - 0.5tbsp
-  - "0"
-  - "0"
-  - "0"
-  - "0"
 acknowledgements: 
 links:
   - https://www.gutekueche.at/letscho-rezept-12683
@@ -45,7 +21,21 @@ links:
 
 # Letscho
 
-![](../gfx/PXL_20250422_091543344.jpg)
+![300](../gfx/PXL_20250422_091543344.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|100 mL|
+|tomato|3|
+|spring onion|2|
+|capsicum|20 g|
+|garlic|2 cloves|
+|tomato paste|1.5 tbsp|
+|sugar|0.5 tbsp|
+|oil|-|
+|pepper|-|
+|pepper spice|-|
+|salt|-|
 
 ## Recipe
 1. peel and chop **onions**, **garlic**

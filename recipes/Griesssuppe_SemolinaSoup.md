@@ -3,23 +3,36 @@ tags:
   - soup
   - ill
   - vegetarian
-category: cooking
-country:
+category:
+  - cooking
+country: 
 duration_min: 30
 todo: false
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
+
 
 # Grießsuppe (Semolina Soup)
 
-![](../gfx/IMG_20231126_184614.jpg)
+![300](../gfx/IMG_20231126_184614.jpg)
 
----
-
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|1000 mL|
+|butter|40 g|
+|farina|5 tbsp|
+|carrot|1|
+|egg|1|
+|onion|1|
+|parsley|1|
+|soup seasoning|-|
+|salt|-|
 
 ## Recipe
 1. finely chop **onion**

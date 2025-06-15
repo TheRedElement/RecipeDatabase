@@ -7,21 +7,31 @@ category:
   - sweet
 country:
   - usa
-ingredients: 
-amounts: 
 duration_min: 
-todo: false
+todo: true
 acknowledgements:
   - Andrea Schmidt
 theme: tre_light
 marp: false
 paginate: false
+links:
 ---
-
 
 # Pancakes (Andrea Schmidt)
 
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|buttermilk|360 mL|
+|flour|250 g|
+|milk|60 mL|
+|oil|60 mL|
+|sugar|35 g|
+|baking powder|19 g|
+|salt|5.5 g|
+|baking soda|3 g|
+|vanilla extract|2 g|
+|egg|2|
 
 ## Recipe
 ### Dry

@@ -1,20 +1,34 @@
 ---
 tags:
   - pasta
-category: cooking
-country:
-duration_min:
+category:
+  - cooking
+country: 
+duration_min: 
 todo: false
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
-# Nudel mit Ei
-![](../gfx/PXL_20250518_032953551.jpg)
 
-## Ingredients
+# Nudel mit Ei
+![300](../gfx/PXL_20250518_032953551.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|pasta|500 g|
+|egg|8|
+|bacon cubes|0|
+|oil|-|
+|parmesan|-|
+|pepper|-|
+|provence seasoning blend|-|
+|salt|-|
+
 
 ## Recipe
 1. cook [spaghetti](Pasta.md)

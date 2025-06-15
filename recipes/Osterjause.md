@@ -7,22 +7,6 @@ category:
   - tradition
 country:
   - austria
-ingredients:
-  - ham
-  - egg
-  - selchwurst
-  - apple
-  - horseradish
-  - tongue (beef)
-  - vinegar
-amounts:
-  - 50dag
-  - "4"
-  - "4"
-  - "2"
-  - 100g
-  - "0"
-  - "0"
 duration_min: 
 todo: false
 acknowledgements:
@@ -41,7 +25,17 @@ paginate: false
 - [ ] update ingredients once [Reindling](Reindling.md) done
 - [ ] update ingredients once [Osterpinze](Osterpinze.md) done
 
-![](../gfx/IMG_20240330_142044.jpg)
+![300](../gfx/IMG_20240330_142044.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|ham|50 dag|
+|egg|4|
+|selchwurst|4|
+|apple|2|
+|horseradish|100 g|
+|tongue (beef)|0|
+|vinegar|0|
 
 ## Recipe
 

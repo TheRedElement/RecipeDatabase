@@ -1,22 +1,33 @@
 ---
 tags:
   - sweet
-category: cooking
+category:
+  - cooking
 country:
   - austria
-duration_min:
-todo: false
-
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
+  - https://www.gutekueche.at/einfaches-palatschinkenrezept-rezept-4278
 ---
-
 # Palatschinken
 
-![](../gfx/PXL_20250329_031809635.jpg)
+![300](../gfx/PXL_20250329_031809635.jpg)
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|milk|400 mL|
+|flour|200 g|
+|egg|2|
+|salt|0.32 g|
+|butter|-|
+|oil|-|
+|sparkling water|-|
 
 ## Recipe
 
@@ -24,7 +35,7 @@ paginate: false
 1. mix **flour**, **milk**, **egg**, and **salt**
 1. let rest for ~10min
 1. stir once again
-    1. if dough too viscous add sparkling **water**
+    1. if dough too viscous add **sparkling water**
 
 ### Baking the Palatschinken
 1. heat pan to reach [leidenfrost effect](https://en.wikipedia.org/wiki/Leidenfrost_effect) ([Leidenfrost, 1964](../references/references.pdf))
@@ -36,4 +47,3 @@ paginate: false
 
 
 ## Notes
-* [https://www.gutekueche.at/einfaches-palatschinkenrezept-rezept-4278](https://www.gutekueche.at/einfaches-palatschinkenrezept-rezept-4278)

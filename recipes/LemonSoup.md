@@ -1,23 +1,45 @@
 ---
 tags:
   - soup
-category: cooking
-country: greece
-duration_min:
+category:
+  - cooking
+country:
+  - greece
+duration_min: 
 todo: false
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
 
 # Lemon Soup
 
-![](../gfx/IMG_20241201_182535.jpg)
+![300](../gfx/IMG_20241201_182535.jpg)
 
----
-
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|1000 mL|
+|egg|3|
+|carrot|2|
+|lemon|2|
+|celery|0.6|
+|leek|0.6|
+|onion|0.6|
+|parsley|0.6|
+|bay leaf|-|
+|bread|-|
+|cream|-|
+|juniper berries|-|
+|oil|-|
+|pepper|-|
+|rice|-|
+|salt|-|
+|soup seasoning|-|
+|soup vegetables|-|
 
 ## Recipe
 

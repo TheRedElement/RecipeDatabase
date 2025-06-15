@@ -1,24 +1,36 @@
 ---
 tags:
   - risotto
-category: cooking
+category:
+  - cooking
 country:
   - italy
-duration_min:
+duration_min: 
 todo: false
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
 
 # Risotto Agli Zucchini
 
-![](../gfx/PXL_20250223_083411370.jpg)
+![300](../gfx/PXL_20250223_083411370.jpg)
 
----
-
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|1800 mL|
+|rice|800 g|
+|(bacon cubes)|200 g|
+|parmesan|40 g|
+|garlic|2 cloves|
+|zucchini|2|
+|onion|1|
+|soup  sesaoning|-|
+|oil|-|
 
 ## Recipe
 1. preparation

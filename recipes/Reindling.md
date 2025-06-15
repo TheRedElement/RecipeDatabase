@@ -10,14 +10,18 @@ country:
 duration_min: 
 todo: true
 theme: tre_light
-marp: true
+marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
-
 
 # Kärntner Reindling
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+
 
 ## Recipe
 

@@ -1,24 +1,37 @@
 ---
-tags:
-  - 
-category: cooking
+tags: 
+category:
+  - cooking
 country:
   - austria
 duration_min: 60
 todo: false
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Käsespätzle
 
-![](../gfx/PXL_20250305_090156369.jpg)
+![300](../gfx/PXL_20250305_090156369.jpg)
 
---- 
-
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|cheese (hard)|300 g|
+|flour|300 g|
+|milk|150 mL|
+|cream|75 mL|
+|butter|50 g|
+|egg|3|
+|onion|1.5|
+|salt|-|
+|chive|-|
+|oil|-|
+|pepper|-|
+|water|-|
 
 ## Recipe
 

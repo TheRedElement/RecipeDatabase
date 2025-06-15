@@ -1,19 +1,37 @@
 ---
-tags:
-  - 
-category: cooking
-country:
-duration_min:
-todo: false
-
+tags: 
+category:
+  - cooking
+country: 
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
 
 # Paprika Geschnetzeltes
 
-## Ingredients
+![300](../gfx/PXL_20250401_084821659.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|rice|800 g|
+|cream|500 mL|
+|capsicum|4|
+|onion|2|
+|chicken breast|1 kg|
+|garlic|-|
+|oil|-|
+|parmesan|-|
+|pepper|-|
+|pepper spice|-|
+|provence seasoning blend|-|
+|salt|-|
 
 ## Recipe
 1. preparation

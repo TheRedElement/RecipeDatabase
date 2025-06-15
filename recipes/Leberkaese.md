@@ -1,20 +1,26 @@
 ---
-tags:
-  - 
-category: cooking
+tags: 
+category:
+  - cooking
 country:
   - austria
-duration_min:
-todo: false
-
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
 
 # Leberkäse
 
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+
 
 ## Recipe
 

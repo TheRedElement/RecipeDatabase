@@ -11,30 +11,6 @@ theme: tre_light
 marp: false
 paginate: false
 aliases: 
-ingredients:
-  - pumpkin
-  - water
-  - rice
-  - wine (white)
-  - parmesan
-  - celery
-  - onion
-  - soup seasoning (vegetables)
-  - butter
-  - marjoram
-  - oil
-amounts:
-  - 1200g
-  - 1200mL
-  - 300g
-  - 150ml
-  - 50g
-  - "1"
-  - "1"
-  - "1"
-  - "0"
-  - "0"
-  - "0"
 acknowledgements: 
 links:
   - https://www.jamieoliver.com/recipes/rice-recipes/silky-squash-risotto/
@@ -42,9 +18,21 @@ links:
 
 # Risotto alla Zucca
 
-![](../gfx/PXL_20250503_040908636.jpg)
+![300](../gfx/PXL_20250503_040908636.jpg)
 
----
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|pumpkin|1200 g|
+|water|1200 mL|
+|rice|300 g|
+|wine (white)|150 ml|
+|parmesan|50 g|
+|celery|1|
+|onion|1|
+|soup seasoning (vegetables)|-|
+|butter|-|
+|marjoram|-|
+|oil|-|
 
 ## Recipe
 1. preparation

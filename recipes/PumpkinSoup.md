@@ -1,19 +1,25 @@
 ---
 tags:
   - soup
-category: cooking
-country:
-duration_min:
-todo: false
-
+category:
+  - cooking
+country: 
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
+  - https://www.recipetineats.com/classic-pumpkin-soup/
 ---
 
 # Pumpkin Soup
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+
 
 ## Recipe
 1. prepare [vegetable broth](./Soup_Vegetables.md) in large pot
@@ -33,4 +39,3 @@ paginate: false
 1. season with **soup seasoning**, **salt**, **pepper**
 
 ## Notes
-* [https://www.recipetineats.com/classic-pumpkin-soup/](https://www.recipetineats.com/classic-pumpkin-soup/ )

@@ -6,20 +6,6 @@ aliases:
 category:
   - side
 country: 
-ingredients:
-  - oil
-  - pepper spice
-  - potato
-  - garlic powder
-  - salt
-  - pepper
-amounts:
-  - 3tbsp
-  - 1.5tsp
-  - "4"
-  - 1.5tsp
-  - 1tsp
-  - 0.5tsp
 duration_min: 45
 todo: false
 acknowledgements: 
@@ -32,8 +18,18 @@ paginate: false
 
 # Potato Wedges
 
+![300](../gfx/PXL_20250514_091642478.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|oil|3 tbsp|
+|pepper spice|1.5 tsp|
+|potato|4|
+|garlic powder|1.5 tsp|
+|salt|1 tsp|
+|pepper|0.5 tsp|
+
 ## Recipe
-![](../gfx/PXL_20250514_091642478.jpg)
 ### Seasoning
 1. mix **pepper spice**, **garlic powder**, **onion powder**, **salt**, **pepper**
 

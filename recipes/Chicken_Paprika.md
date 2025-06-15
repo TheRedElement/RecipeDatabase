@@ -16,8 +16,6 @@ links:
 
 
 # Chicken (Paprika)
-![300](../gfx/PXL_20250401_084821659.jpg)
-
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

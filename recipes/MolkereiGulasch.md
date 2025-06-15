@@ -10,15 +10,22 @@ todo: false
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
 
 # Molkerei Gulasch
 
 ![300](../gfx/IMG_20231125_144736.jpg) ![300](../gfx/PXL_20250527_044942054.jpg)
 
---
-
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|fruits|-|
+|honey|-|
+|nuts|-|
+|yoghurt|-|
 
 ## Recipe
 1. cut **fruit** into bite-sized pieces

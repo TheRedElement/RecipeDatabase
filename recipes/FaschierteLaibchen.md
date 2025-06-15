@@ -1,19 +1,34 @@
 ---
-tags:
-  - 
-category: cooking
-country:
-duration_min:
-todo: false
-
+tags: 
+category:
+  - cooking
+country: 
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Faschierte Laibchen
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|garlic|6 cloves|
+|egg|2|
+|onion|2|
+|minced meat|0.5 kg|
+|breadcrumb|-|
+|marjoram|-|
+|nutmeg|-|
+|oil|-|
+|parsley|-|
+|pepper|-|
+|salt|-|
+|thyme|-|
 
 ## Recipe
 1. soften old **bread-roll**/**bredcrumb** in water (~15min)

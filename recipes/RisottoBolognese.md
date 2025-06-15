@@ -6,52 +6,38 @@ category:
 country:
   - italy
 duration_min: 
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false
 aliases: 
-ingredients:
-  - water
-  - tomato-sauce
-  - rice
-  - parmesan
-  - celery
-  - oil (olive)
-  - butter
-  - bay leaf
-  - carrot
-  - onion
-  - tomato
-  - minced meat
-  - basil
-  - italian herbs seasoning blend
-  - pepper
-  - salt
-  - soup seasoning (vegetables)
-amounts:
-  - 650mL
-  - 330mL
-  - 250g
-  - 100g
-  - 50g
-  - 30mL
-  - 15g
-  - "1"
-  - "1"
-  - "1"
-  - "150g"
-  - 0.2kg
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
 acknowledgements: 
 links:
 ---
 
 # Risotto Bolognese
+
+![300](../gfx/PXL_20250612_085253379.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|650 mL|
+|tomato-sauce|330 mL|
+|rice|250 g|
+|parmesan|100 g|
+|celery|50 g|
+|oil (olive)|30 mL|
+|butter|15 g|
+|bay leaf|1|
+|carrot|1|
+|onion|1|
+|tomato|150 g|
+|minced meat|0.2 kg|
+|basil|-|
+|italian herbs seasoning blend|-|
+|pepper|-|
+|salt|-|
+|soup seasoning (vegetables)|-|
 
 ## Recipe
 1. chop **onion**, **carrot**, **celery**, **tomato**

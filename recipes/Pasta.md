@@ -9,11 +9,19 @@ duration_min:
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
+
 
 # Spaghetti
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|pasta|500 g|
+|salt|-|
+|water|-|
 
 ## Recipe
 1. boil salted **water**

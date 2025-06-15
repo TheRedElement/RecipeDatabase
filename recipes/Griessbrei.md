@@ -10,28 +10,22 @@ theme: tre_light
 marp: false
 paginate: false
 aliases: 
-ingredients:
-  - milk
-  - farina
-  - banana
-  - cocoa
-  - sugar
-  - butter
-amounts:
-  - 100mL
-  - 20g
-  - "4"
-  - "0"
-  - "0"
-  - "0"
 acknowledgements: 
 links:
 ---
 
 
 # Grießbrei
-![](../gfx/PXL_20250331_121458181.jpg)
-## Ingredients
+![300](../gfx/PXL_20250331_121458181.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|milk|100 mL|
+|farina|20 g|
+|banana|4|
+|cocoa|-|
+|sugar|-|
+|butter|-|
 
 ## Recipe
 1. boil **milk** in pot
@@ -47,5 +41,4 @@ links:
 8. let cool for more viscous result, eat right away for more liquid
 
 ## Notes
-
 * preferably use older **banana** as they have a lot of natural sweetness to them

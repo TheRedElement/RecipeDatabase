@@ -1,19 +1,26 @@
 ---
 tags:
   - spice
-category: cooking
-country:
-duration_min:
+category:
+  - cooking
+country: 
+duration_min: 
 todo: false
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
+  - https://www.foodnetwork.com/how-to/packages/food-network-essentials/how-to-cut-papaya
 ---
 
 # Papaya Seeds
 
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+
 
 ## Recipe
 1. rinse **papaya** seeds
@@ -28,4 +35,3 @@ paginate: false
 * results in powder that tastes
     * peppery
     * a little like **cress (water**)
-* [https://www.foodnetwork.com/how-to/packages/food-network-essentials/how-to-cut-papaya](https://www.foodnetwork.com/how-to/packages/food-network-essentials/how-to-cut-papaya)

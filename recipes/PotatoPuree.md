@@ -1,19 +1,29 @@
 ---
 tags:
   - potato
-category: cooking
-country:
-duration_min:
-todo: false
-
+category:
+  - cooking
+country: 
+duration_min: 
+todo: true
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
+  - https://www.gutekueche.at/kartoffelpueree-rezept-8784
 ---
 
 # Potato Puree
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|potato|500 g|
+|milk|65 mL|
+|butter|25 g|
+|nutmeg|0.5 g|
+|salt|0.5 g|
 
 ## Recipe
 1. wash, peel, and cut **potato** into pieces
@@ -26,5 +36,3 @@ paginate: false
 
 
 ## Notes
-
-* [https://www.gutekueche.at/kartoffelpueree-rezept-8784](https://www.gutekueche.at/kartoffelpueree-rezept-8784)

@@ -11,36 +11,6 @@ theme: tre_light
 marp: false
 paginate: false
 aliases: 
-ingredients:
-  - water
-  - carrot
-  - pasta
-  - celery
-  - onion
-  - tomato
-  - leek
-  - minced meat
-  - oil
-  - pepper
-  - pepper spice
-  - salt
-  - soup seasoning (vegetables)
-  - thyme
-amounts:
-  - 1000mL
-  - 200g
-  - 200g
-  - 100g
-  - "2"
-  - "2"
-  - "0.5"
-  - 0.5kg
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
 acknowledgements:
   - Daniela Steinwender
 links:
@@ -49,7 +19,25 @@ links:
 
 # Nudeleintopf
 
-![](../gfx/PXL_20250507_090646098.jpg)
+![300](../gfx/PXL_20250507_090646098.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|1000 mL|
+|carrot|200 g|
+|pasta|200 g|
+|celery|100 g|
+|onion|2|
+|tomato|2|
+|leek|0.5|
+|minced meat|0.5 kg|
+|oil|-|
+|pepper|-|
+|pepper spice|-|
+|salt|-|
+|soup seasoning (vegetables)|-|
+|thyme|-|
+
 
 ## Recipe
 1. chop **onions**

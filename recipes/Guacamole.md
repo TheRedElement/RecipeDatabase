@@ -1,19 +1,31 @@
 ---
 tags:
   - sauce
-category: cooking
-country:
-duration_min:
+category:
+  - cooking
+country: 
+duration_min: 
 todo: true
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Guacamole
 
-## Ingredients
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|avocado|4|
+|lime|1.5|
+|jalapeno|1|
+|onion|0.5|
+|tomato|0.5|
+|cilantro|-|
+|salt|-|
 
 ## Recipe
 1. finely chop **onion**, **cilantro**, **jalapeno**

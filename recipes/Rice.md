@@ -13,7 +13,11 @@ paginate: false
 
 # Rice
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|rice|800 g|
+|water|1000 mL|
+|salt|-|
 
 ## Recipe
 1. add **rice** to pot

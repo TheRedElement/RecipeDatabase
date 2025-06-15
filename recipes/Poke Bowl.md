@@ -4,48 +4,6 @@ aliases:
 category: 
 country:
   - hawaii
-ingredients:
-  - tofu
-  - oil
-  - soy sauce
-  - vinegar
-  - lemon
-  - spring onion
-  - garlic
-  - ginger
-  - peanut butter
-  - salt
-  - starch
-  - edamame
-  - mango
-  - nuts
-  - pomegranate
-  - rice
-  - salad
-  - spinach
-  - tomato
-  - cucumber
-amounts:
-  - 300g
-  - 240mL
-  - 240mL
-  - 6mL
-  - "4"
-  - "4"
-  - "3"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
-  - "0"
 duration_min: 
 todo: false
 acknowledgements: 
@@ -57,7 +15,31 @@ paginate: false
 
 
 # Poke Bowl
-![](../gfx/PXL_20250413_031727090.jpg)
+![300](../gfx/PXL_20250413_031727090.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|tofu|300 g|
+|oil|240 mL|
+|soy sauce|240 mL|
+|vinegar|6 mL|
+|lemon|4|
+|spring onion|4|
+|garlic|3|
+|ginger|-|
+|peanut butter|-|
+|salt|-|
+|starch|-|
+|edamame|-|
+|mango|-|
+|nuts|-|
+|pomegranate|-|
+|rice|-|
+|salad|-|
+|spinach|-|
+|tomato|-|
+|cucumber|-|
+
 ## Recipe
 
 1. Combine various different options from [Base](#Base), [Protein](#Protein), [Veggies](#Veggies), [Sauce](#Sauce), [Toppings](#Toppings)

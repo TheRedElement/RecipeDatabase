@@ -11,12 +11,29 @@ todo: false
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
-# Knödel (Semmel)
 
-![](../gfx/PXL_20250323_075626273.jpg)
-## Ingredients
+# Semmelknöde
+
+![300](../gfx/PXL_20250323_075626273.jpg)
+
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|breadcrumb|300 g|
+|milk|250 mL|
+|flour|30 g|
+|butter|25 g|
+|egg|2|
+|onion|1|
+|nutmeg|-|
+|parsley|-|
+|salt|-|
+|water|-|
 
 ## Recipe
 

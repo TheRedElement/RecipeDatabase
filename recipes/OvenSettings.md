@@ -4,8 +4,6 @@ tags:
 aliases: 
 category: 
 country: 
-ingredients: 
-amounts: 
 duration_min: 
 todo: false
 acknowledgements: 

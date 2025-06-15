@@ -11,12 +11,31 @@ todo: false
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Gulasch (Beef)
 
-![](../gfx/PXL_20250323_080123124.jpg)
-## Ingredients
+![300](../gfx/PXL_20250323_080123124.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|water|1500 mL|
+|meat (beef;shoulder)|1000 g|
+|butter|50 g|
+|garlic|6 cloves|
+|onion|3|
+|tomato paste|2 tbsp|
+|caraway|-|
+|flour|-|
+|marjoram|-|
+|pepper|-|
+|pepper spice|-|
+|salt|-|
+|soup seasoning|-|
+|vinegar|-|
 
 ## Recipe
 

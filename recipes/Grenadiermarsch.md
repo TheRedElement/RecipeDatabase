@@ -1,20 +1,24 @@
 ---
 tags:
   - pasta
-category: cooking
+category:
+  - cooking
 country:
   - austria
-duration_min:
+duration_min: 
 todo: true
-
 theme: tre_light
 marp: false
 paginate: false
+aliases: 
+acknowledgements: 
+links:
 ---
 
 # Grenadiermarsch
 
-## Ingredients
+|Ingredient|Amount (4 portions)|
+| :- | :- |
 
 ## Recipe
 

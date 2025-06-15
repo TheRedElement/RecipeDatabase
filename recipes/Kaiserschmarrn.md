@@ -1,26 +1,11 @@
 ---
-tags: 
+tags:
+  - sweet
 aliases: 
 category:
   - sweet
 country:
   - austria
-ingredients:
-  - milk
-  - flour
-  - egg
-  - butter
-  - raisin
-  - salt
-  - sugar
-amounts:
-  - 350ml
-  - 270g
-  - "5"
-  - "0"
-  - 1pinch
-  - "0"
-  - "0"
 duration_min: 
 todo: false
 acknowledgements:
@@ -30,9 +15,22 @@ theme: tre_light
 marp: false
 paginate: false
 ---
+
 # Kaiserschmarrn
-![](../gfx/PXL_20250412_113504363.jpg)
+![300](../gfx/PXL_20250412_113504363.jpg)
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|milk|350 mL|
+|flour|270 g|
+|egg|5|
+|butter|-|
+|raisin|-|
+|salt|-|
+|sugar|-|
+
 ## Recipe
+
 ### Dough
 1. mix flour, eggs, sugar, salt, raisins, milk
 2. optionally add a little bit of sparkling water
@@ -50,4 +48,3 @@ paginate: false
 
 ## Notes
 * commonly served with [Apfelmus](Apfelmus)
-* 
