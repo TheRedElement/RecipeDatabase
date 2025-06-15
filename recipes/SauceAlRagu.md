@@ -6,7 +6,7 @@ category:
 country:
   - italy
 duration_min: 
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false

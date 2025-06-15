@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Wok_Vegetables.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wok_Vegetables"
+              "title": "README"
             },
             "group": "d507df446c84efd6"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Wok_Vegetables.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wok_Vegetables"
+              "title": "README"
             },
             "group": "d507df446c84efd6"
           }
@@ -449,8 +449,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b489b7de73de6677",
+  "active": "e3fb6593ab6c4168",
   "lastOpenFiles": [
+    "recipes/SpaghettiAglioEPomodoro.md",
+    "README.md",
+    "recipes/SpaghettiAgliSpinaci.md",
+    "recipes/SauceTomato.md",
+    "recipes/SauceAlRagu.md",
+    "recipes/Chicken_Paprika.md",
+    "recipes/PakrikaGeschnetzeltes.md",
+    "recipes/DahlCurry_SriLanka.md",
+    "recipes/Chicken_Teriyaki.md",
+    "recipes/ApfelKrenSuppe.md",
+    "gfx/PXL_20250614_032336054.jpg",
+    "recipes/SpaghettiAlRagu.md",
+    "recipes/Palatschinken.md",
+    "recipes/Wok_Vegetables.md",
     "recipes/Wok.md",
     "recipes/WienerSchnitzel.md",
     "recipes/Vanillesauce.md",
@@ -464,25 +478,11 @@
     "recipes/Tacos_CombinedDish.md",
     "recipes/Tacos.md",
     "recipes/Strudel_Spinach.md",
-    "recipes/Strudel_Ham.md",
-    "recipes/Sterz.md",
-    "recipes/SpaghettiPomodoroEMozzarella.md",
-    "recipes/SpaghettiMitSchinkenRahmSauce.md",
-    "recipes/SpaghettiConPesto_Genovese.md",
-    "recipes/SpaghettiCarbonara.md",
     "gfx/PXL_20250520_093409646.jpg",
     "gfx/PXL_20250527_044942054.jpg",
     "gfx/PXL_20250526_091042688.jpg",
     "gfx/PXL_20250518_032953551.jpg",
-    "recipes/SpaghettiAlRagu.md",
-    "recipes/SpaghettiAlLemone.md",
-    "recipes/SpaghettiAllAssassina.md",
-    "recipes/SpaghettiAgliSpinaci.md",
-    "recipes/SpaghettiAglioEPomodoro.md",
-    "recipes/SauceTomato.md",
-    "recipes/SpaghettiAglioEOlio.md",
     "gfx/PXL_20250316_030704050.jpg",
-    "gfx/PXL_20250614_032336054.jpg",
     "gfx/PXL_20250608_041626270.jpg",
     "gfx/PXL_20250612_085253379.jpg",
     "recipes/DahlCurry_SriLanka.pdf",

@@ -10,7 +10,6 @@ The individual recipes can be found in [./recipes/](./recipes/)
 
 ```dataview
 TABLE
-	ingredients AS "Ingredients", amounts AS "Amounts (4 Portions)",
 	filter(file.outlinks, (l) => !regexmatch("^.+gfx/.+$", string(l))) AS "Outlinks"
 WHERE 
 	file.name != "README"

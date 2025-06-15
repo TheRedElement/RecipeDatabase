@@ -6,7 +6,7 @@ category:
 country:
   - austria
 duration_min: 
-todo: true
+todo: false
 acknowledgements: 
 links:
   - https://www.gutekueche.at/apfel-kren-suppe-rezept-33071

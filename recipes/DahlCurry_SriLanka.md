@@ -8,7 +8,7 @@ category:
 country:
   - srilanka
 duration_min: 60
-todo: true
+todo: false
 acknowledgements:
   - Maleesha Bandara
 links: 

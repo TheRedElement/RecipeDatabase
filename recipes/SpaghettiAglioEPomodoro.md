@@ -5,7 +5,7 @@ category:
   - cooking
 country: 
 duration_min: 
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false
@@ -15,6 +15,8 @@ links:
 ---
 
 # Spaghetti Aglio E Pomodoro
+
+![300](../gfx/PXL_20250614_032336054.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

@@ -5,7 +5,7 @@ category:
   - cooking
 country: 
 duration_min: 
-todo: false
+todo: true
 theme: tre_light
 marp: false
 paginate: false
