@@ -8,40 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9eca078d30175103",
+            "id": "2f17072c625f3b45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Spinatknoedel.md",
+                "file": "recipes/Marillenknoedel_PotatoDough.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spinatknoedel"
+              "title": "Marillenknoedel_PotatoDough"
             },
-            "group": "839c72a8215a6958"
+            "group": "ec852fa612b712f3"
           }
         ]
       },
       {
-        "id": "031204886d63d1c2",
+        "id": "11ec2bd6e804be73",
         "type": "tabs",
         "children": [
           {
-            "id": "614df89cd13c4417",
+            "id": "890943bc6e0ee672",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Spinatknoedel.md",
+                "file": "recipes/Marillenknoedel_PotatoDough.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spinatknoedel"
+              "title": "Marillenknoedel_PotatoDough"
             },
-            "group": "839c72a8215a6958"
+            "group": "ec852fa612b712f3"
           }
         ]
       }
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -457,10 +458,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "614df89cd13c4417",
+  "active": "2f17072c625f3b45",
   "lastOpenFiles": [
-    "recipes/Semmelknoedel.md",
     "recipes/Spinatknoedel.md",
+    "recipes/Marillenknoedel_PotatoDough.md",
+    "recipes/Semmelknoedel.md",
     "recipes/Soup_Beef.md",
     "README.md",
     "recipes/SpaghettiAglioEPomodoro.md",
@@ -485,7 +487,6 @@
     "recipes/Tea_SriLanka.md",
     "recipes/Tafelspitz.md",
     "recipes/TacoSauce.md",
-    "recipes/Tacos_CombinedDish.md",
     "gfx/PXL_20250520_093409646.jpg",
     "gfx/PXL_20250527_044942054.jpg",
     "gfx/PXL_20250526_091042688.jpg",
