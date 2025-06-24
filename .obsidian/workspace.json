@@ -422,6 +422,16 @@
             "id": "8fba09651137256f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3aa7e5e656871f5c",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -429,7 +439,7 @@
             }
           },
           {
-            "id": "3aa7e5e656871f5c",
+            "id": "21fcedc768fb5dde",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -458,7 +468,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f17072c625f3b45",
+  "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
     "recipes/Spinatknoedel.md",
     "recipes/Marillenknoedel_PotatoDough.md",

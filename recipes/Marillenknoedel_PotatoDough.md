@@ -1,8 +1,12 @@
 ---
-tags: 
+tags:
+  - knodel
+  - sweet
 aliases: 
-category: 
-country: 
+category:
+  - sweet
+country:
+  - austria
 duration_min: 
 todo: true
 acknowledgements: 

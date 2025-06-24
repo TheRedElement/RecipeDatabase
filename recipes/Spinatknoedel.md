@@ -1,7 +1,7 @@
 ---
 tags:
-  - base
   - knodel
+  - vegetarian
 category:
   - cooking
 country:
@@ -22,13 +22,13 @@ links:
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
-|spinach|800 g|
+|spinach|600 g|
 |breadcrumb|300 g|
 |milk|250 mL|
 |flour|30 g|
-|butter|25 g|
-|egg|2|
-|onion|1|
+|butter|30 g|
+|egg|3|
+|onion|1.5|
 |nutmeg|-|
 |parmesan|-|
 |parsley|-|
@@ -46,7 +46,7 @@ links:
 5. roast **onions** in **butter**
 6. add **nutmeg**, **parsley**, **salt**
 7. let **foam** once
-8. in large bowl mix **breadcrumb**, **flour**, **salt**, **onions**
+8. in large bowl mix **breadcrumb**, **flour**, **salt**, **onions**, **spinach**
 9. mix **milk** with **egg**
 10. add *milk-egg* mixture to rest
 11. let rest for a few minutes
@@ -55,7 +55,7 @@ links:
 1. add **salt** to **water** and bring to a boil
 2. from [dough](#dough) form knödel with hands
 3. gently place in cooking water
-4. let sit for about 10 min
+4. let sit for $\approx10\,min$
 
 ### to serve
 1. roast butter in pan (until brown)
