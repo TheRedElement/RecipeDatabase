@@ -19,6 +19,7 @@ links:
 
 # Spinatknödel
 
+![300](../gfx/PXL_20250624_100955996.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Marillenknoedel_PotatoDough.md",
+                "file": "recipes/Spinatknoedel.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Marillenknoedel_PotatoDough"
+              "title": "Spinatknoedel"
             },
             "group": "ec852fa612b712f3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Marillenknoedel_PotatoDough.md",
+                "file": "recipes/Spinatknoedel.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Marillenknoedel_PotatoDough"
+              "title": "Spinatknoedel"
             },
             "group": "ec852fa612b712f3"
           }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5,
-    "collapsed": true
+    "width": 204.5
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -468,10 +467,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "890943bc6e0ee672",
   "lastOpenFiles": [
-    "recipes/Spinatknoedel.md",
+    "gfx/PXL_20250624_100955996.jpg",
     "recipes/Marillenknoedel_PotatoDough.md",
+    "recipes/Spinatknoedel.md",
     "recipes/Semmelknoedel.md",
     "recipes/Soup_Beef.md",
     "README.md",
@@ -496,7 +496,6 @@
     "recipes/Teriyaki_Sauce.md",
     "recipes/Tea_SriLanka.md",
     "recipes/Tafelspitz.md",
-    "recipes/TacoSauce.md",
     "gfx/PXL_20250520_093409646.jpg",
     "gfx/PXL_20250527_044942054.jpg",
     "gfx/PXL_20250526_091042688.jpg",
