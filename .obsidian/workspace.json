@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Spinatknödel.md",
+                "file": "recipes/Semmelknoedel.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spinatknödel"
+              "title": "Semmelknoedel"
             },
             "group": "839c72a8215a6958"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Spinatknödel.md",
+                "file": "recipes/Semmelknoedel.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spinatknödel"
+              "title": "Semmelknoedel"
             },
             "group": "839c72a8215a6958"
           }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5,
-    "collapsed": true
+    "width": 204.5
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -458,10 +457,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "614df89cd13c4417",
   "lastOpenFiles": [
-    "recipes/Semmelknödel.md",
-    "recipes/Spinatknödel.md",
+    "recipes/Spinatknoedel.md",
+    "recipes/Semmelknoedel.md",
     "recipes/Soup_Beef.md",
     "README.md",
     "recipes/SpaghettiAglioEPomodoro.md",

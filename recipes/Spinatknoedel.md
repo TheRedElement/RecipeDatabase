@@ -63,4 +63,4 @@ links:
 3. grate parmesan atop Knödel
 
 ## Notes
-* [dough](#dough) similar to [Semmelknödel](Semmelknödel.md)
+* [dough](#dough) similar to [Semmelknoedel](Semmelknoedel.md)
