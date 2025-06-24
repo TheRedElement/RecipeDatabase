@@ -7,7 +7,7 @@ category:
 country:
   - austria
 duration_min: 
-todo: false
+todo: true
 theme: tre_light
 marp: false
 paginate: false
@@ -17,7 +17,7 @@ links:
 ---
 
 
-# Semmelknöde
+# Semmelknödel
 
 ![300](../gfx/PXL_20250323_075626273.jpg)
 

@@ -57,7 +57,7 @@ links:
 1. add **flour** to bind if necessary 
 
 ## Side
-* [semmel knödel](./Knoedel_Semmel.md)
+* [semmel knödel](Semmelknödel.md)
 * **bread (dark)**
 * **bread (white)**
 

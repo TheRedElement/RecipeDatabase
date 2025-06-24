@@ -6,44 +6,42 @@
       {
         "id": "29915ac8a7d2604c",
         "type": "tabs",
-        "dimension": 52.94759825327511,
         "children": [
           {
-            "id": "b489b7de73de6677",
+            "id": "9eca078d30175103",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "recipes/Spinatknödel.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Spinatknödel"
             },
-            "group": "d507df446c84efd6"
+            "group": "839c72a8215a6958"
           }
         ]
       },
       {
-        "id": "ab785e09e4f75b00",
+        "id": "031204886d63d1c2",
         "type": "tabs",
-        "dimension": 47.05240174672489,
         "children": [
           {
-            "id": "e3fb6593ab6c4168",
+            "id": "614df89cd13c4417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "recipes/Spinatknödel.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Spinatknödel"
             },
-            "group": "d507df446c84efd6"
+            "group": "839c72a8215a6958"
           }
         ]
       }
@@ -102,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 204.5,
+    "collapsed": true
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -413,6 +412,16 @@
             "id": "609d7368038d14cf",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8fba09651137256f",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -420,7 +429,7 @@
             }
           },
           {
-            "id": "8fba09651137256f",
+            "id": "3aa7e5e656871f5c",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -449,10 +458,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3fb6593ab6c4168",
+  "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
-    "recipes/SpaghettiAglioEPomodoro.md",
+    "recipes/Semmelknödel.md",
+    "recipes/Spinatknödel.md",
+    "recipes/Soup_Beef.md",
     "README.md",
+    "recipes/SpaghettiAglioEPomodoro.md",
     "recipes/SpaghettiAgliSpinaci.md",
     "recipes/SauceTomato.md",
     "recipes/SauceAlRagu.md",
@@ -469,15 +481,12 @@
     "recipes/WienerSchnitzel.md",
     "recipes/Vanillesauce.md",
     "recipes/Tofu_Fried.md",
-    "recipes/Untitled.md",
     "recipes/TirolerGroestl.md",
     "recipes/Teriyaki_Sauce.md",
     "recipes/Tea_SriLanka.md",
     "recipes/Tafelspitz.md",
     "recipes/TacoSauce.md",
     "recipes/Tacos_CombinedDish.md",
-    "recipes/Tacos.md",
-    "recipes/Strudel_Spinach.md",
     "gfx/PXL_20250520_093409646.jpg",
     "gfx/PXL_20250527_044942054.jpg",
     "gfx/PXL_20250526_091042688.jpg",
