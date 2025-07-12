@@ -8,6 +8,35 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8432584a95930cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Frittatensuppe.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Frittatensuppe"
+            },
+            "group": "2935eee611b38194"
+          },
+          {
+            "id": "0e590591766b8e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Soup_Beef.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Soup_Beef"
+            }
+          },
+          {
             "id": "2f17072c625f3b45",
             "type": "leaf",
             "state": {
@@ -21,38 +50,8 @@
               "title": "Frittaten"
             },
             "group": "ec852fa612b712f3"
-          },
-          {
-            "id": "8432584a95930cef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "SchweinsmedallionsMitPfefferrahmsauce"
-            },
-            "group": "2935eee611b38194"
-          },
-          {
-            "id": "0e590591766b8e8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/Palatschinken.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Palatschinken"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "11ec2bd6e804be73",
@@ -79,12 +78,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
+                "file": "recipes/Frittatensuppe.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SchweinsmedallionsMitPfefferrahmsauce"
+              "title": "Frittatensuppe"
             },
             "group": "2935eee611b38194"
           }
@@ -523,14 +522,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "8432584a95930cef",
   "lastOpenFiles": [
     "recipes/Soup_Beef.md",
+    "recipes/Palatschinken.md",
+    "recipes/Frittatensuppe.md",
+    "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
+    "recipes/Frittaten.md",
     "recipes/Soup_Vegetables.md",
     "recipes/Soup_Chicken.md",
-    "recipes/Frittatensuppe.md",
-    "recipes/Frittaten.md",
-    "recipes/Palatschinken.md",
     "recipes/Spinatknoedel.md",
     "gfx/PXL_20250624_100955996.jpg",
     "recipes/Marillenknoedel_PotatoDough.md",
@@ -552,7 +552,6 @@
     "recipes/WienerSchnitzel.md",
     "recipes/Vanillesauce.md",
     "recipes/Tofu_Fried.md",
-    "recipes/TirolerGroestl.md",
     "gfx/PXL_20250520_093409646.jpg",
     "gfx/PXL_20250527_044942054.jpg",
     "gfx/PXL_20250526_091042688.jpg",
