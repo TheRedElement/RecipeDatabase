@@ -9,13 +9,14 @@ todo: true
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
+aliases:
+  - Rindsuppe
 acknowledgements: 
 links:
 ---
 
 
-# Beef Soup
+# Rindsuppe
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

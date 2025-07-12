@@ -13,16 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Spinatknoedel.md",
+                "file": "recipes/Frittaten.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spinatknoedel"
+              "title": "Frittaten"
             },
             "group": "ec852fa612b712f3"
+          },
+          {
+            "id": "8432584a95930cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SchweinsmedallionsMitPfefferrahmsauce"
+            },
+            "group": "2935eee611b38194"
+          },
+          {
+            "id": "0e590591766b8e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Palatschinken.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Palatschinken"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "11ec2bd6e804be73",
@@ -34,16 +64,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Spinatknoedel.md",
+                "file": "recipes/Frittaten.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spinatknoedel"
+              "title": "Frittaten"
             },
             "group": "ec852fa612b712f3"
+          },
+          {
+            "id": "2594fa09ad9ebb0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SchweinsmedallionsMitPfefferrahmsauce"
+            },
+            "group": "2935eee611b38194"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -431,6 +477,16 @@
             "id": "3aa7e5e656871f5c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "21fcedc768fb5dde",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -438,7 +494,7 @@
             }
           },
           {
-            "id": "21fcedc768fb5dde",
+            "id": "5fd251347405a934",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -467,13 +523,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "890943bc6e0ee672",
+  "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/Soup_Beef.md",
+    "recipes/Soup_Vegetables.md",
+    "recipes/Soup_Chicken.md",
+    "recipes/Frittatensuppe.md",
+    "recipes/Frittaten.md",
+    "recipes/Palatschinken.md",
+    "recipes/Spinatknoedel.md",
     "gfx/PXL_20250624_100955996.jpg",
     "recipes/Marillenknoedel_PotatoDough.md",
-    "recipes/Spinatknoedel.md",
     "recipes/Semmelknoedel.md",
-    "recipes/Soup_Beef.md",
     "README.md",
     "recipes/SpaghettiAglioEPomodoro.md",
     "recipes/SpaghettiAgliSpinaci.md",
@@ -486,16 +547,12 @@
     "recipes/ApfelKrenSuppe.md",
     "gfx/PXL_20250614_032336054.jpg",
     "recipes/SpaghettiAlRagu.md",
-    "recipes/Palatschinken.md",
     "recipes/Wok_Vegetables.md",
     "recipes/Wok.md",
     "recipes/WienerSchnitzel.md",
     "recipes/Vanillesauce.md",
     "recipes/Tofu_Fried.md",
     "recipes/TirolerGroestl.md",
-    "recipes/Teriyaki_Sauce.md",
-    "recipes/Tea_SriLanka.md",
-    "recipes/Tafelspitz.md",
     "gfx/PXL_20250520_093409646.jpg",
     "gfx/PXL_20250527_044942054.jpg",
     "gfx/PXL_20250526_091042688.jpg",
@@ -513,7 +570,6 @@
     "gfx/oven_fanforced.png.crdownload",
     "gfx/oven_fanassist.png",
     "gfx/oven_fanassist.png.crdownload",
-    "gfx/oven_bottomheat.png",
     "references/references.pdf"
   ]
 }

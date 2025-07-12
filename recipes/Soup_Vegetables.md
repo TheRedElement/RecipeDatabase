@@ -9,13 +9,14 @@ todo: false
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
+aliases:
+  - Gemuesesuppe
 acknowledgements: 
 links:
   - https://www.gutekueche.at/gemuesesuppe-rezept-8768
 ---
 
-# Vegetable Soup
+# Gemüsesuppe
 ![300](../gfx/PXL_20250526_091042688.jpg)
 
 |Ingredient|Amount (4 portions)|

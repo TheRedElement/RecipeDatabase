@@ -9,12 +9,13 @@ todo: true
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
+aliases:
+  - Huehnersuppe
 acknowledgements: 
 links:
 ---
 
-# Chicken Soup
+# Hühnersuppe
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
