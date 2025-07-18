@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Tafelspitz.md",
+                "file": "recipes/SpaghettiAllAssassina.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tafelspitz"
+              "title": "SpaghettiAllAssassina"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Tafelspitz.md",
+                "file": "recipes/SpaghettiAllAssassina.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tafelspitz"
+              "title": "SpaghettiAllAssassina"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -487,9 +487,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e590591766b8e8b",
+  "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
     "recipes/Soup_Beef.md",
+    "recipes/SpaghettiAllAssassina.md",
+    "recipes/Tafelspitz.md",
     "recipes/Soup_Vegetables.md",
     "recipes/Frittatensuppe.md",
     "recipes/Palatschinken.md",
@@ -515,8 +517,6 @@
     "recipes/Wok_Vegetables.md",
     "recipes/Wok.md",
     "recipes/WienerSchnitzel.md",
-    "recipes/Vanillesauce.md",
-    "recipes/Tofu_Fried.md",
     "gfx/PXL_20250520_093409646.jpg",
     "gfx/PXL_20250527_044942054.jpg",
     "gfx/PXL_20250526_091042688.jpg",

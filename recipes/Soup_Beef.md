@@ -11,8 +11,9 @@ marp: false
 paginate: false
 aliases:
   - Rindsuppe
-acknowledgements: 
-links:
+acknowledgements:
+  - Oma Berni
+links: []
 ---
 
 
