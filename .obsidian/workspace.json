@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Soup_Beef.md",
+                "file": "recipes/Tafelspitz.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Soup_Beef"
+              "title": "Tafelspitz"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Soup_Beef.md",
+                "file": "recipes/Tafelspitz.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Soup_Beef"
+              "title": "Tafelspitz"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -489,8 +489,8 @@
   },
   "active": "0e590591766b8e8b",
   "lastOpenFiles": [
-    "recipes/Soup_Vegetables.md",
     "recipes/Soup_Beef.md",
+    "recipes/Soup_Vegetables.md",
     "recipes/Frittatensuppe.md",
     "recipes/Palatschinken.md",
     "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
