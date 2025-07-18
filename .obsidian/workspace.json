@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8432584a95930cef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/Frittatensuppe.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Frittatensuppe"
-            },
-            "group": "2935eee611b38194"
-          },
-          {
             "id": "0e590591766b8e8b",
             "type": "leaf",
             "state": {
@@ -34,61 +19,31 @@
               },
               "icon": "lucide-file",
               "title": "Soup_Beef"
-            }
-          },
-          {
-            "id": "2f17072c625f3b45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/Frittaten.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Frittaten"
             },
-            "group": "ec852fa612b712f3"
+            "group": "737d66e6da3edbc3"
           }
         ]
       },
       {
-        "id": "11ec2bd6e804be73",
+        "id": "afb5bd7792f7c318",
         "type": "tabs",
         "children": [
           {
-            "id": "890943bc6e0ee672",
+            "id": "e15ffa0807ce39a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Frittaten.md",
+                "file": "recipes/Soup_Beef.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Frittaten"
+              "title": "Soup_Beef"
             },
-            "group": "ec852fa612b712f3"
-          },
-          {
-            "id": "2594fa09ad9ebb0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/Frittatensuppe.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Frittatensuppe"
-            },
-            "group": "2935eee611b38194"
+            "group": "737d66e6da3edbc3"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -486,6 +441,16 @@
             "id": "21fcedc768fb5dde",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5fd251347405a934",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -493,7 +458,7 @@
             }
           },
           {
-            "id": "5fd251347405a934",
+            "id": "f03f7526a54b742f",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -522,14 +487,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8432584a95930cef",
+  "active": "0e590591766b8e8b",
   "lastOpenFiles": [
+    "recipes/Soup_Vegetables.md",
     "recipes/Soup_Beef.md",
-    "recipes/Palatschinken.md",
     "recipes/Frittatensuppe.md",
+    "recipes/Palatschinken.md",
     "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
     "recipes/Frittaten.md",
-    "recipes/Soup_Vegetables.md",
     "recipes/Soup_Chicken.md",
     "recipes/Spinatknoedel.md",
     "gfx/PXL_20250624_100955996.jpg",
