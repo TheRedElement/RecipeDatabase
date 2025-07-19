@@ -22,12 +22,11 @@ links: []
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |water|2000 mL|
-|meat (beef)|500 g|
-|bay leaf|2|
-|beef bones|2|
+|beef bones|660 g|
+|meat (beef)|660 g|
+|bay leaf|1|
 |onion|1|
 |soup vegetables|1|
-|leek|0.5|
 |juniper berries|0|
 |pepper|0|
 |salt|0|
@@ -47,11 +46,14 @@ links: []
 6. add cold **water** to pot
 7. add **beef bones**, **soup vegetables**, **pepper**, **juniper berries**, **bay leaf**
 	1. make sure **meat (beef)** is covered with **water**
-8. let cook on low heat for $2\,h$ (cover with lid!)
+8. add peel of **onion**
+	1. to make sure soup stays clear
+9. let cook on low heat for $2\,h$ (cover with lid!)
 	1. skim foam every now and again with spoon
-9. season with **salt**, **pepper**, **soup spices**
+	2. Make sure **meat (beef)** is soft
+10. season with **salt**, **pepper**, **soup spices**
 	1. do not season earlier because otherwise **meat (beef)** will be dry
-10. filter through sieve if you wish
+11. filter through sieve if you wish
 
 ## Notes
 1. for serving use a soup content of your choice (i.e. [Frittaten](Frittaten.md), [Griessnockerl](Griessnockerl.md), bite-sized pieces of [Tafelspitz](Tafelspitz.md))

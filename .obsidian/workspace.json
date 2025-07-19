@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/SpaghettiAllAssassina.md",
+                "file": "recipes/Soup_Beef.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SpaghettiAllAssassina"
+              "title": "Soup_Beef"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/SpaghettiAllAssassina.md",
-                "mode": "preview",
+                "file": "recipes/Soup_Beef.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SpaghettiAllAssassina"
+              "title": "Soup_Beef"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -193,8 +193,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -451,6 +451,26 @@
             "id": "5fd251347405a934",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "f03f7526a54b742f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "02a8995f3cdc2187",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -458,7 +478,7 @@
             }
           },
           {
-            "id": "f03f7526a54b742f",
+            "id": "ee110a03697fd279",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -489,8 +509,9 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
-    "recipes/Soup_Beef.md",
+    "gfx/IMG_20241201_182535.jpg",
     "recipes/SpaghettiAllAssassina.md",
+    "recipes/Soup_Beef.md",
     "recipes/Tafelspitz.md",
     "recipes/Soup_Vegetables.md",
     "recipes/Frittatensuppe.md",
@@ -516,7 +537,6 @@
     "recipes/SpaghettiAlRagu.md",
     "recipes/Wok_Vegetables.md",
     "recipes/Wok.md",
-    "recipes/WienerSchnitzel.md",
     "gfx/PXL_20250520_093409646.jpg",
     "gfx/PXL_20250527_044942054.jpg",
     "gfx/PXL_20250526_091042688.jpg",
