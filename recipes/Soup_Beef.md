@@ -24,9 +24,9 @@ links:
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
-|water|2000mL|
-|beef bones|660g|
-|meat (beef)|660g|
+|water|2000 mL|
+|beef bones|660 g|
+|meat (beef)|660 g|
 |bay leaf|1|
 |onion|1|
 |soup vegetables|1|

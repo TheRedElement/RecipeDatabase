@@ -13,6 +13,7 @@ paginate: false
 aliases: 
 acknowledgements: 
 links:
+  - https://www.gutekueche.at/omas-griessnockerl-rezept-32309
 ---
 
 # Grießnockerl
@@ -41,3 +42,7 @@ links:
 ## Notes
 * can be frozen
 * for harder core reduce cooking time
+* Content of different soups
+	* [Soup_Beef](Soup_Beef.md)
+	* [Soup_Chicken](Soup_Chicken.md)
+	* [Soup_Vegetables](Soup_Vegetables.md)

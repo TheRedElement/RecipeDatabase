@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Griessnockerl.md",
+                "file": "recipes/Griessnockerlsuppe.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Griessnockerl"
+              "title": "Griessnockerlsuppe"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Griessnockerl.md",
+                "file": "recipes/Griessnockerlsuppe.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Griessnockerl"
+              "title": "Griessnockerlsuppe"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -519,6 +519,10 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/Soup_Beef.md",
+    "recipes/Griessnockerlsuppe.md",
+    "recipes/Griessnockerl.md",
+    "recipes/Potato_ButterAndParsley.md",
     "recipes/Tafelspitzsuppe.md",
     "gfx/PXL_20250720_031553202.jpg",
     "gfx/PXL_20250624_100955996.jpg",
@@ -548,9 +552,6 @@
     "recipes/SpaghettiConPesto_Genovese.md",
     "recipes/SpaghettiCarbonara.md",
     "recipes/SpaghettiAlRagu.md",
-    "recipes/SpaghettiAlLemone.md",
-    "recipes/SpaghettiAllAssassina.md",
-    "recipes/SpaghettiAgliSpinaci.md",
     "gfx/IMG_20231125_144736.jpg",
     "gfx/IMG_20241201_182535.jpg",
     "gfx/PXL_20250614_032336054.jpg",
