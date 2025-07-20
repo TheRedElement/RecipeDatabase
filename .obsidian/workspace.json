@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Wok_Vegetables.md",
+                "file": "recipes/Griessnockerl.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wok_Vegetables"
+              "title": "Griessnockerl"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Wok_Vegetables.md",
+                "file": "recipes/Griessnockerl.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wok_Vegetables"
+              "title": "Griessnockerl"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -517,8 +517,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "0e590591766b8e8b",
   "lastOpenFiles": [
+    "recipes/Tafelspitzsuppe.md",
+    "gfx/PXL_20250720_031553202.jpg",
+    "gfx/PXL_20250624_100955996.jpg",
+    "gfx/PXL_20250720_012248760.jpg",
+    "gfx/PXL_20250720_022901872.jpg",
+    "gfx/PXL_20250720_024118056.jpg",
+    "gfx/PXL_20250720_024358304.jpg",
+    "gfx/PXL_20250720_025840259.jpg",
+    "recipes/Wok_Vegetables.md",
     "recipes/Wok.md",
     "recipes/WienerSchnitzel.md",
     "recipes/Vanillesauce.md",
@@ -526,7 +535,6 @@
     "recipes/TirolerGroestl.md",
     "recipes/Teriyaki_Sauce.md",
     "recipes/Tea_SriLanka.md",
-    "recipes/Tafelspitzsuppe.md",
     "recipes/Tafelspitz.md",
     "recipes/TacoSauce.md",
     "recipes/Tacos_CombinedDish.md",
@@ -543,15 +551,6 @@
     "recipes/SpaghettiAlLemone.md",
     "recipes/SpaghettiAllAssassina.md",
     "recipes/SpaghettiAgliSpinaci.md",
-    "recipes/SpaghettiAglioEPomodoro.md",
-    "recipes/SpaghettiAglioEOlio.md",
-    "gfx/PXL_20250624_100955996.jpg",
-    "gfx/PXL_20250720_031553202.jpg",
-    "gfx/PXL_20250720_025840259.jpg",
-    "gfx/PXL_20250720_024358304.jpg",
-    "gfx/PXL_20250720_024118056.jpg",
-    "gfx/PXL_20250720_022901872.jpg",
-    "gfx/PXL_20250720_012248760.jpg",
     "gfx/IMG_20231125_144736.jpg",
     "gfx/IMG_20241201_182535.jpg",
     "gfx/PXL_20250614_032336054.jpg",
