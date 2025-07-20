@@ -21,11 +21,11 @@ links:
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |water|500 mL|
-|farina|55 g|
+|farina|65 g|
 |butter|30 g|
 |egg|1|
-|nutmeg|1 pinch|
-|salt|2 pinches|
+|nutmeg|0.5 pinch|
+|salt|0.5 g|
 
 ## Recipe
 1. make sure to use *room temperature* **butter**
