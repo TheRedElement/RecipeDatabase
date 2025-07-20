@@ -5,7 +5,7 @@ category:
   - cooking
 country: 
 duration_min: 
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false
@@ -13,25 +13,26 @@ aliases:
   - Rindsuppe
 acknowledgements:
   - Oma Berni
-links: []
+links:
 ---
 
 
 # Rindsuppe
 
+![300](../gfx/PXL_20250720_024358304.jpg)
+![300](../gfx/PXL_20250720_024118056.jpg)
+
 |Ingredient|Amount (4 portions)|
 | :- | :- |
-|water|2000 mL|
-|beef bones|660 g|
-|meat (beef)|660 g|
+|water|2000mL|
+|beef bones|660g|
+|meat (beef)|660g|
 |bay leaf|1|
 |onion|1|
 |soup vegetables|1|
 |juniper berries|0|
 |pepper|0|
 |salt|0|
-|soup seasoning (beef)|0|
-
 
 ## Recipe
 
@@ -51,10 +52,12 @@ links: []
 9. let cook on low heat for $2\,h$ (cover with lid!)
 	1. skim foam every now and again with spoon
 	2. Make sure **meat (beef)** is soft
-10. season with **salt**, **pepper**, **soup spices**
+10. about $1.45\,h$ in season with **salt**, **pepper**
 	1. do not season earlier because otherwise **meat (beef)** will be dry
 11. filter through sieve if you wish
 
 ## Notes
-1. for serving use a soup content of your choice (i.e. [Frittaten](Frittaten.md), [Griessnockerl](Griessnockerl.md), bite-sized pieces of [Tafelspitz](Tafelspitz.md))
-2. Alternatively you can also cut the cooked **meat (beef)** into bite-sized pieces and use that
+1. for serving use a soup content of your choice
+	1. [Frittaten](Frittaten.md) => [Frittatensuppe](Frittatensuppe.md)
+	2. [Griessnockerl](Griessnockerl.md) => [Griessnockerlsuppe](Griessnockerlsuppe.md)
+	3. bite-sized pieces of [Tafelspitz](Tafelspitz.md) (cooked **meat (beef)**) => [Tafelspitzsuppe](Tafelspitzsuppe.md)

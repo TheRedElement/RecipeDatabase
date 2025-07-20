@@ -6,31 +6,32 @@ category:
 country:
   - austria
 duration_min: 
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false
 aliases: 
-acknowledgements: 
+acknowledgements:
+  - Oma Berni
 links:
 ---
 
 # Tafelspitz
 
+![300](../gfx/PXL_20250720_031553202.jpg)
+![300](../gfx/PXL_20250720_025840259.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |water|2000 mL|
-|meat (beef)|500 g|
-|bay leaf|2|
-|beef bones|2|
+|beef bones|660 g|
+|meat (beef)|660 g|
+|bay leaf|1|
 |onion|1|
 |soup vegetables|1|
-|leek|0.5|
 |juniper berries|0|
 |pepper|0|
 |salt|0|
-|soup seasoning (beef)|0|
 
 
 ## Recipe

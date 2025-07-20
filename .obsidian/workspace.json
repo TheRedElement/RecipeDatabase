@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Soup_Beef.md",
+                "file": "recipes/Wok_Vegetables.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Soup_Beef"
+              "title": "Wok_Vegetables"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Soup_Beef.md",
-                "mode": "source",
+                "file": "recipes/Wok_Vegetables.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Soup_Beef"
+              "title": "Wok_Vegetables"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -471,6 +471,16 @@
             "id": "02a8995f3cdc2187",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ee110a03697fd279",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -478,7 +488,7 @@
             }
           },
           {
-            "id": "ee110a03697fd279",
+            "id": "e8a175687fc3b71e",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -509,41 +519,42 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
-    "gfx/IMG_20241201_182535.jpg",
-    "recipes/SpaghettiAllAssassina.md",
-    "recipes/Soup_Beef.md",
-    "recipes/Tafelspitz.md",
-    "recipes/Soup_Vegetables.md",
-    "recipes/Frittatensuppe.md",
-    "recipes/Palatschinken.md",
-    "recipes/SchweinsmedallionsMitPfefferrahmsauce.md",
-    "recipes/Frittaten.md",
-    "recipes/Soup_Chicken.md",
-    "recipes/Spinatknoedel.md",
-    "gfx/PXL_20250624_100955996.jpg",
-    "recipes/Marillenknoedel_PotatoDough.md",
-    "recipes/Semmelknoedel.md",
-    "README.md",
-    "recipes/SpaghettiAglioEPomodoro.md",
-    "recipes/SpaghettiAgliSpinaci.md",
-    "recipes/SauceTomato.md",
-    "recipes/SauceAlRagu.md",
-    "recipes/Chicken_Paprika.md",
-    "recipes/PakrikaGeschnetzeltes.md",
-    "recipes/DahlCurry_SriLanka.md",
-    "recipes/Chicken_Teriyaki.md",
-    "recipes/ApfelKrenSuppe.md",
-    "gfx/PXL_20250614_032336054.jpg",
-    "recipes/SpaghettiAlRagu.md",
-    "recipes/Wok_Vegetables.md",
     "recipes/Wok.md",
-    "gfx/PXL_20250520_093409646.jpg",
-    "gfx/PXL_20250527_044942054.jpg",
-    "gfx/PXL_20250526_091042688.jpg",
-    "gfx/PXL_20250518_032953551.jpg",
-    "gfx/PXL_20250316_030704050.jpg",
-    "gfx/PXL_20250608_041626270.jpg",
-    "gfx/PXL_20250612_085253379.jpg",
+    "recipes/WienerSchnitzel.md",
+    "recipes/Vanillesauce.md",
+    "recipes/Tofu_Fried.md",
+    "recipes/TirolerGroestl.md",
+    "recipes/Teriyaki_Sauce.md",
+    "recipes/Tea_SriLanka.md",
+    "recipes/Tafelspitzsuppe.md",
+    "recipes/Tafelspitz.md",
+    "recipes/TacoSauce.md",
+    "recipes/Tacos_CombinedDish.md",
+    "recipes/Tacos.md",
+    "recipes/Strudel_Spinach.md",
+    "recipes/Strudel_Ham.md",
+    "recipes/Sterz.md",
+    "recipes/Spinatknoedel.md",
+    "recipes/SpaghettiPomodoroEMozzarella.md",
+    "recipes/SpaghettiMitSchinkenRahmSauce.md",
+    "recipes/SpaghettiConPesto_Genovese.md",
+    "recipes/SpaghettiCarbonara.md",
+    "recipes/SpaghettiAlRagu.md",
+    "recipes/SpaghettiAlLemone.md",
+    "recipes/SpaghettiAllAssassina.md",
+    "recipes/SpaghettiAgliSpinaci.md",
+    "recipes/SpaghettiAglioEPomodoro.md",
+    "recipes/SpaghettiAglioEOlio.md",
+    "gfx/PXL_20250624_100955996.jpg",
+    "gfx/PXL_20250720_031553202.jpg",
+    "gfx/PXL_20250720_025840259.jpg",
+    "gfx/PXL_20250720_024358304.jpg",
+    "gfx/PXL_20250720_024118056.jpg",
+    "gfx/PXL_20250720_022901872.jpg",
+    "gfx/PXL_20250720_012248760.jpg",
+    "gfx/IMG_20231125_144736.jpg",
+    "gfx/IMG_20241201_182535.jpg",
+    "gfx/PXL_20250614_032336054.jpg",
     "recipes/DahlCurry_SriLanka.pdf",
     "recipes/DahlCurry_SriLanka.html",
     "gfx/oven_grill.png.crdownload",
@@ -552,7 +563,6 @@
     "gfx/oven_pizza.png.crdownload",
     "gfx/oven_conventional.png.crdownload",
     "gfx/oven_fanforced.png.crdownload",
-    "gfx/oven_fanassist.png",
     "gfx/oven_fanassist.png.crdownload",
     "references/references.pdf"
   ]

@@ -8,7 +8,7 @@ category:
 country:
   - austria
 duration_min: 
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false
@@ -18,6 +18,8 @@ links:
 ---
 
 # Frittaten
+
+![300](../gfx/PXL_20250720_012248760.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

@@ -8,7 +8,7 @@ category:
 country:
   - austria
 duration_min: 
-todo: true
+todo: false
 acknowledgements: 
 links: 
 theme: tre_light
@@ -19,9 +19,26 @@ paginate: false
 
 # Fittatensuppe
 
+![300](../gfx/PXL_20250720_022901872.jpg)
+
+
 |Ingredient|Amount (4 portions)|
 | :- | :- |
-
+|milk|400 mL|
+|flour|200 g|
+|egg|2|
+|salt|0.32 g|
+|butter|-|
+|oil|-|
+|sparkling water|-|
+|water|2000mL|
+|beef bones|660g|
+|meat (beef)|660g|
+|bay leaf|1|
+|onion|1|
+|soup vegetables|1|
+|juniper berries|0|
+|pepper|0|
 
 ## Recipe
 1. prepare [Soup_Beef](Soup_Beef.md)
