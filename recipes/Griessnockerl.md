@@ -34,7 +34,7 @@ links:
 3. stir **farina** into mixture
 4. let rest for $10-15\,min$
 5. boil **salted** **water** while wating
-6. using two moist tablespoons form "nockerl" and place into salted **water**
+6. using two tablespoons form "nockerl" and place into salted **water**
 	1. let sit *without boiling* for $\approx30\,min$
 7. nockerl are done once they are firm and floating on the surface
 
