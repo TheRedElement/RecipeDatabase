@@ -30,8 +30,7 @@ links:
 
 ## Recipe
 1. make sure to use *room temperature* **butter**
-2. mix **butter**, **egg**, **salt**, **nutmeg** until foaming
-	1. ideally use a *mixer* with a *dough hook*
+2. mix **butter**, **egg**, **salt**, **nutmeg**
 3. stir **farina** into mixture
 4. let rest for $10-15\,min$
 5. boil **salted** **water** while wating
