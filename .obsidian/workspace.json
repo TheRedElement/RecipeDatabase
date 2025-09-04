@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Griessnockerlsuppe.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Griessnockerlsuppe"
+              "title": "README"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Griessnockerlsuppe.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Griessnockerlsuppe"
+              "title": "README"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -481,6 +481,26 @@
             "id": "ee110a03697fd279",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e8a175687fc3b71e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "863cac28da95052f",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -488,7 +508,7 @@
             }
           },
           {
-            "id": "e8a175687fc3b71e",
+            "id": "7020056e1b4de17f",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -506,6 +526,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -517,20 +538,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "e15ffa0807ce39a5",
   "lastOpenFiles": [
-    "recipes/Soup_Beef.md",
+    "recipes/Tafelspitzsuppe.md",
+    "README.md",
+    "recipes/Tacos_CombinedDish.md",
+    "recipes/TacoSauce.md",
+    "recipes/PumpkinSoup.md",
+    "recipes/Potato_Roasted.md",
     "recipes/Griessnockerlsuppe.md",
     "recipes/Griessnockerl.md",
-    "recipes/Potato_ButterAndParsley.md",
-    "recipes/Tafelspitzsuppe.md",
+    "recipes/SpaghettiAllAssassina.md",
+    "recipes/Egg_Omlette.md",
+    "recipes/PotatoPuree.md",
+    "recipes/Palatschinken.md",
     "gfx/PXL_20250720_031553202.jpg",
-    "gfx/PXL_20250624_100955996.jpg",
-    "gfx/PXL_20250720_012248760.jpg",
-    "gfx/PXL_20250720_022901872.jpg",
-    "gfx/PXL_20250720_024118056.jpg",
-    "gfx/PXL_20250720_024358304.jpg",
-    "gfx/PXL_20250720_025840259.jpg",
+    "gfx/PXL_20250903_084643360.jpg",
+    "gfx/PXL_20250805_213913261.jpg",
+    "gfx/PXL_20250802_041608857.jpg",
+    "gfx/PXL_20250727_101516952.jpg",
+    "gfx/PXL_20250727_101432167.jpg",
+    "gfx/PXL_20250727_101214833.jpg",
+    "gfx/PXL_20250724_095203426.jpg",
+    "gfx/PXL_20250724_094232823.jpg",
+    "gfx/PXL_20250722_083109808.jpg",
+    "recipes/Soup_Beef.md",
+    "recipes/Potato_ButterAndParsley.md",
     "recipes/Wok_Vegetables.md",
     "recipes/Wok.md",
     "recipes/WienerSchnitzel.md",
@@ -540,21 +573,9 @@
     "recipes/Teriyaki_Sauce.md",
     "recipes/Tea_SriLanka.md",
     "recipes/Tafelspitz.md",
-    "recipes/TacoSauce.md",
-    "recipes/Tacos_CombinedDish.md",
     "recipes/Tacos.md",
     "recipes/Strudel_Spinach.md",
     "recipes/Strudel_Ham.md",
-    "recipes/Sterz.md",
-    "recipes/Spinatknoedel.md",
-    "recipes/SpaghettiPomodoroEMozzarella.md",
-    "recipes/SpaghettiMitSchinkenRahmSauce.md",
-    "recipes/SpaghettiConPesto_Genovese.md",
-    "recipes/SpaghettiCarbonara.md",
-    "recipes/SpaghettiAlRagu.md",
-    "gfx/IMG_20231125_144736.jpg",
-    "gfx/IMG_20241201_182535.jpg",
-    "gfx/PXL_20250614_032336054.jpg",
     "recipes/DahlCurry_SriLanka.pdf",
     "recipes/DahlCurry_SriLanka.html",
     "gfx/oven_grill.png.crdownload",

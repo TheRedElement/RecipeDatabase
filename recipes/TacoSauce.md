@@ -3,18 +3,20 @@ tags:
   - sauce
 category:
   - cooking
-country: 
+country:
 duration_min: 45
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
-acknowledgements: 
+aliases:
+acknowledgements:
 links:
 ---
 
 # Taco Sauce
+
+![300](../gfx/PXL_20250727_101214833.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

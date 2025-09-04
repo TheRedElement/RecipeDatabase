@@ -5,19 +5,20 @@ category:
   - cooking
 country:
   - austria
-duration_min: 
-todo: true
+duration_min:
+todo: false
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
-acknowledgements: 
+aliases:
+acknowledgements:
 links:
   - https://www.gutekueche.at/omas-griessnockerl-rezept-32309
 ---
 
 # Grießnockerl
 
+![300](../gfx/PXL_20250724_094232823.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

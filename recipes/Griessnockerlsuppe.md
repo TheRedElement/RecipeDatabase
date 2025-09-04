@@ -2,15 +2,15 @@
 tags:
   - soup
   - tradition
-aliases: 
+aliases:
 category:
   - tradition
 country:
   - austria
-duration_min: 
-todo: true
-acknowledgements: 
-links: 
+duration_min:
+todo: false
+acknowledgements:
+links:
 theme: tre_light
 marp: false
 paginate: false
@@ -18,6 +18,8 @@ paginate: false
 
 
 # Grießnockerlsuppe
+
+![300](../gfx/PXL_20250724_095203426.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

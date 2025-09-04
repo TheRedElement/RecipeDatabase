@@ -18,7 +18,7 @@ links:
 # Palatschinken
 
 ![300](../gfx/PXL_20250329_031809635.jpg)
-
+![300](../gfx/PXL_20250720_094506997.jpg)
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |milk|400 mL|

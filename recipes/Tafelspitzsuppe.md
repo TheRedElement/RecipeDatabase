@@ -2,16 +2,16 @@
 tags:
   - soup
   - tradition
-aliases: 
+aliases:
 category:
   - tradition
 country:
   - austria
-duration_min: 
-todo: true
+duration_min:
+todo: false
 acknowledgements:
   - Oma Berni
-links: 
+links:
 theme: tre_light
 marp: false
 paginate: false
@@ -32,6 +32,7 @@ paginate: false
 |pepper|0|
 |salt|0|
 
+![300](../gfx/PXL_20250722_083109808.jpg)
 
 ## Recipe
 1. prepare [Soup_Beef](Soup_Beef.md)

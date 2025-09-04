@@ -1,13 +1,13 @@
 ---
 tags:
   - pasta
-aliases: 
-category: 
+aliases:
+category:
 country:
   - italy
-duration_min: 
-todo: true
-acknowledgements: 
+duration_min:
+todo: false
+acknowledgements:
 theme: tre_light
 marp: false
 paginate: false
@@ -18,6 +18,7 @@ links:
 
 # Spaghetti all'Assassina
 
+![300](../gfx/PXL_20250903_084643360.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
