@@ -24,7 +24,7 @@ links:
 |water|200 mL|
 |broccoly|10 g|
 |capsicum|2|
-|onion|2|
+|spring onion|2|
 |chili|1|
 |starch (corn)|1 g|
 |coconut milk|-|

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "recipes/Wok_Vegetables.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Wok_Vegetables"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "recipes/Wok_Vegetables.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Wok_Vegetables"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -501,6 +501,16 @@
             "id": "863cac28da95052f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7020056e1b4de17f",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -508,7 +518,7 @@
             }
           },
           {
-            "id": "7020056e1b4de17f",
+            "id": "1c96aabb13d98e0c",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -538,10 +548,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e15ffa0807ce39a5",
+  "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
-    "recipes/Tafelspitzsuppe.md",
     "README.md",
+    "recipes/Tafelspitzsuppe.md",
     "recipes/Tacos_CombinedDish.md",
     "recipes/TacoSauce.md",
     "recipes/PumpkinSoup.md",
