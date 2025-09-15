@@ -3,21 +3,33 @@ tags:
   - eggs
 category:
   - cooking
-country: 
-duration_min: 
-todo: true
+country:
+duration_min:
+todo: false
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
-acknowledgements: 
+aliases:
+acknowledgements:
 links:
 ---
 
 # Scrambled Egg
 
+![300](../gfx/PXL_20250906_110634186.jpg)
+
+
 |Ingredient|Amount (4 portions)|
 | :- | :- |
+|garlic|4 cloves|
+|onion|2|
+|bacon cubes|0 g|
+|bread|0|
+|butter|0 g|
+|oil|0 mL|
+|pepper|0 g|
+|salt|0 g|
+|vegetables|0|
 
 ## Ingredients
 

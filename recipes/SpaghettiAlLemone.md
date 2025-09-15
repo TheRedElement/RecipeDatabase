@@ -17,7 +17,7 @@ links:
 
 # Spaghetti al Lemone
 
-![300](../gfx/PXL_20250319_082227399.jpg)
+![300](../gfx/PXL_20250911_090327995.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

@@ -4,44 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "29915ac8a7d2604c",
+        "id": "925c197c8aacb7f3",
         "type": "tabs",
+        "dimension": 45.0507614213198,
         "children": [
           {
-            "id": "0e590591766b8e8b",
+            "id": "01ca2f2ef5bcc342",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Wok_Vegetables.md",
+                "file": "recipes/Egg_Scrambled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wok_Vegetables"
+              "title": "Egg_Scrambled"
             },
-            "group": "737d66e6da3edbc3"
-          }
-        ]
-      },
-      {
-        "id": "afb5bd7792f7c318",
-        "type": "tabs",
-        "children": [
+            "group": "b6dd36591508eba0"
+          },
           {
-            "id": "e15ffa0807ce39a5",
+            "id": "86eaa4be27e14eb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Wok_Vegetables.md",
+                "file": "recipes/SourDoughStarter.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SourDoughStarter"
+            },
+            "group": "95d010d3976c3fdc"
+          }
+        ]
+      },
+      {
+        "id": "667a5bb456f35d64",
+        "type": "tabs",
+        "dimension": 54.9492385786802,
+        "children": [
+          {
+            "id": "45d0f4638eaef41a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Egg_Scrambled.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Wok_Vegetables"
+              "title": "Egg_Scrambled"
             },
-            "group": "737d66e6da3edbc3"
+            "group": "b6dd36591508eba0"
+          },
+          {
+            "id": "65a8c731b9cc028b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/SourDoughStarter.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SourDoughStarter"
+            },
+            "group": "95d010d3976c3fdc"
           }
         ]
       }
@@ -75,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tumeric",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 300
   },
   "right": {
     "id": "32ca7bb4cdeb7113",
@@ -193,8 +225,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -278,7 +310,7 @@
             }
           },
           {
-            "id": "db333c364d174c47",
+            "id": "e0f25cf4f04d990f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -288,7 +320,7 @@
             }
           },
           {
-            "id": "d5fb5563adc71128",
+            "id": "af7591295f52b286",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -298,7 +330,7 @@
             }
           },
           {
-            "id": "9f31da6faff064c2",
+            "id": "c3dabf4a55668a5b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -308,7 +340,7 @@
             }
           },
           {
-            "id": "02bc2d256d32f3fa",
+            "id": "9fc376e0bc2b6cef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -318,207 +350,7 @@
             }
           },
           {
-            "id": "10578f358a92e1f4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b20aaef294997d6b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "6db8e8eb2cf7464e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "94a3e35f32cf8406",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "fcb4d7ff8dee0e02",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "a5cf64023b5da05a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "4f601cd67554c99e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "4cf78ba6791cd177",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b829eeaee675c1db",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "609d7368038d14cf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "8fba09651137256f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3aa7e5e656871f5c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "21fcedc768fb5dde",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "5fd251347405a934",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f03f7526a54b742f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "02a8995f3cdc2187",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ee110a03697fd279",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e8a175687fc3b71e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "863cac28da95052f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "7020056e1b4de17f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "1c96aabb13d98e0c",
+            "id": "8e179940e2dc7ded",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -528,7 +360,7 @@
             }
           },
           {
-            "id": "a78902c6297dab04",
+            "id": "cb1c2e2461613181",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -558,53 +390,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "01ca2f2ef5bcc342",
   "lastOpenFiles": [
-    "README.md",
-    "recipes/Tafelspitzsuppe.md",
-    "recipes/Tacos_CombinedDish.md",
-    "recipes/TacoSauce.md",
-    "recipes/PumpkinSoup.md",
-    "recipes/Potato_Roasted.md",
-    "recipes/Griessnockerlsuppe.md",
-    "recipes/Griessnockerl.md",
-    "recipes/SpaghettiAllAssassina.md",
-    "recipes/Egg_Omlette.md",
-    "recipes/PotatoPuree.md",
-    "recipes/Palatschinken.md",
-    "gfx/PXL_20250720_031553202.jpg",
+    "recipes/Wok_Vegetables.md",
+    "recipes/Eiernockerl_AppleAndCinnamon.md",
+    "recipes/Eiernockerl.md",
+    "recipes/SpaghettiAlLemone.md",
+    "recipes/Egg_Scrambled.md",
+    "recipes/Bread_SourDough.md",
+    "gfx/PXL_20250914_032203998.jpg",
+    "gfx/PXL_20250914_025820321.jpg",
+    "gfx/PXL_20250911_090327995.jpg",
+    "gfx/PXL_20250907_031518545.jpg",
+    "gfx/PXL_20250906_110634186.jpg",
+    "recipes/SourDoughStarter.md",
+    "recipes/Chicken_Paprika.md",
+    "recipes/Curry_Chicken.md",
+    "recipes/Curry_Vegetables.md",
+    "recipes/Chicken_LemonPeppered.md",
+    "recipes/Soup_Beef.md",
     "gfx/PXL_20250903_084643360.jpg",
     "gfx/PXL_20250805_213913261.jpg",
     "gfx/PXL_20250802_041608857.jpg",
     "gfx/PXL_20250727_101516952.jpg",
     "gfx/PXL_20250727_101432167.jpg",
-    "gfx/PXL_20250727_101214833.jpg",
-    "gfx/PXL_20250724_095203426.jpg",
-    "gfx/PXL_20250724_094232823.jpg",
-    "gfx/PXL_20250722_083109808.jpg",
-    "recipes/Soup_Beef.md",
-    "recipes/Potato_ButterAndParsley.md",
-    "recipes/Wok_Vegetables.md",
-    "recipes/Wok.md",
-    "recipes/WienerSchnitzel.md",
-    "recipes/Vanillesauce.md",
-    "recipes/Tofu_Fried.md",
-    "recipes/TirolerGroestl.md",
-    "recipes/Teriyaki_Sauce.md",
-    "recipes/Tea_SriLanka.md",
-    "recipes/Tafelspitz.md",
-    "recipes/Tacos.md",
-    "recipes/Strudel_Spinach.md",
-    "recipes/Strudel_Ham.md",
-    "recipes/DahlCurry_SriLanka.pdf",
-    "recipes/DahlCurry_SriLanka.html",
-    "gfx/oven_grill.png.crdownload",
-    "gfx/oven_bottomheat.png.crdownload",
-    "gfx/oven_fangrill.png.crdownload",
-    "gfx/oven_pizza.png.crdownload",
-    "gfx/oven_conventional.png.crdownload",
-    "gfx/oven_fanforced.png.crdownload",
-    "gfx/oven_fanassist.png.crdownload",
-    "references/references.pdf"
+    "recipes/Rindsuppe.pdf",
+    "recipes/Ritschert.md",
+    "recipes/Tafelspitzsuppe.md",
+    "recipes/Griessnockerlsuppe.md",
+    "references/bib-refs/bib-refs.bib",
+    "references/bib-refs/bib-refs-mypublications.bib",
+    "references/UDPackages/Shortcuts.sty",
+    "references/UDPackages/Colors.sty",
+    "references/references.tex",
+    "references/references.pdf",
+    "references/latexmkrc",
+    "references/bib-refs",
+    "references/UDPackages",
+    "recipes/Sterz.md",
+    "recipes/Spinatknoedel.md",
+    "recipes/Semmelknoedel.md",
+    "recipes/PotatoWedges.md",
+    "recipes/OvenSettings.md",
+    "recipes/Marillenknoedel_PotatoDough.md",
+    "recipes/Frittatensuppe.md",
+    "recipes/Egg_Fried.md",
+    "recipes/DahlCurry_SriLanka.md",
+    "recipes/Letscho.md",
+    "recipes/Nudeleintopf.md"
   ]
 }

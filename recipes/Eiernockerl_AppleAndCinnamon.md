@@ -3,19 +3,20 @@ tags:
   - sweet
 category:
   - cooking
-country: 
+country:
 duration_min: 60
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
-acknowledgements: 
+aliases:
+acknowledgements:
 links:
 ---
 
 # Eiernockerl (Apple and Cinnamon)
 
+![300](../gfx/PXL_20250914_032203998.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
