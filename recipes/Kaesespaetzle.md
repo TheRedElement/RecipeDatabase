@@ -43,13 +43,13 @@ links:
 ### Onion Rings
 1. chop **onion** in semirings
 1. add to small bowl
-1. mix with **flower** until well-covered
-1. heat **butter** in large pan
-1. add onion rings and roast until gold-brown
+2. mix with **flour** until well-covered
+3. heat **butter** in large pan
+4. add onion rings and roast until gold-brown
     1. use medium to high heat
     1. salt a little bit as you go
     1. the process may take some time
-1. once onion rings are done take out of pan and place onto kitchen paper
+5. once onion rings are done take out of pan and place onto kitchen paper
     1. to let the **butter** drip off
 
 ### Combination

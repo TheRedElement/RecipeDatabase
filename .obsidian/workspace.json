@@ -6,7 +6,7 @@
       {
         "id": "925c197c8aacb7f3",
         "type": "tabs",
-        "dimension": 45.0507614213198,
+        "dimension": 45.05076142131979,
         "children": [
           {
             "id": "01ca2f2ef5bcc342",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Egg_Scrambled.md",
+                "file": "recipes/Bread_SourDough.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Egg_Scrambled"
+              "title": "Bread_SourDough"
             },
             "group": "b6dd36591508eba0"
           },
@@ -43,7 +43,7 @@
       {
         "id": "667a5bb456f35d64",
         "type": "tabs",
-        "dimension": 54.9492385786802,
+        "dimension": 54.94923857868021,
         "children": [
           {
             "id": "45d0f4638eaef41a",
@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Egg_Scrambled.md",
+                "file": "recipes/Bread_SourDough.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Egg_Scrambled"
+              "title": "Bread_SourDough"
             },
             "group": "b6dd36591508eba0"
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flower",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -353,6 +353,16 @@
             "id": "8e179940e2dc7ded",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "cb1c2e2461613181",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -360,7 +370,7 @@
             }
           },
           {
-            "id": "cb1c2e2461613181",
+            "id": "6a63bff033c6ba6a",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -390,20 +400,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01ca2f2ef5bcc342",
+  "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/SourDoughStarter.md",
+    "recipes/Marillenknoedel_PotatoDough.md",
+    "recipes/Kaesespaetzle.md",
+    "recipes/Egg_Scrambled.md",
     "recipes/Wok_Vegetables.md",
     "recipes/Eiernockerl_AppleAndCinnamon.md",
     "recipes/Eiernockerl.md",
     "recipes/SpaghettiAlLemone.md",
-    "recipes/Egg_Scrambled.md",
     "recipes/Bread_SourDough.md",
     "gfx/PXL_20250914_032203998.jpg",
     "gfx/PXL_20250914_025820321.jpg",
     "gfx/PXL_20250911_090327995.jpg",
     "gfx/PXL_20250907_031518545.jpg",
     "gfx/PXL_20250906_110634186.jpg",
-    "recipes/SourDoughStarter.md",
     "recipes/Chicken_Paprika.md",
     "recipes/Curry_Chicken.md",
     "recipes/Curry_Vegetables.md",
@@ -432,11 +444,9 @@
     "recipes/Semmelknoedel.md",
     "recipes/PotatoWedges.md",
     "recipes/OvenSettings.md",
-    "recipes/Marillenknoedel_PotatoDough.md",
     "recipes/Frittatensuppe.md",
     "recipes/Egg_Fried.md",
     "recipes/DahlCurry_SriLanka.md",
-    "recipes/Letscho.md",
-    "recipes/Nudeleintopf.md"
+    "recipes/Letscho.md"
   ]
 }

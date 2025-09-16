@@ -42,7 +42,7 @@ paginate: false
 	1. ideally use a potato-press
 5. mix **potatoes** with **farina**
 6. melt $60\,g$ of **butter**
-7. add **eggs**, melted **butter**, **flower**, **salt**
+7. add **eggs**, melted **butter**, **flour**, **salt**
 8. mix until a smooth dough emerges
 
 ### knödel

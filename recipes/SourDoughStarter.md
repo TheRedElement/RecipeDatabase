@@ -20,13 +20,13 @@ paginate: false
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
-|flower (rye) | 100 g |
+|flour (rye) | 100 g |
 |water (handwarm) | 100 g | 
 
 ## Recipe
 
 ### Day 1
-* add $25\,g$ **flower (rye)** and $25\,g$ **water (handwarm)** to $300\,mL$ preserving jar
+* add $25\,g$ **flour (rye)** and $25\,g$ **water (handwarm)** to $300\,mL$ preserving jar
 * mix well
 * loosely cover with lid
 * let sit for $12\,h$ 
@@ -51,7 +51,7 @@ paginate: false
 * sourdough ready for baking
 
 ## Feeding the Dough
-* add equal parts of $water (handwarm)$ and $flower (rye)$
+* add equal parts of $water (handwarm)$ and $flour (rye)$
 * stir
 
 ## Keeping the Dough Starter Alive
@@ -60,8 +60,8 @@ paginate: false
 * [Feeding the Dough](#Feeding%20the%20Dough) once a week
 
 ### Option 2
-* [Feeding the Dough](#Feeding%20the%20Dough) it with same amount that is currently present divided equally between **flower (rye)** and **water (handwarm)**
-	* i.e., for $1\,cup$ of dough starter feed with $0.5\,cup$ **water (handwarm)** and $0.5\,cup$ **flower (rye)**
+* [Feeding the Dough](#Feeding%20the%20Dough) it with same amount that is currently present divided equally between **flour (rye)** and **water (handwarm)**
+	* i.e., for $1\,cup$ of dough starter feed with $0.5\,cup$ **water (handwarm)** and $0.5\,cup$ **flour (rye)**
 * [Feeding the Dough](#Feeding%20the%20Dough) has to be done every $12\,h-24\,h$
 	* warmer homes closer to $12\,h$
 	* colder homes closer to $24\,h$
