@@ -1,12 +1,13 @@
 ---
-tags: 
-aliases: 
-category: 
-country: 
-duration_min: 
+tags:
+aliases:
+category:
+country:
+duration_min:
 todo: true
-acknowledgements: 
+acknowledgements:
 links:
+  - https://www.gutekueche.at/kaertner-hausbrot-rezept-7220
 theme: tre_light
 marp: false
 paginate: false

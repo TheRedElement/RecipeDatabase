@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/KaerntnerHausbrot.md",
+                "file": "recipes/Bread_SourDough.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "KaerntnerHausbrot"
+              "title": "Bread_SourDough"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/KaerntnerHausbrot.md",
+                "file": "recipes/Bread_SourDough.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "KaerntnerHausbrot"
+              "title": "Bread_SourDough"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -578,10 +578,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e590591766b8e8b",
+  "active": "e15ffa0807ce39a5",
   "lastOpenFiles": [
-    "recipes/OvenSettings.md",
     "recipes/KaerntnerHausbrot.md",
+    "recipes/OvenSettings.md",
     "recipes/Bread_SourDough.md",
     "recipes/SpaghettiAlLemone.md",
     "recipes/SourDoughStarter.md",
