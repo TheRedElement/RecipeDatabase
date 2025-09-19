@@ -24,6 +24,20 @@
             "group": "b6dd36591508eba0"
           },
           {
+            "id": "136da3c481351ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/KaerntnerHausbrot.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "KaerntnerHausbrot"
+            }
+          },
+          {
             "id": "86eaa4be27e14eb1",
             "type": "leaf",
             "state": {
@@ -38,7 +52,8 @@
             },
             "group": "95d010d3976c3fdc"
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "667a5bb456f35d64",
@@ -363,6 +378,16 @@
             "id": "cb1c2e2461613181",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "6a63bff033c6ba6a",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -370,7 +395,7 @@
             }
           },
           {
-            "id": "6a63bff033c6ba6a",
+            "id": "fe98ffc6c48f777a",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -402,6 +427,8 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/Bread_SourDough.md",
+    "recipes/KaerntnerHausbrot.md",
     "recipes/SourDoughStarter.md",
     "recipes/Marillenknoedel_PotatoDough.md",
     "recipes/Kaesespaetzle.md",
@@ -410,7 +437,6 @@
     "recipes/Eiernockerl_AppleAndCinnamon.md",
     "recipes/Eiernockerl.md",
     "recipes/SpaghettiAlLemone.md",
-    "recipes/Bread_SourDough.md",
     "gfx/PXL_20250914_032203998.jpg",
     "gfx/PXL_20250914_025820321.jpg",
     "gfx/PXL_20250911_090327995.jpg",
@@ -446,7 +472,6 @@
     "recipes/OvenSettings.md",
     "recipes/Frittatensuppe.md",
     "recipes/Egg_Fried.md",
-    "recipes/DahlCurry_SriLanka.md",
-    "recipes/Letscho.md"
+    "recipes/DahlCurry_SriLanka.md"
   ]
 }

@@ -19,6 +19,12 @@ links:
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
+|flour (rye)|500 g|
+|sourdough starter|400 g|
+|caraway|1 tsp|
+|salt|1 tsp|
+|bread spices|1 tsp|
+|water|0 mL|
 
 ## Recipe
 
