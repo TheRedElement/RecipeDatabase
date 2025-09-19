@@ -13,7 +13,7 @@ paginate: false
 ---
 
 
-# Name Of Dish
+# Kärntner Hausbrot
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
