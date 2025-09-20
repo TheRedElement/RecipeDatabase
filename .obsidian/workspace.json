@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/SourDoughStarter.md",
+                "file": "recipes/KaerntnerHausbrot.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SourDoughStarter"
+              "title": "KaerntnerHausbrot"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/SourDoughStarter.md",
+                "file": "recipes/KaerntnerHausbrot.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SourDoughStarter"
+              "title": "KaerntnerHausbrot"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -573,6 +573,16 @@
             "id": "3d64f43b50b63a44",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "8d20fef872354a7d",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -580,7 +590,7 @@
             }
           },
           {
-            "id": "8d20fef872354a7d",
+            "id": "c59a7b6e82166d77",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -612,6 +622,7 @@
   },
   "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "recipes/SourDoughStarter.md",
     "README.md",
     "recipes/Eiernockerl_AppleAndCinnamon.md",
     "recipes/PumpkinSoup.md",
@@ -620,7 +631,6 @@
     "recipes/KaerntnerHausbrot.md",
     "recipes/OvenSettings.md",
     "recipes/SpaghettiAlLemone.md",
-    "recipes/SourDoughStarter.md",
     "gfx/PXL_20250914_032203998.jpg",
     "gfx/PXL_20250914_025820321.jpg",
     "gfx/PXL_20250911_090327995.jpg",

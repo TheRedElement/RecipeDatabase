@@ -40,9 +40,14 @@ paginate: false
 
 ### Baking
 1. preheat oven to $\pu{225^\circ C}$ [Conventional](OvenSettings.md#Conventional)
-2. place heat-resistant bowl with **water** into oven
-3. bake [Dough](#Dough) for $\pu{15min}$
-4. reduce heat to $\pu{180^\circ C}$ for $\pu{54min}$
+2. place cast-iron pot into oven (heat bowl)
+3. place [Dough](#Dough) into cast-iron pot
+	1. spray with water
+	2. close lid (to ensure moisture stays inside)
+4. put back in oven
+5. *(place heat-resistant bowl with **water** into oven)*
+6. bake [Dough](#Dough) for $\pu{15min}$
+7. reduce heat to $\pu{180^\circ C}$ for $\pu{54min}$
 
 ## Notes
 * **water** ensures that bread does not get dry while baking
