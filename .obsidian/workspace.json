@@ -6,6 +6,7 @@
       {
         "id": "29915ac8a7d2604c",
         "type": "tabs",
+        "dimension": 54.70494417862839,
         "children": [
           {
             "id": "0e590591766b8e8b",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Bread_SourDough.md",
+                "file": "recipes/SourDoughStarter.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bread_SourDough"
+              "title": "SourDoughStarter"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -27,6 +28,7 @@
       {
         "id": "afb5bd7792f7c318",
         "type": "tabs",
+        "dimension": 45.29505582137161,
         "children": [
           {
             "id": "e15ffa0807ce39a5",
@@ -34,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Bread_SourDough.md",
+                "file": "recipes/SourDoughStarter.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Bread_SourDough"
+              "title": "SourDoughStarter"
             },
             "group": "737d66e6da3edbc3"
           }
@@ -541,6 +543,26 @@
             "id": "2ba0255e59165d8b",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "2107d0a30edaaacb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c0e107acf222438d",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -548,7 +570,7 @@
             }
           },
           {
-            "id": "2107d0a30edaaacb",
+            "id": "3d64f43b50b63a44",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
@@ -578,11 +600,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e15ffa0807ce39a5",
+  "active": "56f1ed3fbd4dfc4f",
   "lastOpenFiles": [
+    "README.md",
+    "recipes/Eiernockerl_AppleAndCinnamon.md",
+    "recipes/PumpkinSoup.md",
+    "recipes/Pancakes.md",
+    "recipes/Bread_SourDough.md",
     "recipes/KaerntnerHausbrot.md",
     "recipes/OvenSettings.md",
-    "recipes/Bread_SourDough.md",
     "recipes/SpaghettiAlLemone.md",
     "recipes/SourDoughStarter.md",
     "gfx/PXL_20250914_032203998.jpg",
@@ -591,11 +617,9 @@
     "gfx/PXL_20250907_031518545.jpg",
     "gfx/PXL_20250906_110634186.jpg",
     "recipes/Wok_Vegetables.md",
-    "README.md",
     "recipes/Tafelspitzsuppe.md",
     "recipes/Tacos_CombinedDish.md",
     "recipes/TacoSauce.md",
-    "recipes/PumpkinSoup.md",
     "recipes/Potato_Roasted.md",
     "recipes/Griessnockerlsuppe.md",
     "recipes/Griessnockerl.md",
@@ -614,8 +638,6 @@
     "recipes/WienerSchnitzel.md",
     "recipes/Vanillesauce.md",
     "recipes/Tofu_Fried.md",
-    "recipes/TirolerGroestl.md",
-    "recipes/Teriyaki_Sauce.md",
     "recipes/DahlCurry_SriLanka.pdf",
     "recipes/DahlCurry_SriLanka.html",
     "gfx/oven_grill.png.crdownload",

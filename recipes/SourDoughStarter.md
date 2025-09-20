@@ -7,6 +7,7 @@ country:
 duration_min:
 todo: true
 acknowledgements:
+  - Reiner Schmidt
 links:
   - https://www.finis-feinstes.at/r/sauerteig-ansatz/
   - https://www.farmhouseonboone.com/how-to-care-for-sourdough-starter/
@@ -51,6 +52,9 @@ paginate: false
 * sourdough ready for baking
 
 ## Feeding the Dough
+* if the starter has been expanding already
+	* remove amount of the starter equal to the total amount you want to feed it with
+		* either throw it away, or use it for baking
 * add equal parts of $water (handwarm)$ and $flour (rye)$
 * stir
 
@@ -69,3 +73,7 @@ paginate: false
 
 ## Notes
 * when using for baking allow the sourdough starter to sit for $4\,h-12\,h$ 
+* some things that might enhance your experience
+	* diestetic malt powder
+	* rye flour
+	* cast-iron pot for baking (oven compliant)
