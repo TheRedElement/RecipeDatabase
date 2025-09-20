@@ -6,7 +6,7 @@
       {
         "id": "29915ac8a7d2604c",
         "type": "tabs",
-        "dimension": 54.70494417862839,
+        "dimension": 54.70494417862838,
         "children": [
           {
             "id": "0e590591766b8e8b",
@@ -28,7 +28,7 @@
       {
         "id": "afb5bd7792f7c318",
         "type": "tabs",
-        "dimension": 45.29505582137161,
+        "dimension": 45.29505582137162,
         "children": [
           {
             "id": "e15ffa0807ce39a5",
@@ -563,6 +563,16 @@
             "id": "c0e107acf222438d",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "3d64f43b50b63a44",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -570,7 +580,7 @@
             }
           },
           {
-            "id": "3d64f43b50b63a44",
+            "id": "8d20fef872354a7d",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",

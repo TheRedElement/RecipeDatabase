@@ -74,6 +74,6 @@ paginate: false
 ## Notes
 * when using for baking allow the sourdough starter to sit for $4\,h-12\,h$ 
 * some things that might enhance your experience
-	* diestetic malt powder
+	* diastatic malt powder
 	* rye flour
 	* cast-iron pot for baking (oven compliant)
