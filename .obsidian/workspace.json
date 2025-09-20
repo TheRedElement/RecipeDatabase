@@ -22,8 +22,23 @@
               "title": "KaerntnerHausbrot"
             },
             "group": "737d66e6da3edbc3"
+          },
+          {
+            "id": "8e7f818f75c0d7dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/SourDoughStarter.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SourDoughStarter"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "afb5bd7792f7c318",
@@ -620,15 +635,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "8e7f818f75c0d7dc",
   "lastOpenFiles": [
+    "recipes/KaerntnerHausbrot.md",
     "recipes/SourDoughStarter.md",
     "README.md",
     "recipes/Eiernockerl_AppleAndCinnamon.md",
     "recipes/PumpkinSoup.md",
     "recipes/Pancakes.md",
     "recipes/Bread_SourDough.md",
-    "recipes/KaerntnerHausbrot.md",
     "recipes/OvenSettings.md",
     "recipes/SpaghettiAlLemone.md",
     "gfx/PXL_20250914_032203998.jpg",
