@@ -47,7 +47,7 @@ paginate: false
 4. put back in oven
 5. *(place heat-resistant bowl with **water** into oven)*
 6. bake [Dough](#Dough) for $\pu{15min}$
-7. reduce heat to $\pu{180^\circ C}$ for $\pu{54min}$
+7. reduce heat to $\pu{180^\circ C}$ for $\pu{45min}$
 
 ## Notes
 * **water** ensures that bread does not get dry while baking
