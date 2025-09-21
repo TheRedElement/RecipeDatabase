@@ -32,7 +32,7 @@ paginate: false
 
 ### Dough
 1. mix **flour (rye)**, **flour (wheat)**, **sourdough starter** ([SourDoughStarter](SourDoughStarter.md)), **yeast**, **salt**, **caraway**, **aniseed**, **fennel seeds**, **water**
-	1. slowly knead to dough (ideally with *dough-hook*)
+	1. slowly knead to dough (ideally with *dough-hook*, by hand also works)
 2. knead by hand until not sticky anymore
 	1. should still be firm
 3. cover bowl with cloth

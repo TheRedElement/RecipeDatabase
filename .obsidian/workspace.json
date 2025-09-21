@@ -38,8 +38,7 @@
             },
             "group": "211342f5f425eaad"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "afb5bd7792f7c318",
@@ -662,10 +661,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56f1ed3fbd4dfc4f",
+  "active": "0e590591766b8e8b",
   "lastOpenFiles": [
-    "recipes/KaerntnerHausbrot.md",
     "recipes/SourDoughStarter.md",
+    "recipes/KaerntnerHausbrot.md",
     "README.md",
     "recipes/Eiernockerl_AppleAndCinnamon.md",
     "recipes/PumpkinSoup.md",
