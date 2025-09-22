@@ -133,6 +133,14 @@ paginate: false
 	* colder homes closer to $\pu{24h}$
 * when using for baking allow the sourdough starter to sit for $\pu{4h}-\pu{12h}$ after [Feeding](#Feeding)
 
+## Preserving Part of the Starter
+1. only works once starter is mature
+2. separate $\pu{100g}$ and put in fridge
+3. when needed 
+	1. feed once 
+	2. let sit for $\pu{12}-\pu{24h}$ (reactivation) 
+	3. use as usual
+4. if you're lucky and have a strong stater, it might survive for a few months in the fridge
 
 ## Notes
 * good alternative for **four (rye)**: **flour (wheat)**

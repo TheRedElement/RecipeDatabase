@@ -6,7 +6,7 @@
       {
         "id": "925c197c8aacb7f3",
         "type": "tabs",
-        "dimension": 51.637554585152834,
+        "dimension": 51.63755458515284,
         "children": [
           {
             "id": "01ca2f2ef5bcc342",
@@ -396,6 +396,16 @@
             "id": "200208d31e5bae81",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "56f046191995f7f5",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -403,7 +413,7 @@
             }
           },
           {
-            "id": "56f046191995f7f5",
+            "id": "ea8309d07ce34497",
             "type": "leaf",
             "state": {
               "type": "Saved Queries View",
