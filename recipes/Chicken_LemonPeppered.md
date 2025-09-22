@@ -1,22 +1,24 @@
 ---
-tags: 
+tags:
 category:
   - cooking
-country: 
-duration_min: 
-todo: true
+country:
+duration_min:
+todo: false
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
-ingredients: 
-amounts: 
-acknowledgements: 
+aliases:
+ingredients:
+amounts:
+acknowledgements:
 links:
 ---
 
 
 # Chicken (Lemon Peppered)
+
+![](../gfx/PXL_20250920_025634600.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

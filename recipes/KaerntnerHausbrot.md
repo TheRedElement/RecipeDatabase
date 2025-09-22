@@ -4,7 +4,7 @@ aliases:
 category:
 country:
 duration_min:
-todo: true
+todo: false
 acknowledgements:
 links:
   - https://www.gutekueche.at/kaertner-hausbrot-rezept-7220
@@ -15,6 +15,10 @@ paginate: false
 
 
 # Kärntner Hausbrot
+
+|||
+| :-: | :-: | :-: |
+|![](../gfx/PXL_20250921_012120040.jpg)|![](../gfx/PXL_20250921_033612587.jpg)|![](../gfx/PXL_20250921_033909827.jpg)|
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
