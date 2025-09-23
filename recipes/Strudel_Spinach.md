@@ -11,36 +11,35 @@ marp: false
 paginate: false
 aliases:
 acknowledgements:
+  - Daniela Steinwender
 links:
-  - https://www.gutekueche.at/feta-spinat-strudel-rezept-10955
 ---
 
 # Strudel (Spinach)
 
-
 |Ingredient|Amount (4 portions)|
 | :- | :- |
-|spinach|200 g|
-|feta|150 g|
-|oil (olive)|15 mL|
-|garlic|3 cloves|
-|egg|1|
-|onion|1|
-|puff pastry|1 sheets|
-|oregano|1 pinch|
-|salt|3 pinch|
+|cream|400 mL|
+|feta|230 g|
+|spinach|5 chunks|
+|garlic|2 cloves|
+|(soup seasoning)|-|
+|lemon|0.5|
+|(green goddess seasoning blend)|-|
+|oil|-|
+|salt|-|
+|tumeric|-|
 
 ## Recipe
 
 ### Filling
-1. peel and chop **onion**, **garlic**
-2. dice **feta**
-3. heat **oil (olive)** in pan
-4. add **onion**, **garlic**
-	1. roast for $\approx \pu{3min}$
-5. reduce temperature
-6. add **spinach**, **oregano**, **salt**
-7. close lid and steam for $\approx \pu{10min}$
+1. roast **garlic** in a bit of **oil**
+2. add (frozen) **spinach**
+    1. to unfreeze/evaporate water
+3. fill up with **cream**
+4. once it came to a boil add **feta**
+5. season with **salt**, **turmeric**, **lemon**, (**green goddess seasoning blend**)
+    1. (can be substituted with **soup seasoning**)
 
 ### Merge
 1. mix **egg**

@@ -24,26 +24,23 @@ links:
 |cream|400 mL|
 |feta|230 g|
 |spinach|5 chunks|
-|garlic|3 cloves|
-|onion|1|
+|garlic|2 cloves|
 |(soup seasoning)|-|
 |lemon|0.5|
 |(green goddess seasoning blend)|-|
 |oil|-|
-|(parmesan)|-|
-|pepper|-|
 |salt|-|
 |tumeric|-|
 |water|-|
 
 ## Recipe
 1. prepare [pasta](Pasta.md)
-1. roast **onion**, **garlic** in a bit of **oil**
-1. add (frozen) **spinach**
+2. roast **garlic** in a bit of **oil**
+3. add (frozen) **spinach**
     1. to unfreeze/evaporate water
-1. fill up with **cream**
-1. once it came to a boil add **feta cheese**
-2. season with **salt**, **pepper**, **turmeric**, **lemon**, (**green goddess seasoning blend**)
+4. fill up with **cream**
+5. once it came to a boil add **feta**
+6. season with **salt**, **turmeric**, **lemon**, (**green goddess seasoning blend**)
     1. (can be substituted with **soup seasoning**)
 
 ## Notes
