@@ -5,7 +5,7 @@ category:
   - cooking
 country:
 duration_min:
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false
@@ -50,3 +50,4 @@ links:
 	1. done once dough has light brownish tint
 
 ## Notes
+* if wished, you can also add **olives** into [Filling](#Filling)

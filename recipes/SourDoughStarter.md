@@ -5,12 +5,13 @@ aliases:
 category:
 country:
 duration_min:
-todo: true
+todo: false
 acknowledgements:
   - Reiner Schmidt
 links:
   - https://www.finis-feinstes.at/r/sauerteig-ansatz/
   - https://www.farmhouseonboone.com/how-to-care-for-sourdough-starter/
+  - https://natashaskitchen.com/sourdough-starter-recipe/
 theme: tre_light
 marp: false
 paginate: false
