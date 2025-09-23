@@ -3,7 +3,8 @@
 #my files
 # ~/
 # .obsidian     #uncomment if you don't want to copy settings
-# .vscode
+.vscode
+.obsidian/workspace.json
 
 ##ignore
 
