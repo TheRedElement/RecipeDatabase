@@ -16,7 +16,7 @@ paginate: false
 
 # Kärntner Hausbrot
 
-|||
+||||
 | :-: | :-: | :-: |
 |![](../gfx/PXL_20250921_012120040.jpg)|![](../gfx/PXL_20250921_033612587.jpg)|![](../gfx/PXL_20250921_033909827.jpg)|
 
@@ -51,7 +51,8 @@ paginate: false
 4. put back in oven
 5. *(place heat-resistant bowl with **water** into oven)*
 6. bake [Dough](#Dough) for $\pu{15min}$
-7. reduce heat to $\pu{180^\circ C}$ for $\pu{45min}$
+7. add expansion cut (cut across the loaf to make sure it can expand)
+8. reduce heat to $\pu{180^\circ C}$ for $\pu{45min}$
 
 ## Notes
 * **water** ensures that bread does not get dry while baking
