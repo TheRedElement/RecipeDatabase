@@ -22,12 +22,12 @@ links:
 |puff pastry|1 sheets|
 |capsicum (pepper)|1|
 |corn|0 g|
-|ham|0 dag|
+|ham|10 dag|
 |italian herbs seasoning|0 g|
 |parmesan|0 g|
 |pepper|0 g|
 |salt|0 g|
-|sourcream|0 mL|
+|sourcream|50 g|
 
 ## Recipe
 
