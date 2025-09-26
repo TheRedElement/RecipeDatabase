@@ -28,13 +28,13 @@ paginate: false
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
-|flour (rye) | 100 g |
-|water (handwarm) | 100 g | 
+|flour (rye) | 200 g |
+|water (room temperature) | 200 g | 
 
 ## Recipe
 
 ### Day 1
-1. add $\pu{50g}$ **flour (rye)** and $\pu{50g}$ **water (handwarm)** to $\pu{700mL}$ preserving jar
+1. add $\pu{50g}$ **flour (rye)** and $\pu{50g}$ **water (room temperature)** to $\pu{700mL}$ preserving jar
 2. mix well
 3. loosely cover with lid
 4. let sit for $\pu{12h}$ 
@@ -63,8 +63,8 @@ paginate: false
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
-|flour (all purpose) | 100 g |
-|water (room temperature) | 100 g |
+|flour (rye) | 50 g |
+|water (room temperature) | 50 g |
 
 
 ### Day 1
@@ -72,17 +72,19 @@ paginate: false
 	1. weight of jar hosting the starter
 	2. day of starter creation
 	3. type of **flour** used
-2. inside the jar mix $\pu{100g}$ **flour (rye)** with $\pu{100g}$ **water (room temperature)**
+2. inside the jar mix $\pu{50g}$ **flour (rye)** with $\pu{50g}$ **water (room temperature)**
 	1. combined mixture should be thick
 3. scrape sides of jar to keep things clean
 4. cover with loose-fitting lid
 5. mark height of starter with **rubber band**
-6. let sit for $\pu{24h}$
+6. let sit for $\pu{12h}$
+7. stir once
+8. let sit for another $\pu{12h}$
 
 ### Raising the Starter
 1. check the starter daily at around the same time
 	1. if no change (usually day 2)
-		1. let sit for another $\pu{24h}$
+		1. let sit for $\pu{24h}$
 	2. visible bubbles + doubled in size (usually day 3)
 		1. discard half of the starter instead of the amount shown in [Feeding2](#Feeding2)
 		2. [Feeding2](#Feeding2)
@@ -103,8 +105,8 @@ paginate: false
 5. starter floats in bowl of water
 		
 ### Feeding2
-1. discard all BUT $\pu{100}$ of the starter
-2. feed with equal parts ($\pu{100g}$ each) of **flour (all purpose)** and **water (room temperature)**
+1. discard all BUT $\pu{100g}$ of the starter
+2. feed with equal parts ($\pu{50g}$ each) of **flour (rye)** and **water (room temperature)**
 3. mix well
 4. scrape down the side
 5. cover with loose-fitting lid
@@ -116,7 +118,7 @@ paginate: false
 1. if the starter has been expanding already
 	1. remove amount of the starter equal to the total amount you want to feed it with
 		* either throw it away, or use it for baking
-2. add equal parts of $water (handwarm)$ and $flour (rye)$
+2. add equal parts of **water (room temperature)** and **flour (rye)**
 3. stir
 
 ## Keeping the Dough Starter Alive
@@ -127,8 +129,8 @@ paginate: false
 
 ### Option 2
 1. [Feeding](#Feeding) always should be done with the same type of **flour** that you used in the beginning
-2. [Feeding](#Feeding) with same amount that is currently present divided equally between **flour (rye)** and **water (handwarm)**
-	1. i.e., for $\pu{1cup}$ of dough starter feed with $0\pu{.}5cup$ **water (handwarm)** and $0\pu{.}5cup$ **flour (rye)**
+2. [Feeding](#Feeding) with same amount that is currently present divided equally between **flour (rye)** and **water (room temperature)**
+	1. i.e., for $\pu{1cup}$ of dough starter feed with $0\pu{.}5cup$ **water (room temperature)** and $0\pu{.}5cup$ **flour (rye)**
 3. [Feeding](#Feeding) has to be done every $\pu{12h}-\pu{24h}$
 	* warmer homes closer to $\pu{12h}$
 	* colder homes closer to $\pu{24h}$
@@ -144,7 +146,7 @@ paginate: false
 4. if you're lucky and have a strong stater, it might survive for a few months in the fridge
 
 ## Notes
-* good alternative for **four (rye)**: **flour (wheat)**
+* good alternative for **four (rye)**: **flour (wheat)**, **four (wholemeal)**
 	* other types work as well, but might take longer
 * some things that might enhance your experience
 	* diastatic malt powder
