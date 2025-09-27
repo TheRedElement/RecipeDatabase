@@ -17,7 +17,7 @@ links:
 ---
 
 
-# Bread (Sour-Dough)
+# Sour-Dough Bread
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
