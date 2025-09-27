@@ -1,5 +1,8 @@
 ---
 tags:
+  - baking
+  - bread
+  - base
 aliases:
 category:
 country:

@@ -2,6 +2,7 @@
 tags:
   - baking
   - bread
+  - base
 category: cooking
 country:
 duration_min:
