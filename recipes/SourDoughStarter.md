@@ -22,21 +22,13 @@ paginate: false
 | :-: | :-: |
 |![](../gfx/PXL_20250922_205719051.jpg)|![](../gfx/PXL_20250922_205729478.jpg)|
 
-
-
-|Ingredient|Amount (4 portions)|
-| :- | :- |
-|flour (rye) | 50 g/day |
-|water (room temperature) | 50 g/day | 
-
-## Recipe
-
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |flour (rye) | 50 g |
 |water (room temperature) | 50 g |
 |rubber band | 1 |
 
+## Recipe
 
 ### Day 1
 1. record
