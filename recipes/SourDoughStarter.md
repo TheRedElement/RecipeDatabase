@@ -53,17 +53,17 @@ paginate: false
 1. let sit for $\pu{24h}$
 
 #### Visible Bubbles + Doubled in Size (Usually Day 3)
-1. discard half of the starter instead of the amount shown in [Feeding2](#Feeding2)
-2. [Feeding2](#Feeding2)
+1. discard half of the starter instead of the amount shown in [Feeding](#Feeding)
+2. [Feeding](#Feeding)
 
 #### Lots of Bubbles (Usually Day 4)
-1. [Feeding2](#Feeding2)
+1. [Feeding](#Feeding)
 
 #### Bubbles + Some Growth (Usually Day 5)
-1. [Feeding2](#Feeding2)
+1. [Feeding](#Feeding)
 
 #### Doubling in Size (Usually Day 6-7)
-1. [Feeding2](#Feeding2)
+1. [Feeding](#Feeding)
 	
 ### Baking Readiness Tests
 1. starter doubles in $\pu{4h}-\pu{6h}$ and begins to recede after $\pu{12h}$
