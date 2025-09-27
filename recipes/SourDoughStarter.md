@@ -1,6 +1,7 @@
 ---
 tags:
   - base
+  - baking
 aliases:
 category:
 country:
