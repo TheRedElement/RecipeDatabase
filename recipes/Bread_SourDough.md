@@ -1,6 +1,7 @@
 ---
 tags:
   - baking
+  - bread
 category: cooking
 country:
 duration_min:
@@ -13,7 +14,6 @@ acknowledgements:
 links:
   - https://www.gutekueche.at/sauerteig-brot-rezept-993
 ---
-
 
 
 # Bread (Sour-Dough)
@@ -38,10 +38,13 @@ links:
 5. form a ball
 6. cover bowl with cloth
 7. let sit for $8\,h$ in warm location
+8. add expansion cut
+	1. with sharp knife/razor blade: cut top of the dough in a cross-shape
+	2. this allows the dough to expand more freely thus, leading to a more fluffy inside
 
 ### Baking
-1. preheat oven to $175\pu{^\circ C}$
-2. bake for $45\,\pu{min}$ with [Top Heat](OvenSettings.md#Top%20Heat)/[Bottom Heat](OvenSettings.md#Bottom%20Heat)
+1. preheat oven to $180\pu{^\circ C}$
+2. bake for $60\,\pu{min}$ with [Top Heat](OvenSettings.md#Top%20Heat)/[Bottom Heat](OvenSettings.md#Bottom%20Heat)
 
 ## Notes
 
