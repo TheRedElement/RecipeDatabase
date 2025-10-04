@@ -22,7 +22,7 @@ paginate: false
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |milk|500 mL|
-|sugar|80 g|
+|sugar|50 g|
 |bread rolls|10|
 |apple|4|
 |egg|4|
