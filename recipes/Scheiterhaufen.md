@@ -26,11 +26,11 @@ paginate: false
 |bread rolls|10|
 |apple|4|
 |egg|4|
-|butter|0 g|
+|butter|25 g|
 |cinnamon|0 g|
-|nuts|0 g|
-|vanilla sugar|0 g|
-|raisin|0 g|
+|nuts|100 g|
+|vanilla sugar|9 g|
+|raisin|70 g|
 
 ## Recipe
 1. mix **egg**, **milk**, **vanilla sugar**, **sugar***
