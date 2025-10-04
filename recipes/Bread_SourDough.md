@@ -44,8 +44,21 @@ links:
 	2. this allows the dough to expand more freely thus, leading to a more fluffy inside
 
 ### Baking
-1. preheat oven to $180\pu{^\circ C}$
-2. bake for $60\,\pu{min}$ with [Top Heat](OvenSettings.md#Top%20Heat)/[Bottom Heat](OvenSettings.md#Bottom%20Heat)
+1. preheat oven to $\pu{225^\circ C}$ [Conventional](OvenSettings.md#Conventional)
+2. place cast-iron pot into oven (heat bowl)
+3. add extension cut to [Dough](#Dough)
+        1. with sharp knife/razor blade: cut top of the dough in a cross-shape
+        2. this allows the dough to expand more freely thus, leading to a more fluffy inside
+
+4. place [Dough](#Dough) into cast-iron pot
+        1. spray with water
+        2. close lid (to ensure moisture stays inside)
+5. put back in oven
+6. *(place heat-resistant bowl with **water** into oven)*
+7. bake [Dough](#Dough) for $\pu{15min}$
+8. add expansion cut (cut across the loaf to make sure it can expand)
+9. reduce heat to $\pu{180^\circ C}$ for $\pu{45min}$
+10. remove lid and bake for another $\pu{15min}$ with [Top Heat](OvenSettings.md#Top%20Heat)
 
 ## Notes
 
