@@ -7,7 +7,7 @@ category:
   - sweet
 country:
 duration_min:
-todo: true
+todo: false
 acknowledgements:
   - Daniela Steinwender
 links:
@@ -18,6 +18,12 @@ paginate: false
 
 
 # Scheiterhaufen
+
+
+|     |     |
+|:-: |:-:|
+|![](../gfx/PXL_20251004_030921212.jpg)|![](../gfx/PXL_20251004_031034394.jpg)|
+
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

@@ -6,7 +6,7 @@ category:
   - cooking
 country:
 duration_min:
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false
@@ -17,6 +17,11 @@ links:
 ---
 
 # Vanilla Sauce
+
+|     |     |
+| :-: | :-: |
+|![](../gfx/PXL_20251004_030744991.jpg)|![](../gfx/PXL_20251004_041451911.jpg)|
+
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

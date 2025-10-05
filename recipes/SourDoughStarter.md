@@ -21,7 +21,7 @@ paginate: false
 
 |     |     |
 | :-: | :-: |
-|![](../gfx/PXL_20250922_205719051.jpg)|![](../gfx/PXL_20250922_205729478.jpg)|
+|![](../gfx/PXL_20251005_203215693.jpg)|![](../gfx/PXL_20251005_203224388.jpg)|
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
@@ -48,6 +48,9 @@ paginate: false
 
 ### Raising the Starter
 1. check starter daily at around the same time
+
+> [!INFO]
+> in case you don't see the respective features at the mentioned days, just keep feeding. Depending on room-temperature, flour, water and other factors it can happen that the starter takes a little longer to grow. 
 
 #### No Change (Usually Day 2)
 1. let sit for $\pu{24h}$
