@@ -3,14 +3,14 @@ tags:
   - strudel
 category:
   - cooking
-country: 
-duration_min: 
-todo: true
+country:
+duration_min:
+todo: false
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
-acknowledgements: 
+aliases:
+acknowledgements:
 links:
 ---
 
