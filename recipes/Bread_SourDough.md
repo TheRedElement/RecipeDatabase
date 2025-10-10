@@ -15,6 +15,7 @@ acknowledgements:
   - Reiner Schmidt
 links:
   - https://www.gutekueche.at/sauerteig-brot-rezept-993
+  - https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/
 ---
 
 
@@ -65,6 +66,7 @@ links:
 
 
 # Sour-Dough Bread v2
+* see this google sheet for exemplary  baking schedules: [https://docs.google.com/spreadsheets/d/1yH_iM4KSYZGnBezECPnpf_osN13lCK4FjuAf3yHS4rE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yH_iM4KSYZGnBezECPnpf_osN13lCK4FjuAf3yHS4rE/edit?usp=sharing)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
