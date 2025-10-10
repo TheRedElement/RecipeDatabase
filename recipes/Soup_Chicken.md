@@ -27,7 +27,7 @@ links:
 |onion|1|
 |soup vegetables|1|
 |parsley|1|
-|ginger|0.5|
+|ginger|30 g|
 |parmesan|0 g|
 |pepper|0 g|
 |salt|0 g|
