@@ -128,15 +128,16 @@ links:
 	1. ideally towards end of [Proofing/Bench Rest](#Proofing/Bench%20Rest)
 #### Scoring
 1. right before placing dough into oven
-2. add extension cut to [Dough](#Dough)
-	1. with sharp knife/razor blade: cut top of the dough in straight line
-		1. cut shall be shallow
-	2. allows the dough to expand more freely thus, leading to a more fluffy inside
-3. spray with a little bit of water
-	1. for crunchier crust
-4. place bread into oven
-5. bake for $\pu{20min}$ covered with lid
-6. remove lid and bake for another $\pu{40min}$
+	1. add extension cut to [Dough](#Dough)
+		1. with sharp knife/razor blade: cut top of the dough in straight line
+			1. cut shall be shallow
+		2. allows the dough to expand more freely thus, leading to a more fluffy inside
+	2. spray with a little bit of water
+		1. to prevent formation of crust from the start
+		2. ensure that bread can expand nicely
+2. place bread into oven
+3. bake for $\pu{20min}$ covered with lid
+4. remove lid and bake for another $\pu{40min}$
 	1. until deep, golden brown
 
 ### Cool Down
