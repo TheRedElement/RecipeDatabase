@@ -29,7 +29,7 @@ links:
 |meat (beef)|660 g|
 |bay leaf|1|
 |onion|1|
-|soup vegetables|1|
+|[soup vegetables](../resources/SoupVegetables.md)|1|
 |juniper berries|0|
 |pepper|0|
 |salt|0|

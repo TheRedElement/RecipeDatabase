@@ -25,7 +25,7 @@ links:
 |bay leaf|2|
 |chicken (whole)|1|
 |onion|1|
-|soup vegetables|1|
+|[soup vegetables](../resources/SoupVegetables.md)|1|
 |parsley|1|
 |ginger|30 g|
 |parmesan|0 g|
