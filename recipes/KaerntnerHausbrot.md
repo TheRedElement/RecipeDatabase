@@ -106,3 +106,14 @@ paginate: false
 * alternatives for flour (rye)
 	* pretty much anything but all purpose flour
 	* I use wholegrain
+ingredients for Reiner Schmidts original:
+
+|Ingredient|Amount|
+| --- | --- |
+|sourdough starter|150 g|
+|rye flour|50 g|
+|wheat flour|350 g|
+|water (handwarm)|200g|
+|yeast (dry)|1.5 tsp|
+|diastatic malt powder|1.5 tsp|
+|salt|0.75 tsp|

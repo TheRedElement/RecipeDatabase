@@ -14,7 +14,6 @@ aliases:
 acknowledgements:
   - Reiner Schmidt
 links:
-  - https://www.gutekueche.at/sauerteig-brot-rezept-993
   - https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/
 ---
 
