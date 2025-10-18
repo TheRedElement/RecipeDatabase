@@ -3,20 +3,26 @@ tags:
   - soup
 category:
   - cooking
-country: 
-duration_min: 
-todo: true
+country:
+duration_min:
+todo: false
 theme: tre_light
 marp: false
 paginate: false
 aliases:
   - Huehnersuppe
-acknowledgements: 
+acknowledgements:
 links:
   - https://www.facebook.com/share/r/1D8u551rvY/
 ---
 
 # Hühnersuppe
+
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|     |     |     |     |     |
+|![](../gfx/PXL_20251011_011116505.jpg)|![](../gfx/PXL_20251011_011142689.jpg)|![](../gfx/PXL_20251011_011555642.jpg)|![](../gfx/PXL_20251011_012308753.jpg)|![](../gfx/PXL_20251011_012359477.jpg)
 
 |Ingredient|Amount (6 portions)|
 | :- | :- |

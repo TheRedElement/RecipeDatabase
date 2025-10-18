@@ -21,9 +21,13 @@ paginate: false
 
 # Kärntner Hausbrot
 
-||||
-| :-: | :-: | :-: |
-|![](../gfx/PXL_20250921_012120040.jpg)|![](../gfx/PXL_20250921_033612587.jpg)|![](../gfx/PXL_20250921_033909827.jpg)|
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+|![](../gfx/PXL_20251018_010714367.jpg)|![](../gfx/PXL_20251018_022337897.jpg)|![](../gfx/PXL_20251018_022350580.mp4)|
+
+* see this google sheet for exemplary  baking schedules: [https://docs.google.com/spreadsheets/d/1yH_iM4KSYZGnBezECPnpf_osN13lCK4FjuAf3yHS4rE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yH_iM4KSYZGnBezECPnpf_osN13lCK4FjuAf3yHS4rE/edit?usp=sharing)
+
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
@@ -36,7 +40,6 @@ paginate: false
 |caraway|1 tsp|
 |fennel seeds|1 g|
 |salt|1 tsp|
-
 
 ## Recipe
 

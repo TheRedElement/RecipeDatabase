@@ -17,6 +17,8 @@ links:
 
 # Faschierte Laibchen
 
+![](../gfx/PXL_20251018_014943388.jpg)
+
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |garlic|6 cloves|
