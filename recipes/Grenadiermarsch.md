@@ -5,13 +5,15 @@ category:
   - cooking
 country:
   - austria
-duration_min: 
-todo: true
+duration_min:
+todo: false
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
-acknowledgements: 
+aliases:
+acknowledgements:
+  - Oma Berni
+  - Daniela Steinwender
 links:
 ---
 
