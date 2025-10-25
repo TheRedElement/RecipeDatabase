@@ -76,8 +76,8 @@ paginate: false
 
 ### Baking
 1. $\pu{30min}$ before [Proofing](#Proofing) is completed
-	1. preheat oven to $\pu{250^\circ C}$ [Conventional](OvenSettings.md#Conventional)
-	2. place cast-iron pot including lid onto lowest rack in oven (heat bowl)
+	1. place cast-iron pot including lid onto lowest rack in oven (heat bowl)
+	2. preheat oven to $\pu{250^\circ C}$ [Conventional](OvenSettings.md#Conventional) 
 2. prepare the dough
 	1. place floured wooden cutting board on counter
 	2. turn dough onto floured cutting board
@@ -91,7 +91,7 @@ paginate: false
 5. put back in oven
 6. reduce heat to $\pu{225^\circ C}$
 7. bake [Dough](#Dough) for $\pu{50min}$
-8. depending on desired crust-darkness, bake for another $\pu{10min}-\pu{15min}$
+8. depending on desired crust-darkness, bake for another $\pu{10min}-\pu{15min}$ *without* lid
 
 ### Cool Down
 * before slicing let rest for $\pu{1h}$
