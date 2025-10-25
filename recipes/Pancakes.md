@@ -61,5 +61,5 @@ links:
 * recipe for 16 pancakes
 * [dry](#dry) can be prepared beforehand, stored and mixed once needed
 * finished pancakes freeze well
-* <font color=red>todo: image</font>
+* do *NOT* use olive oil (will distort taste due to strong aroma)
 
