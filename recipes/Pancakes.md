@@ -20,18 +20,18 @@ links:
 # Pancakes (Andrea Schmidt)
 
 
-|Ingredient|Amount (4 portions)|
-| :- | :- |
-|buttermilk|360 mL|
-|flour|250 g|
-|milk|60 mL|
-|oil|60 mL|
-|sugar|35 g|
-|baking powder|19 g|
-|salt|5.5 g|
-|baking soda|3 g|
-|vanilla extract|2 g|
-|egg|2|
+|Ingredient|Amount (4 portions)|Alternative Units|
+| :- | :- | :- |
+|buttermilk|360 mL|365 g|
+|flour|250 g||
+|milk|60 mL|61 g|
+|oil|60 mL|55 g|
+|sugar|35 g||
+|baking powder|19 g||
+|salt|5.5 g||
+|baking soda|3 g||
+|vanilla extract|2 g||
+|egg|2||
 
 ## Recipe
 ### Dry
