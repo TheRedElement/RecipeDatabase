@@ -20,11 +20,11 @@ paginate: false
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
-|sourcream [g]|240|
-|milk [mL]|30|
-|chive [g]|3|
-|garlic powder [g;tsp]|0.5|
-|salt [g;tsp]|0|
+|sourcream|240 g|
+|milk|30 mL|
+|chive|3 g|
+|garlic powder|0.5 tsp|
+|salt|0 g|
 
 ## Recipe
 

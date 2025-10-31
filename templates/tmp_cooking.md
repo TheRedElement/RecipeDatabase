@@ -15,10 +15,8 @@ paginate: false
 
 # Name Of Dish
 
-|Ingredient|Amount (4 portions)|
-| :- | :- |
-
-
+|Ingredient|Amount (4 portions)|Alternative Units|
+| :- | :- | :- |
 ## Recipe
 
 ## Notes
