@@ -106,7 +106,16 @@ paginate: false
 * alternatives for flour (rye)
 	* pretty much anything but all purpose flour
 	* I use wholegrain
-ingredients for Reiner Schmidts original:
+* yes, I use a little bit of **yeast**
+	* does not influence flavor
+	* helps tremendously in getting fluffy breads
+
+## Variations
+* all variations follow [Recipe](#Recipe)
+	* results change based on ingredients, of course
+
+### Reiner Schmidts Original
+- [ ] TODO: try baking
 
 |Ingredient|Amount|
 | --- | --- |
@@ -117,3 +126,18 @@ ingredients for Reiner Schmidts original:
 |yeast (dry)|1.5 tsp|
 |diastatic malt powder|1.5 tsp|
 |salt|0.75 tsp|
+
+### White Bread
+
+|     |     |
+| --- | --- |
+|![](../gfx/PXL_20251025_012600312.jpg)|![](../gfx/PXL_20251025_032256068.jpg)|
+
+|Ingredient|Amount (4 portions)|
+| :- | :- |
+|flour (rye)|50 g|
+|water|225 mL|
+|sourdough starter|100 g|
+|flour (wheat)|300 g|
+|yeast (dry)|7 g|
+|salt|1 tsp|

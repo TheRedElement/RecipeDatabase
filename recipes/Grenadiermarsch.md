@@ -19,6 +19,8 @@ links:
 
 # Grenadiermarsch
 
+![](../gfx/PXL_20251022_073335819.jpg)
+
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |potato |500 g|
