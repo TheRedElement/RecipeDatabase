@@ -43,10 +43,18 @@ paginate: false
 
 ## Recipe
 
+### Reviving Starter (optional)
+> Only necessary when [SourDoughStarter](SourDoughStarter.md) stored in fridge
+
+1. take starter out of fridge
+2. [Feeding](#Feeding)
+3. let sit for $\pu{12h}-\pu{24h}$
+4. once doubled in size, ready to use for baking
+
 ### Dough
 
 #### Initial Mixing
-1. add **water (handwarm)**, **sourdough starter** ([SourDoughStarter](SourDoughStarter.md) ) to in bowl
+1. add **water (handwarm)**, **sourdough starter** ([SourDoughStarter](SourDoughStarter.md)) to in bowl
 	1. mix well until **sourdough starter** dissolved
 2. add **flour (rye)**, **flour (wheat)**, **yeast (dry)**, **aniseed**, **caraway**, **fennel seeds**, **salt**
 3. slowly knead to dough until not sticky anymore
