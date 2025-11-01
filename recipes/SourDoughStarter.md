@@ -108,6 +108,12 @@ paginate: false
 	3. use as usual
 4. if you're lucky and have a strong stater, it might even survive for a few months in the fridge
 
+## Reviving For Baking when Stored in Fridge
+1. take starter out of fridge
+2. [Feeding](#Feeding)
+3. let sit for $\pu{12h}-\pu{24h}$
+4. once doubled in size, ready to use for baking
+
 ## Notes
 * if you tend to bake in the morning, it is good to initialize and feed your starter in the evening
 	* this way it reaches just after its maximum after feeding when you're ready to bake (see [Option 2](#Option%202))
