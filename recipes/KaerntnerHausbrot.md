@@ -132,8 +132,8 @@ paginate: false
 |Ingredient|Amount|
 | --- | --- |
 |sourdough starter|150 g|
-|rye flour|50 g|
-|wheat flour|350 g|
+|flour (rye)|50 g|
+|flour (wheat) |350 g|
 |water (handwarm)|200g|
 |yeast (dry)|1.5 tsp|
 |diastatic malt powder|1.5 tsp|
