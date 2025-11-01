@@ -11,8 +11,7 @@ The individual recipes can be found in [./recipes/](./recipes/)
 * ingredients listed with a value of 0 have the following meaning
     * quantity so small, that it does not make sense to provide a value
     * add based on your taste
-* all bread-related recipes are work in progress
-	* they might change frequently and not turn out amazingly yet!
+* ingredients enclosed in brackets ([<ingredient>]) are optional
 
 ## Table of Contents
 
