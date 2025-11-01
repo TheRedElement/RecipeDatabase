@@ -35,11 +35,15 @@ paginate: false
 |water|225 mL|
 |sourdough starter|100 g|
 |flour (wheat)|50 g|
-|yeast (dry)|7 g|
+|[yeast (dry)]|[7 g]|
 |aniseed|1 g|
 |caraway|1 tsp|
 |fennel seeds|1 g|
 |salt|1 tsp|
+
+* **yeast (dry)** is optional
+ * all images shown in this recipe are from attempts without using yeast
+
 
 ## Recipe
 
@@ -114,9 +118,9 @@ paginate: false
 * alternatives for flour (rye)
 	* pretty much anything but all purpose flour
 	* I use wholegrain
-* yes, I use a little bit of **yeast**
-	* does not influence flavor
-	* helps tremendously in getting fluffy breads
+* all images shown in this recipe are from attempts*without* **yeast (dry)**
+ * in case your starter is not very strong yet, I still recommend adding a bit of yeast to help with getting fluffy breads
+	* yeast will not influence flavor
 
 ## Variations
 * all variations follow [Recipe](#Recipe)
