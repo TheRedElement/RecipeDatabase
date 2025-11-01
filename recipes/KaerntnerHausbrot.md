@@ -147,7 +147,7 @@ paginate: false
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
-|flour (rye)|50 g|
+|flour (wholemeal)|50 g|
 |water|225 mL|
 |sourdough starter|100 g|
 |flour (wheat)|300 g|
