@@ -52,7 +52,7 @@ paginate: false
 2. roll into balls
 	1. cup hands above dough-portion
 	2. execute circular motion until smooth ball emerges
-3. transform balls into strands
+3. transform balls into strands (My strands are around $\pu{40cm}$ in length, and $\pu{2cm}$ in diameter
 	> repeat until wished length reached (I do it 3 times)
 	> 1. dough will try to contract
 	> 2. repeating gives it time to settle thus, being ready for being extended a little more
