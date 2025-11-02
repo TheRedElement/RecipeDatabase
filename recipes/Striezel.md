@@ -13,7 +13,7 @@ todo: true
 acknowledgements:
 links:
   - https://www.backenmitchristina.at/rezepte/allerheiligenstriezel/
-  - https://www.facebook.com/share/r/1aJBLHNSMA/
+  - https://www.youtube.com/shorts/X0H4C3x9JNA
 theme: tre_light
 marp: false
 paginate: false
@@ -41,10 +41,6 @@ paginate: false
 3. mix well
 4. add  **butter** (room temperature), **raisins**
 5. continue kneading until smooth, shiny dough emerges
-
-### Milk-Egg Mixture
-1. place $1$ **egg** and $\pu{20mL}$ **milk** in bowl
-2. whisk until combined
 
 ### Rest 1
 3. cover bowl with kitchen towel
@@ -81,6 +77,10 @@ paginate: false
 2. place braided Striezels on baking tray
 3. let rest for another $\approx\pu{15min}$
 
+### Milk-Egg Mixture
+1. place $1$ **egg** and $\pu{20mL}$ **milk** in bowl
+2. whisk until combined
+
 ### Baking
 2. brush with [Milk-Egg Mixture](#Milk-Egg%20Mixture)
 3. drizzle with **sugar** pieces
@@ -88,3 +88,5 @@ paginate: false
 	1. until golden brown
 
 ## Notes
+* good instructions for braiding can be found [here](https://www.youtube.com/watch?v=zfXwazmun-w&pp=ygUqYmFja2VuIG1pdCBjaHJpc3RpbmEgYWxsZXJoZWlsaWdlbnN0cmllemVs)
+* 
