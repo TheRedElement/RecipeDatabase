@@ -8,7 +8,7 @@ category:
   - tradition
 country:
   - austria
-duration_min: 90
+duration_min: 120
 todo: true
 acknowledgements:
 links:
