@@ -19,7 +19,7 @@ links:
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
-|water|1900 mL|
+|water|50 mL|
 |rice|800 g|
 |balsamico|75 mL|
 |starch (corn)|60 g|
@@ -29,10 +29,10 @@ links:
 |salt|8.5 g|
 |rice wine|5 mL|
 |pepper|3.5 g|
-|oil (sesame)|2.5mL|
+|oil (sesame)|2.5 mL|
 |egg|2|
-|ginger|2|
-|spring onion|2|
+|ginger|2 g|
+|spring onion|4|
 |chicken breast|1 kg|
 |garlic|1 clove|
 |orange|1|
@@ -44,7 +44,7 @@ links:
     1. cut **chicken** into bite-sized pieces
     1. put in large bowl and mix with mass from above
 1. orange sauce
-    1. mix **soy-sauce**, **water**, **sugar**, **balsamico**, **starch**
+    1. mix **soy-sauce**, **water**, **sugar**, **balsamico**, $\pu{55g}$ **starch**
     1. grate **orange** to get zests
     1. squeeze **orange** to get juice
     1. mix in orange zests and/or orange juice
@@ -57,9 +57,10 @@ links:
         1. add (**ginger**) and **garlic**
         1. (add **wine (rice)**)
         1. let cook for a short time
-1. add **chicken**
+1. add **chicken** and *orange sauce*
     1. stir such that all pieces are covered with sauce
-1. (blend **water** and **corn-starch** in small cup)
+1. if sauce not viscous enough
+    1. (blend **water** and **corn-starch** in small cup)
     1. (add to sauce)
 
 ## Side
