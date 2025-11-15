@@ -61,9 +61,10 @@ paginate: false
 1. add **water (handwarm)**, **sourdough starter** ([SourDoughStarter](SourDoughStarter.md)) to in bowl
 	1. mix well until **sourdough starter** dissolved
 2. add **flour (rye)**, **flour (wheat)**, **yeast (dry)**, **aniseed**, **caraway**, **fennel seeds**, **salt**
-3. slowly knead to dough until not sticky anymore
+3. slowly knead to dough
 	1. ideally with *dough-hook*, by hand also works
 	2. dough should still be firm
+ 3. dough can still be slightly sticky
 
 #### Bulk Fermentation
 1. cover bowl with damp cloth
