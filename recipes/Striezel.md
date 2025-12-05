@@ -22,7 +22,7 @@ paginate: false
 
 # Striezel
 
-|Ingredient|Amount (4 portions)|Alternative Units|
+|Ingredient|Amount (2 Striezel)|Alternative Units|
 | :- | :- | :- |
 |flour (wheat) |1000 g||
 |milk |620 mL||
