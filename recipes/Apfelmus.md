@@ -36,7 +36,7 @@ paginate: false
 	2. make sure all of them are covered
 4. remove seeds from vanilla bean
 5. boil water with vanilla (shell and seeds) and cinnamon stick
-6. add apple pieces
+6. add apple pieces and **sugar**
 7. let simmer for 20min on low heat
 8. remove cinnamon stick and vanilla bean
 9. if not very soft already, use stick blender
