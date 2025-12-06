@@ -11,6 +11,7 @@ country:
 duration_min:
 todo: true
 acknowledgements:
+  - Oma Berni
 links:
 theme: tre_light
 marp: false
