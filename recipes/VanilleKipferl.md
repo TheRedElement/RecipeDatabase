@@ -20,7 +20,7 @@ paginate: false
 
 # Vanille Kipferl
 
-|Ingredient|Amount (4 portions)|Alternative Units|
+|Ingredient|Amount (90 kipferl)|Alternative Units|
 | :- | :- | :- |
 |flour|300 g|
 |butter|250 g|
