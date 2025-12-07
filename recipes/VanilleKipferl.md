@@ -40,6 +40,7 @@ paginate: false
 	1. **butter** shall COLD (place in fridge for a bit if necessary)
 3. mix **flour**, **almonds**, **sugar**, **salt**, **butter**, **milk**
 4. knead into dough
+ 1. make sure that the butter is completely massaged into the dough (otherwise it will stick and fall apart when rolling)
 5. wrap dough in clingwrap
 6. let rest in *fridge* for $\pu{30min}$
 7. roll into $\pu{1.5cm}$ cylinders
@@ -50,7 +51,7 @@ paginate: false
 12. bake for $\pu{15min}-\pu{20min}$
 	1. until gold-brown
 
-### Wälz-mixture
+### Wälz-mixture (coating)
 1. mix **sugar (icing)**, **vanilla sugar**
 2. while *kipferl* are still warm, place into mixture
 	1. be careful, *kipferl* break easily!
