@@ -90,6 +90,7 @@ paginate: false
 ### Baking
 1. $\pu{30min}$ before [Proofing](#Proofing) is completed
 	1. place cast-iron pot including lid onto lowest rack in oven (heat bowl)
+  1. in Reiners words: "the cast-iron pot has to be *knitteheiß*"
 	2. preheat oven to $\pu{250^\circ C}$ [Conventional](OvenSettings.md#Conventional) 
 2. prepare the dough
 	1. place floured wooden cutting board on counter
