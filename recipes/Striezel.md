@@ -36,11 +36,16 @@ paginate: false
 ## Recipe
 
 ### Dough
-1. mix **flour (wheat)**, **yeast (dry)**, **salt**, **sugar**
-2. add $\pu{600mL}$ **milk**, $1$ **egg**
+1. take **eggs**, **butter** out of fridge
+ 1. to let come to room temperature (ensures that **yeast (dry)** has an easier time and will rise faster
+1. mix **yeast (dry)** with a little bit of *WARM* **milk**
+ 1. to kick-start **yeast (dry)**
+1. add **flour (wheat)**, **salt**, **sugar**
+2. add $\pu{600mL}$ **milk** (ideally not cold), $1$ **egg** (room temperature)
 3. mix well
 4. add  **butter** (room temperature), **raisins**
 5. continue kneading until smooth, shiny dough emerges
+ 1. make sure **butter** is completely incorporated
 
 ### Rest 1
 3. cover bowl with kitchen towel
