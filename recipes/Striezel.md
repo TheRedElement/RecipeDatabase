@@ -37,7 +37,7 @@ paginate: false
 
 ### Dough
 1. take **eggs**, **butter** out of fridge
- 1. to let come to room temperature (ensures that **yeast (dry)** has an easier time and will rise faster
+  1. to let come to room temperature (ensures that **yeast (dry)** has an easier time and will rise faster
 1. mix **yeast (dry)** with a little bit of *WARM* **milk**
  1. to kick-start **yeast (dry)**
 2. add **flour (wheat)**, **salt**, **sugar**
