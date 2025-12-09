@@ -40,11 +40,11 @@ paginate: false
  1. to let come to room temperature (ensures that **yeast (dry)** has an easier time and will rise faster
 1. mix **yeast (dry)** with a little bit of *WARM* **milk**
  1. to kick-start **yeast (dry)**
-1. add **flour (wheat)**, **salt**, **sugar**
-2. add $\pu{600mL}$ **milk** (ideally not cold), $1$ **egg** (room temperature)
-3. mix well
-4. add  **butter** (room temperature), **raisins**
-5. continue kneading until smooth, shiny dough emerges
+2. add **flour (wheat)**, **salt**, **sugar**
+3. add $\pu{600mL}$ **milk** (ideally not cold), $1$ **egg** (room temperature)
+4. mix well
+5. add  **butter** (room temperature), **raisins**
+6. continue kneading until smooth, shiny dough emerges
  1. make sure **butter** is completely incorporated
 
 ### Rest 1
@@ -90,7 +90,7 @@ paginate: false
 2. brush with [Milk-Egg Mixture](#Milk-Egg%20Mixture)
 3. drizzle with **sugar** pieces
 4. bake at$\pu{180^\circ C}$ [Fan-Forced](OvenSettings.md#Fan-Forced) for $\approx\pu{25min}$
-	1. until golden brown
+ 1. until golden brown
 
 ## Notes
 * good instructions for braiding can be found [here](https://www.youtube.com/watch?v=zfXwazmun-w&pp=ygUqYmFja2VuIG1pdCBjaHJpc3RpbmEgYWxsZXJoZWlsaWdlbnN0cmllemVs)
