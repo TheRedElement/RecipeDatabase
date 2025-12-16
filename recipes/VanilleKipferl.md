@@ -21,7 +21,7 @@ paginate: false
 
 # Vanille Kipferl
 
-|Ingredient|Amount (90 kipferl)|Alternative Units|
+|Ingredient|Amount (90 Kipferl)|Alternative Units|
 | :- | :- | :- |
 |flour|300 g|
 |butter|250 g|
@@ -43,12 +43,48 @@ paginate: false
  1. make sure that the butter is completely massaged into the dough (otherwise it will stick and fall apart when rolling)
 5. wrap dough in clingwrap
 6. let rest in *fridge* for $\pu{30min}$
-7. roll into $\pu{1.5cm}$ cylinders
+7. roll into $\pu{1.5cm}$ diameter cylinders
 8. chop into $\pu{5cm}$ long pieces
 9. form into *kipferl*
 10. place on parchment paper
 11. preheat oven to $\pu{160^\circ C}$
 12. bake for $\pu{15min}-\pu{20min}$
+	1. until gold-brown
+
+### Wälz-mixture (coating)
+1. mix **sugar (icing)**, **vanilla sugar**
+2. while *kipferl* are still warm, place into mixture
+	1. be careful, *kipferl* break easily!
+3. let cool down completely before placing in container
+
+## Variations
+
+### Oma Sylvia
+
+|Ingredient|Amount (?? Kipferl)|Alternative Units|
+| :- | :- | :- |
+|flour|360 g|
+|butter|280 g|
+|sugar (icing)|140 g|
+|walnuts|140 g|
+|vanilla sugar|10 g|
+|salt|1 pinch|
+
+#### Dough
+1. grate **walnuts**
+2. cut **butter** in small pieces
+	1. **butter** shall COLD (place in fridge for a bit if necessary)
+3. mix **flour**, **walnuts**, **sugar (icing)**, **salt**, **butter**
+4. knead into dough
+ 5. make sure that the butter is completely massaged into the dough (otherwise it will stick and fall apart when rolling)
+6. wrap dough in clingwrap
+7. let rest in *fridge* for $\ge\pu{30min}$
+8. roll into $\pu{1.5cm}$ diameter cylinders
+9. chop into $\pu{5cm}$ long pieces
+10. form into *kipferl*
+11. place on parchment paper
+12. preheat oven to $\pu{160^\circ C}$
+13. bake for $\pu{15min}-\pu{20min}$
 	1. until gold-brown
 
 ### Wälz-mixture (coating)
