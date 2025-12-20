@@ -44,10 +44,25 @@ paginate: false
  5. make sure that the butter is completely massaged into the dough (otherwise it will stick and fall apart when rolling)
 6. wrap dough in clingwrap
 7. let rest in *fridge* for $\pu{30min}$
+
+### Shaping the Kipferl
+#### Fast but not pretty
 8. roll into $\pu{1.5cm}$ diameter cylinders
 9. chop into $\pu{5cm}$ long pieces
-10. form into *kipferl*
+10. shape into *kipferl* (horseshoe shape)
 11. place on parchment paper
+
+#### Pretty but slow
+1. place left hand palm up
+2. from the entire dough-batch take about $\pu{1cm^3}$ and place it about where the knuckle of your middle finger is
+3. with your flat right hand
+ 1. repeate until the centre of the *Kipferl* shall be $\pu{0.5cm}$ in diameter
+  1. troke towards your body applying light pressure
+  2. simultaneously the left hand curls slightly
+   1. this ensures that the *Kipferl* doesn't fall apart easily
+   2. this helps in shaping as the centre of the *Kipferl* will be thicker because it is in the valley formed by the muscles of your thumb and pinky
+
+### Baking
 12. preheat oven to $\pu{160^\circ C}$
 13. bake for $\pu{15min}-\pu{20min}$
 	1. until gold-brown
