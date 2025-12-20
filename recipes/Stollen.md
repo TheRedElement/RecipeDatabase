@@ -46,7 +46,6 @@ paginate: false
 ## Recipe
 
 ### Filling
-1. grind **almonds**
 2. mix **raisins**, **candied lemon peel**, **cnadied orange peel**, **rum**, **almonds**
 3. let sit for $\qty{1}{h}$
 	1. for more aroma you can let it sit over night
