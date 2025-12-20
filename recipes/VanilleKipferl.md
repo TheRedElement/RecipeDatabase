@@ -36,35 +36,34 @@ paginate: false
 ## Recipe
 
 ### Dough
-1. grate **almonds**
-2. cut **butter** in small pieces
+1. cut **butter** in small pieces
 	1. **butter** shall at room temperature but not warm (place in fridge for a bit if necessary)
-3. mix **flour**, **almonds**, **sugar**, **salt**, **butter**, **milk**
-4. knead into dough
- 5. make sure that the butter is completely massaged into the dough (otherwise it will stick and fall apart when rolling)
-6. wrap dough in clingwrap
-7. let rest in *fridge* for $\pu{30min}$
+2. mix **flour**, **almonds**, **sugar**, **salt**, **butter**, **milk**
+3. knead into dough
+ 4. make sure that the butter is completely massaged into the dough (otherwise it will stick and/or fall apart when [Shaping the Kipferl](#Shaping%20the%20Kipferl))
+5. wrap dough in clingwrap
+6. let rest in *fridge* for $\pu{30min}$
 
 ### Shaping the Kipferl
 #### Fast but not pretty
-8. roll into $\pu{1.5cm}$ diameter cylinders
-9. chop into $\pu{5cm}$ long pieces
-10. shape into *kipferl* (horseshoe shape)
-11. place on parchment paper
+1. roll into $\pu{1.5cm}$ diameter cylinders
+2. chop into $\pu{5cm}$ long pieces
+3. shape into *Kipferl* (horseshoe shape)
+4. place on parchment paper
 
 #### Pretty but slow
 1. place left hand palm up
-2. from the entire dough-batch take about $\pu{1cm^3}$ and place it about where the knuckle of your middle finger is
-3. repeat until the centre of the *Kipferl* is $\approx\pu{0.5cm}$ in diameter
-  1. with your flat right hand stroke towards your body applying light pressure
-  2. simultaneously the left hand curls slightly
-   1. this ensures that the *Kipferl* doesn't fall apart easily
-   2. this helps in shaping as the centre of the *Kipferl* will be thicker because it is in the valley formed by the muscles of your thumb and pinky
-1. place on parchment paper
+2. from the entire dough-batch take about $\pu{cm^3}$ and place it about where the knuckle of your middle finger is
+3. repeat until the center of the *Kipferl* is $\approx\pu{0.5cm}$ in diameter
+  4. with your flat right hand stroke towards your body applying light pressure
+  5. simultaneously the left hand curls slightly
+	  1. this ensures that the *Kipferl* doesn't fall apart easily
+	   2. this helps in shaping as the centre of the *Kipferl* will be thicker because it is in the valley formed by the muscles of your thumb and pinky
+6. place on parchment paper
 
 ### Baking
-12. preheat oven to $\pu{160^\circ C}$
-13. bake for $\pu{15min}-\pu{20min}$
+1. preheat oven to $\pu{160^\circ C}$
+2. bake for $\pu{15min}-\pu{20min}$
 	1. until gold-brown
 
 ### Wälz-mixture (coating)
