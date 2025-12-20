@@ -60,6 +60,7 @@ paginate: false
   2. simultaneously the left hand curls slightly
    1. this ensures that the *Kipferl* doesn't fall apart easily
    2. this helps in shaping as the centre of the *Kipferl* will be thicker because it is in the valley formed by the muscles of your thumb and pinky
+1. place on parchment paper
 
 ### Baking
 12. preheat oven to $\pu{160^\circ C}$
