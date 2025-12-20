@@ -38,7 +38,7 @@ paginate: false
 ### Dough
 1. grate **almonds**
 2. cut **butter** in small pieces
-	1. **butter** shall COLD (place in fridge for a bit if necessary)
+	1. **butter** shall at room temperature but not warm (place in fridge for a bit if necessary)
 3. mix **flour**, **almonds**, **sugar**, **salt**, **butter**, **milk**
 4. knead into dough
  5. make sure that the butter is completely massaged into the dough (otherwise it will stick and fall apart when rolling)
