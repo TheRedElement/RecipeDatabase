@@ -76,7 +76,7 @@ paginate: false
 
 ### Oma Sylvia
 
-|Ingredient|Amount (?? Kipferl)|Alternative Units|
+|Ingredient|Amount (150 Kipferl)|Alternative Units|
 | :- | :- | :- |
 |flour|360 g|
 |butter|280 g|
