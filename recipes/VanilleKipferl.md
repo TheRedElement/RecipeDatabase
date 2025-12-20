@@ -94,9 +94,7 @@ paginate: false
  5. make sure that the butter is completely massaged into the dough (otherwise it will stick and fall apart when rolling)
 6. wrap dough in clingwrap
 7. let rest in *fridge* for $\ge\pu{30min}$
-8. roll into $\pu{1.5cm}$ diameter cylinders
-9. chop into $\pu{5cm}$ long pieces
-10. form into *kipferl*
+10. [Shaping the Kipfer](#shaping-the-kipferl)
 11. place on parchment paper
 12. preheat oven to $\pu{160^\circ C}$
 13. bake for $\pu{15min}-\pu{20min}$
