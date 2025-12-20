@@ -14,6 +14,7 @@ todo: true
 acknowledgements:
 links:
   - https://www.einfachbacken.de/rezepte/christstollen-omas-bestes-rezept
+  - https://www.mariaesschmecktmir.com/christstollen-rezept/
 theme: tre_light
 marp: false
 paginate: false
@@ -36,11 +37,72 @@ paginate: false
 |sugar|50g||
 |yeast (dry)|42g|according to instructions|
 |vanilla sugar|5g||
-|egg []|1||
-|cardamon [g]|0.5tsp||
-|cinnamon [g]|0.5tsp||
-|nutmeg [g;pinch]|0.5tsp||
-|salt [g;tsp]|1pinch||
+|egg|1||
+|cardamon |0.5tsp||
+|cinnamon |0.5tsp||
+|nutmeg|0.5tsp||
+|salt|1pinch||
+
 ## Recipe
 
+### Filling
+1. grind **almonds**
+2. mix **raisins**, **candied lemon peel**, **cnadied orange peel**, **rum**, **almonds**
+3. let sit for $\qty{1}{h}$
+	1. for more aroma you can let it sit over night
+
+### Dough
+1. place **flour (wheat)** in bowl
+2. make small pit and place **yeast (dry)** in there
+3. heat **milk** until handwarm
+4. add $\qty{2}{tbsp}$ of **milk** to **yeast (dry)**
+5. add a pinch of **sugar** to **yeast (dry)**
+6. mix and cover with **flour (wheat)**
+7. let sit at warm place for $\approx \qty{15}{min}$
+	1. handwarm milk and sugar kickstart **yeast (dry)**
+8. cut $\qty{100}{g}$ **butter** in small pieces
+9. add **butter** (room temperature), **egg**, **sugar**,  **salt** to bowl
+10. knead until well mixed
+11. continue kneading and add remainder of **milk** bit by bit
+12. add [Filling](#Filling)
+13. continue kneading until well mixed
+14. let sit at warm place for $\approx\qty{30}{min}$
+
+### Stollen Shaping
+1. knead once again for short time
+2. form into rectangular loaf
+3. flatten half of the loaf to about $\qty{2.5}{cm}$ thickness
+	1. usually done with rolling pin
+	2. can also be achieved by hand if necessary
+4. fold the *thicker* part of the loaf *on top* of the thinner one
+	1. optionally you can add some **marzipan** in the center
+5. prettify
+6. let sit for $\qty{30}{min}$
+
+### Baking
+1. while loaf is sitting, preheat oven to $\qty{200}{\degreeCelsius}$ [Top Heat](OvenSettings.md#Top%20Heat)
+2. reduce temperature to $\qty{160}{\degreeCelsius}$ 
+3. bake for $\qty{45}{min}$
+	1. in case *Stollen* gets too dark, cover with aluminium foil until finished baking
+
+### Sugar Cover
+1. heat $\qty{35}{g}$ of **butter** until liquid
+2. brush *Stollen* (should still be hot) all around (also on the floor) with **butter**
+3. let cool down
+4. brush once again all around with **butter** and drizzle thick layer of **sugar (icing)** on top
+	1. the sugar layer seals the *Stollen* for external influence and drying out
+5. once the sugar has cooled down
+	1. wrap *Stollen* in *aluminium foil* and place in *ziplock bag*
+		1. ensures that it doesn't dry out
+	2. this way the *Stollen* can be stored for several weeks in a cool place
+
+### Aroma Ripening
+1. let the *Stollen* sit for $\qty{1}{week}--\qty{2}{week}$
+	1. this way the full aroma can emerge
+
+
 ## Notes
+1. *DO NOT CUT THE STOLLEN IMMEDIATLY*
+	1. it will still be very crumbly
+2. before serving, drizzle the *Stollen* with a thick layer of *sugar (icing)*
+3. you can use **apple juice** as an alternative to **rum**
