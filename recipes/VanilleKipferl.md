@@ -55,7 +55,7 @@ paginate: false
 #### Pretty but slow
 1. place left hand palm up
 2. from the entire dough-batch take about $\pu{1cm^3}$ and place it about where the knuckle of your middle finger is
-3. repeat until the centre of the *Kipferl* shall be $\pu{0.5cm}$ in diameter
+3. repeat until the centre of the *Kipferl* is $\approx\pu{0.5cm}$ in diameter
   1. with your flat right hand stroke towards your body applying light pressure
   2. simultaneously the left hand curls slightly
    1. this ensures that the *Kipferl* doesn't fall apart easily
