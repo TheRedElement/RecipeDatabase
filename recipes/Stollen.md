@@ -114,3 +114,4 @@ paginate: false
 		2. fold the *thicker* part of the loaf *on top* of the thinner one
 		3. prettify
 		4. let sit for $\pu{30min}$
+5. you can substitute $\pu{50g}$ of **flour (wheat)** with $\pu{50g}$ of ground **almonds**
