@@ -47,7 +47,7 @@ paginate: false
 
 ### Filling
 2. mix **raisins**, **candied lemon peel**, **cnadied orange peel**, **rum**, **almonds**
-3. let sit for $\ge\pu{1h}$
+3. cover and let sit for $\ge\pu{1h}$
 	1. for more aroma you can let it sit over night
 
 ### Dough
@@ -65,17 +65,20 @@ paginate: false
 11. continue kneading and add remainder of **milk** bit by bit
 12. add [Filling](#Filling)
 13. continue kneading until well mixed
-14. let sit at warm place for $\approx\pu{30min}$
+14. cover and let sit at warm place for $\approx\pu{30min}$
 
 ### Stollen Shaping
 1. knead once again for short time
 2. form into rectangular loaf
-3. flatten half of the loaf to about $\pu{2.5}{cm}$ thickness
+3. flatten half of the loaf to about $\pu{2.5}{cm}$ thickness (other half if *thicker*)
 	1. usually done with rolling pin
 	2. can also be achieved by hand if necessary
 4. fold the *thicker* part of the loaf *on top* of the thinner one
 5. prettify
-6. let sit for $\pu{30min}$
+6. place *aluminium foil* followed by *parchment paper* on baking tray
+	1. *aluminium foil* reduces risk of bottom burning
+7. place loaf on baking try
+8. cover and let sit for $\pu{30min}$
 
 ### Baking
 1. while loaf is sitting, preheat oven to $\pu{200^\circ C}$ [Top Heat](OvenSettings.md#Top%20Heat)
@@ -93,6 +96,7 @@ paginate: false
 	1. wrap *Stollen* in *aluminium foil* and place in *ziplock bag*
 		1. ensures that it doesn't dry out
 	2. this way the *Stollen* can be stored for several weeks in a cool place
+		1. do NOT use the fridge because then it drys out
 
 ### Aroma Ripening
 1. let the *Stollen* sit for $\pu{1-2weeks}$
@@ -114,4 +118,4 @@ paginate: false
 		2. fold the *thicker* part of the loaf *on top* of the thinner one
 		3. prettify
 		4. let sit for $\pu{30min}$
-5. you can substitute $\pu{50g}$ of **flour (wheat)** with $\pu{50g}$ of ground **almonds**
+5. you can substitute $\pu{20g}$ of **flour (wheat)** with $\pu{50g}$ of ground **almonds**
