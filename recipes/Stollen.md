@@ -60,7 +60,7 @@ paginate: false
 7. let sit at warm place for $\approx \pu{15min}$
 	1. handwarm milk and sugar kickstart **yeast (dry)**
 8. cut $\pu{100g}$ **butter** in small pieces
-9. add **butter** (room temperature), **egg**, **sugar**,  **salt**, **cinnamon**, **nutmeg**, **cardamom** to bowl
+9. add **butter** (room temperature), **egg**, **sugar**,  **salt**, **cinnamon**, **nutmeg**, **cardamom**, **vanilla sugar** to bowl
 10. knead until well mixed
 11. continue kneading and add remainder of **milk** bit by bit
 12. add [Filling](#Filling)
