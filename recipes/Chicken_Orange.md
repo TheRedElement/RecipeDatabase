@@ -17,6 +17,8 @@ links:
 
 # Chicken (Orange)
 
+![](../gfx/PXL_20251113_084209799~2.jpg)
+
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |water|50 mL|

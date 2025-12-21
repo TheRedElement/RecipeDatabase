@@ -9,7 +9,7 @@ category:
 country:
   - austria
 duration_min:
-todo: true
+todo: false
 acknowledgements:
   - Oma Berni
   - Oma Sylvia
@@ -21,6 +21,12 @@ paginate: false
 
 
 # Vanille Kipferl
+
+
+|     |     |
+| --- | --- |
+|![](../gfx/PXL_20251206_021349859.jpg)|![](../gfx/PXL_20251206_023025080.jpg)|
+
 
 |Ingredient|Amount (90 Kipferl)|Alternative Units|
 | :- | :- | :- |
@@ -75,6 +81,7 @@ paginate: false
 ## Variations
 
 ### Oma Sylvia
+![](../gfx/PXL_20251220_101713676.jpg)
 
 |Ingredient|Amount (150 Kipferl)|Alternative Units|
 | :- | :- | :- |

@@ -9,7 +9,7 @@ category:
 country:
   - austria
 duration_min: 120
-todo: true
+todo: false
 acknowledgements:
 links:
   - https://www.backenmitchristina.at/rezepte/allerheiligenstriezel/
@@ -21,6 +21,8 @@ paginate: false
 
 
 # Striezel
+
+![](../gfx/PXL_20251102_032758133.jpg)
 
 |Ingredient|Amount (2 Striezel)|Alternative Units|
 | :- | :- | :- |
@@ -86,12 +88,36 @@ paginate: false
 1. place $1$ **egg** and $\pu{20mL}$ **milk** in bowl
 2. whisk until combined
 
+![](../gfx/PXL_20251102_023647875.jpg)
+
+
 ### Baking
 2. brush with [Milk-Egg Mixture](#Milk-Egg%20Mixture)
 3. drizzle with **sugar** pieces
 4. bake at$\pu{180^\circ C}$ [Fan-Forced](OvenSettings.md#Fan-Forced) for $\approx\pu{25min}$
  1. until golden brown
 
+## Variations
+
+### Brioche Krampus
+
+![](../gfx/PXL_20251205_235056792.jpg)
+
+* On December 6th when St. Nick goes from house to house, often kids get a brioche-krampus
+* the dough is exactly the same
+* instead of braiding do the following
+	1. portion the dough into $\approx\pu{150g}$ pieces
+	2. shape them into rolls with $\approx\pu{2.5cm}$ diameter
+	3. about $\tfrac{2}{3}$ roll a little more so you have two  distinct sections
+	4. with a spatula or knive
+		1. split the larger section in half (for the legs)
+		2. split part of the shorter section in half (for the horns)
+		3. make 2 small cuts slightly below the section border (arms)
+	5. with scissors
+		1. make a cut in the center of the smaller section (nose)
+	6. firmly press **raisins** above the nose (eyes)
+1. continue the same as for the standard braid
+
 ## Notes
 * good instructions for braiding can be found [here](https://www.youtube.com/watch?v=zfXwazmun-w&pp=ygUqYmFja2VuIG1pdCBjaHJpc3RpbmEgYWxsZXJoZWlsaWdlbnN0cmllemVs)
-* 
+
