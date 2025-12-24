@@ -61,10 +61,13 @@ paginate: false
 1. add **water (handwarm)**, **sourdough starter** ([SourDoughStarter](SourDoughStarter.md)) to in bowl
 	1. mix well until **sourdough starter** dissolved
 2. add **flour (rye)**, **flour (wheat)**, **yeast (dry)**, **aniseed**, **caraway**, **fennel seeds**, **salt**
-3. slowly knead to dough
-	1. ideally with *dough-hook*, by hand also works
-	2. dough should still be firm
- 3. dough can still be slightly sticky
+3. pour dough onto a floured surface
+4. slowly knead to dough (I usually do around $\pu{10min}$)
+	1. dough should still be firm
+ 2. dough can still be slightly sticky
+5. clean mixing bowl and cover bottom with a little bit of flour
+ 1. this ensures that the dough can easily be dropped out of the bowl after [Bulk Fermentation](#bulk-fermentation)
+6. shape dough in roundish shape and place in bowl
 
 #### Bulk Fermentation
 1. cover bowl with damp cloth
@@ -76,7 +79,7 @@ paginate: false
 1. sprinkle flour along edges of dough
 2. with rubber spatula scrape dough off wall of bowl
 3. turn dough out onto floured surface
-4. knead by hand to include an additional $\pu{2tbsp}-\pu{3tbsp}$ of flour
+4. knead by hand (optionally include an additional $\pu{2tbsp}-\pu{3tbsp}$ of flour - I usually don't)
 5. gently from into ball by cupping hands below rim of [Dough](#Dough)
     1. goal: surface tension
 
