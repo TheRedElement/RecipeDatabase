@@ -6,7 +6,7 @@ category:
 country:
   - austria
 duration_min:
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false
@@ -18,6 +18,7 @@ links:
 
 # Wiener Schnitzel
 
+![](../gfx/PXL_20251224_032156189.jpg)
 
 |Ingredient|Amount (4 portions)|Alternative Units|
 | :- | :- | :- |
@@ -60,4 +61,6 @@ links:
 * usually served with
 	* a slice of **lemon** to drizzel atop
 	* a little bit of **cranberry jam**
-
+* you can also use **chicken breast** instead of **veil schnitzel**
+	* the original Wiener Schnitzel is, however, a protected term and can only be used with **veil**
+	* everything else is *Schnitzel Wiener Art*
