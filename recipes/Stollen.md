@@ -7,8 +7,8 @@ category:
   - sweet
   - tradition
 country:
-  - austria
   - germany
+  - austria
 duration_min:
 todo: true
 acknowledgements:
@@ -119,3 +119,4 @@ paginate: false
 		3. prettify
 		4. let sit for $\pu{30min}$
 5. you can substitute $\pu{20g}$ of **flour (wheat)** with $\pu{50g}$ of ground **almonds**
+6. Stollen is mostly a German thing, but a few regions in Austria have adopted it as well

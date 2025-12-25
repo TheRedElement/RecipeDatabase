@@ -64,9 +64,9 @@ paginate: false
 3. pour dough onto a floured surface
 4. slowly knead to dough (I usually do around $\pu{10min}$)
 	1. dough should still be firm
- 2. dough can still be slightly sticky
+	 2. dough can still be slightly sticky
 5. clean mixing bowl and cover bottom with a little bit of flour
- 1. this ensures that the dough can easily be dropped out of the bowl after [Bulk Fermentation](#bulk-fermentation)
+	 1. this ensures that the dough can easily be dropped out of the bowl after [Bulk Fermentation](#bulk-fermentation)
 6. shape dough in roundish shape and place in bowl
 
 #### Bulk Fermentation
