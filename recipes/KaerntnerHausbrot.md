@@ -24,7 +24,11 @@ paginate: false
 |     |     |     |
 | --- | --- | --- |
 |     |     |     |
-|![](../gfx/PXL_20251018_010714367.jpg)|![](../gfx/PXL_20251018_022337897.jpg)|![](../gfx/PXL_20251018_022350580.mp4)|
+|![](../gfx/PXL_20251224_232616851.jpg)|![](../gfx/PXL_20251225_112325802.jpg)|![](../gfx/PXL_20251018_022350580.mp4)|
+
+
+
+
 
 * see this google sheet for exemplary  baking schedules: [https://docs.google.com/spreadsheets/d/1yH_iM4KSYZGnBezECPnpf_osN13lCK4FjuAf3yHS4rE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yH_iM4KSYZGnBezECPnpf_osN13lCK4FjuAf3yHS4rE/edit?usp=sharing)
 
@@ -93,22 +97,22 @@ paginate: false
 ### Baking
 1. $\pu{30min}$ before [Proofing](#Proofing) is completed
 	1. place cast-iron pot including lid onto lowest rack in oven (heat bowl)
-  1. in Reiners words: "the cast-iron pot has to be *knitteheiß*"
+  2. in Reiners words: "the cast-iron pot has to be *knitteheiß*"
 	2. preheat oven to $\pu{250^\circ C}$ [Conventional](OvenSettings.md#Conventional) 
-2. prepare the dough
+3. prepare the dough
 	1. place floured wooden cutting board on counter
 	2. turn dough onto floured cutting board
 	3. add extension cut to [Dough](#Dough)
 		1. with sharp knife/razor blade: cut top of the dough in a cross-shape
 		2. this allows the [Dough](#Dough) to expand more freely thus, leading to a more fluffy inside
-3. slide [Dough](#Dough) off of  board  with both hands
-4. place [Dough](#Dough) into cast-iron pot
+4. slide [Dough](#Dough) off of  board  with both hands
+5. place [Dough](#Dough) into cast-iron pot
 	1. spray with water
 	2. quickly close lid (to ensure moisture stays inside)
-5. put back in oven
-6. reduce heat to $\pu{225^\circ C}$
-7. bake [Dough](#Dough) for $\pu{50min}$
-8. depending on desired crust-darkness, bake for another $\pu{10min}-\pu{15min}$ *without* lid
+6. put back in oven
+7. reduce heat to $\pu{225^\circ C}$
+8. bake [Dough](#Dough) for $\pu{50min}$
+9. depending on desired crust-darkness, bake for another $\pu{10min}-\pu{15min}$ *without* lid
 
 ### Cool Down
 * before slicing let rest for $\pu{1h}$
