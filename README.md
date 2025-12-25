@@ -13,6 +13,9 @@ The individual recipes can be found in [./recipes/](./recipes/)
     * add based on your taste
 * ingredients enclosed in brackets ([<ingredient>]) are optional
 
+## Shortcuts
+* [KaerntnerHausbrot](recipes/KaerntnerHausbrot.md)
+
 ## Table of Contents
 
 ```dataview
