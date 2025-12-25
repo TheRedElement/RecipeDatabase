@@ -10,7 +10,7 @@ country:
   - germany
   - austria
 duration_min:
-todo: true
+todo: false
 acknowledgements:
 links:
   - https://www.einfachbacken.de/rezepte/christstollen-omas-bestes-rezept
@@ -22,6 +22,16 @@ paginate: false
 
 
 # Stollen
+
+
+|     |     |
+| --- | --- |
+|![](../gfx/PXL_20251221_031845198.jpg)|![](../gfx/PXL_20251225_032651247.jpg)|
+
+
+
+
+
 
 |Ingredient|Amount (1 stollen)|Alternative Units|
 | :- | :- | :- |
@@ -80,11 +90,17 @@ paginate: false
 7. place loaf on baking try
 8. cover and let sit for $\pu{30min}$
 
+![](../gfx/PXL_20251221_013330068.jpg) 
+
+
 ### Baking
 1. while loaf is sitting, preheat oven to $\pu{200^\circ C}$ [Top Heat](OvenSettings.md#Top%20Heat)
 2. reduce temperature to $\pu{160\degreeCelsius}$ 
 3. bake for $\pu{45min}$
 	1. in case *Stollen* gets too dark, cover with aluminium foil until finished baking
+
+![](../gfx/PXL_20251221_030533626.jpg)
+
 
 ### Sugar Cover
 1. heat $\pu{35g}$ of **butter** until liquid
