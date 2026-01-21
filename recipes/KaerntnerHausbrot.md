@@ -138,6 +138,7 @@ paginate: false
 ### Reiner Schmidt's Original
 
 ![](../gfx/PXL_20260102_032720991.jpg)
+
 |Ingredient|Amount|
 | --- | --- |
 |sourdough starter|150 g|
