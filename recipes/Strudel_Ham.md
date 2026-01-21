@@ -16,6 +16,7 @@ links:
 
 # Strudel (Ham)
 
+![](../gfx/PXL_20250926_033003714.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

@@ -17,6 +17,8 @@ links:
 
 # Strudel (Spinach)
 
+![](../gfx/PXL_20250923_093347395.jpg)
+
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |cream|400 mL|
