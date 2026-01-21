@@ -21,6 +21,8 @@ paginate: false
 
 # Beef Rendang
 
+![](../gfx/PXL_20260120_104608275.jpg)
+
 |Ingredient|Amount (4 portions)|Alternative Units|
 | :- | :- | :- |
 |coconut cream|600 mL|

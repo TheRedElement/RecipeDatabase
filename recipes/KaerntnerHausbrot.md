@@ -135,9 +135,9 @@ paginate: false
 * all variations follow [Recipe](#Recipe)
 	* results change based on ingredients, of course
 
-### Reiner Schmidts Original
-- [ ] TODO: try baking
+### Reiner Schmidt's Original
 
+![](../gfx/PXL_20260102_032720991.jpg)
 |Ingredient|Amount|
 | --- | --- |
 |sourdough starter|150 g|
