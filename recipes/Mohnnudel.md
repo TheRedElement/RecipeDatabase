@@ -26,6 +26,7 @@ paginate: false
 |starch (corn)|50 g|
 |farina|40 g|
 |sugar (icing)|19.5 g|
+|poppy seeds|3 tbsp|
 |egg|1|
 |salt|1 tsp|
 
