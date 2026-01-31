@@ -35,8 +35,8 @@ paginate: false
 
 ### The Noodles
 
-1. separate dough into spheres with $\approx\pu{1.5cm}$ diameter
-2. in your hand roll (wutzel) the spheres back and forth until you get an elongated, cylindrical shape (ends are thinner than the center)
+1. from main dough take $\approx\pu{10g}$ pieces
+2. in your hand roll (wutzel) the dough-pieces until a cylindrical shape emerges (see image)
 
 ### Cooking
 1. heat a pot of salted water until boiling gently
