@@ -16,7 +16,10 @@ links:
 
 # Käsespätzle
 
-![300](../gfx/PXL_20250305_090156369.jpg)
+
+|     |     |
+| --- | --- |
+|![](../gfx/PXL_20260124_025456592.jpg)|![](../gfx/PXL_20250305_090156369.jpg)|
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

@@ -7,7 +7,7 @@ aliases:
 category:
 country:
 duration_min:
-todo: true
+todo: false
 acknowledgements:
 links:
   - https://www.motioncooking.com/rezept/kartoffelteig-grundrezept/
@@ -19,15 +19,17 @@ paginate: false
 
 # Potato Dough
 
+![](../gfx/PXL_20260131_024031221.jpg)
+
 |Ingredient|Amount (4 portions)|Alternative Units|
 | :- | :- | :- |
-|potato|600 g|
-|flour (wheat)|80 g|
-|starch (corn)|50 g|
-|farina|40 g|
-|butter|30 g|
-|egg|1|
-|salt|1 tsp|
+|potato|1200 g|
+|flour (wheat)|160 g|
+|starch (corn)|100 g|
+|farina|80 g|
+|butter|60 g|
+|egg|2|
+|salt|2 tsp|
 
 ## Recipe
 1. boil **potatoes** with peel still on

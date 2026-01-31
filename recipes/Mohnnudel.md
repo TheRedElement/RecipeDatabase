@@ -6,7 +6,7 @@ category:
 country:
   - austria
 duration_min: 60
-todo: true
+todo: false
 acknowledgements:
 links:
   - https://www.motioncooking.com/rezept/mohnnudeln/
@@ -18,17 +18,19 @@ paginate: false
 
 # Mohn Nudeln
 
+![](../gfx/PXL_20260131_025730075.jpg)
+
 |Ingredient|Amount (4 portions)|Alternative Units|
 | :- | :- | :- |
-|potato|600 g|
-|flour (wheat)|80 g|
-|butter|70 g|
-|starch (corn)|50 g|
-|farina|40 g|
-|sugar (icing)|19.5 g|
-|poppy seeds|3 tbsp|
-|egg|1|
-|salt|1 tsp|
+|potato|1200 g|
+|flour (wheat)|160 g|
+|butter|140 g|
+|starch (corn)|100 g|
+|farina|80 g|
+|sugar (icing)|40 g| 6 tbsp|
+|poppy seeds|6 tbsp|
+|egg|2|
+|salt|2 tsp|
 
 ## Recipe
 1. prepare [PotatoDough](PotatoDough.md)

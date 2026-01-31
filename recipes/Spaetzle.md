@@ -18,6 +18,7 @@ links:
 
 
 # Spätzle
+![](../gfx/PXL_20260124_020301402.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
