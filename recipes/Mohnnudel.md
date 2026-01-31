@@ -5,7 +5,7 @@ aliases:
 category:
 country:
   - austria
-duration_min: 30
+duration_min: 60
 todo: true
 acknowledgements:
 links:
