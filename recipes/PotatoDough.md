@@ -47,6 +47,7 @@ paginate: false
 	2. dough should not stick to fingers in the end
 10. form dough into a ball
 11. let rest for $\approx \pu{15min}$
+12. drizzle dough with **flour** before moving on to shaping into derived products (i.e.: [Mohnnudeln](./Mohnnudeln.md))
 
 
 ## Notes
