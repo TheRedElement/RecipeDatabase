@@ -9,7 +9,7 @@ category:
 country:
   - austria
 duration_min:
-todo: true
+todo: false
 acknowledgements:
 links:
   - https://www.motioncooking.com/rezept/germknoedel-mit-vanillesauce/
