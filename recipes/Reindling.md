@@ -99,11 +99,16 @@ links:
 
 ![](../gfx/PXL_20260329_095306343.jpg)
 
+## Serving
+* on Easter, [Reindling](Reindling.md) is traditionally eating with **horseradish** and [EasterHam](EasterHam.md)
 
 ## Notes
-* traditionally one would use **rum**, but I prefer **juice (apple)**
-* if you have a proper *bundt pan* (gugelhupfform)
-	* you can skip rolling the strand into a spiral and just place it straight into the form
+* the name [Reindling](Reindling.md) comes from the fact that it is traditionally baked in a round baking dish (reindl)
+	* modern adaptations use a *Guglhupfform* that has a conic hole in the center
+* traditionally one would use **rum** for soaking the **raisins**, but I prefer **juice (apple)**
 * if the dough is too sticky
 	* drizzle the surface with a little flour to make it workable
+* if you have a *Guglhupfform* (*bundt pan*)
+	* you can skip rolling the strand into a spiral and just place it straight into the form
 * in case the [Reindling](Reindling.md) does not want to come out of the form, bake for a few minutes with opening of baking dish on the bottom (upside down)
+* you can always just divide the strand you have at the end of [Merging](#Merging) into two and bake two smaller [Reindling](Reindling.md)
