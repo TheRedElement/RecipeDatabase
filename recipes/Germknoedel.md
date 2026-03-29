@@ -18,8 +18,9 @@ marp: false
 paginate: false
 ---
 
-
 # Germknödel
+
+![](../gfx/PXL_20260208_040917884.jpg)
 
 |Ingredient|Amount (4 portions)|Alternative Units|
 | :- | :- | :- |

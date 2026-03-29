@@ -21,6 +21,10 @@ links:
 ---
 
 # Kärntner Reindling
+|||
+|:-:|:-:|
+|![](../gfx/PXL_20260329_101318293.jpg)|![](../gfx/PXL_20260329_095424132.jpg)|
+
 
 |Ingredient|Amount (1 Reindling)|Alternative Units|
 | :- | :- |:-|
@@ -81,12 +85,20 @@ links:
 7. place into the prepared baking dish
 8. cover with cloth and let rest for $\pu{45min}$ at warm location
 
+|||
+|:-:|:-:|
+|![](../gfx/PXL_20260329_081227053.jpg)|![](../gfx/PXL_20260329_081502392.jpg)|
+
+
 ### Baking
 1. $\pu{30min}$ after the final rest, preheat oven to $\pu{170}^\circ C$
 	1. use [Fan-Forced](OvenSettings.md#Fan-Forced)
 2. bake [Reindling](Reindling.md) for $\pu{45min}$ on central tray
 3. once done, release [Reindling](Reindling.md) from baking dish while still hot
 4. let cool and enjoy
+
+![](../gfx/PXL_20260329_095306343.jpg)
+
 
 ## Notes
 * traditionally one would use **rum**, but I prefer **juice (apple)**

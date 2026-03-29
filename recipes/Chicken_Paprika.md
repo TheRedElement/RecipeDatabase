@@ -17,6 +17,8 @@ links:
 
 # Chicken (Paprika)
 
+![](../gfx/PXL_20260212_074156696.jpg)
+
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |rice|800 g|
