@@ -32,7 +32,7 @@ links:
 |cinnamon|16 g|2 tbsp|
 |salt|10 g|1.5 tbsp|
 |vanilla sugar|9 g|
-|egg|2|
+|egg|3|possibly 2 work as well|
 |juice (apple)|0|
 |yeast (dry)|according to description|
 
@@ -52,7 +52,8 @@ links:
 	5. mix until you get a liquid pre-dough (inside the valley)
 	6. sprinkle with **flour** until surface slightly covered
 3. cover with cloth and let rest for $\pu{20min}$ at warm location
-	1. I often use the oven without turning it on
+	1. until visibly increased in volume and sprinkled flour shows slight cracks
+	2. I often use the oven without turning it on
 4. add $\pu{40f}$ **butter**, **eggs**, $\pu{125mL}$ **milk**, $\pu{80g}$ sugar, **salt**, **vanilla sugar**
 5. mix until a smooth dough emerges
 	1. ideally you use a kitchen-aid
