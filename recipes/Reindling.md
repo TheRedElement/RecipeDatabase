@@ -32,7 +32,7 @@ links:
 |cinnamon|16 g|2 tbsp|
 |salt|10 g|1.5 tbsp|
 |vanilla sugar|9 g|
-|egg|3|
+|egg|2|
 |juice (apple)|0|
 |yeast (dry)|according to description|
 
