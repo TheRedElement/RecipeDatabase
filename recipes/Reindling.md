@@ -91,3 +91,4 @@ links:
 	* you can skip rolling the strand into a spiral and just place it straight into the form
 * if the dough is too sticky
 	* drizzle the surface with a little flour to make it workable
+* in case the [Reindling](Reindling.md) does not want to come out of the form, bake for a few minutes with opening of baking dish on the bottom (upside down)
