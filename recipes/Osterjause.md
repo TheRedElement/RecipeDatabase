@@ -22,7 +22,6 @@ paginate: false
 
 
 # Kärntner Osterjause
-- [ ] update ingredients once [Reindling](Reindling.md) done
 - [ ] update ingredients once [Osterpinze](Osterpinze.md) done
 
 ![300](../gfx/IMG_20240330_142044.jpg)
