@@ -96,4 +96,4 @@ paginate: false
 
 
 ## Notes
-* alternatively to [Poppy Seeds Sugar Mixture](#Poppy%20Seeds%20Sugar%20Mixture) you can serve the [Germknödel](Germknödel.md) with [Vanillesauce](Vanillesauce.md)
+* alternatively to [Poppy Seeds Sugar Mixture](#Poppy%20Seeds%20Sugar%20Mixture) you can serve the [Germknoedel](Germknoedel.md) with [Vanillesauce](Vanillesauce.md)
