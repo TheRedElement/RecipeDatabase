@@ -16,6 +16,8 @@ aliases:
   - Kärntner Reindling
 acknowledgements:
 links:
+  - https://www.finis-feinstes.at/r/original-karntner-reindling-920/
+  - https://www.facebook.com/watch/?ref=saved&v=862938853427378
 ---
 
 # Kärntner Reindling
