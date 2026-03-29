@@ -16,7 +16,7 @@ links:
 
 # Ramen
 
-|Ingredient|Amount (4 portions)|
+|Ingredient|Amount (4 portions)|Alternative Units|
 | :- | :- |
 
 ## Recipe
