@@ -40,10 +40,10 @@ links:
 
 ## Recipe
 
-1. chop **onions**, **peppers**, **garlic**
+1. chop **onions**, **peppers**, **garlic**, **tomatoes**
 2. heat **oil** in big pot
 3. roast chopped onions
-4. add **minced meat**
+4. add **minced meat**, **garlic**
     1. sear in pot
 5. add **tomato paste**, **tomatoes**, **water** + **soup seasoning**
     1. let simmer for $\approx20\,min$
