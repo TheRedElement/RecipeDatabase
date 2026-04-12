@@ -22,6 +22,11 @@ links:
 
 # Buchteln
 
+|||
+|:-|:-|
+|![](../gfx/PXL_20260412_043932845~2.jpg)|![](../gfx/PXL_20260412_044433226.jpg)|
+|![](../gfx/PXL_20260412_044626531.jpg)||
+
 |Ingredient|Amount (10 Buchteln)|Alternative Units|
 | :- | :- | :- |
 |flour (wheat)|508 g|

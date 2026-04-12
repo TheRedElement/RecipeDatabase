@@ -45,4 +45,6 @@ links:
 
 ## Notes
 * stays edible for at least 3 days in fridge
+* you can cheat by reducing the amount of **sugar** to $\pu{25g}$ and using $\pu{4g}$ of **vanilla sugar** instead of the **vanilla bean**
+	* however, the taste with a **vanilla bean** is superior in my eyes
 
