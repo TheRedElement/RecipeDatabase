@@ -1,10 +1,12 @@
 ---
 tags:
   - sweet
+  - tradition
 category: cooking
 country:
-duration_min:
-todo: true
+  - austria
+duration_min: 140
+todo: false
 theme: tre_light
 marp: false
 paginate: false
