@@ -2,6 +2,7 @@
 tags:
   - sweet
   - tradition
+  - baking
 category: cooking
 country:
   - austria
