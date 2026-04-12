@@ -43,6 +43,9 @@ paginate: false
 
 
 ### Dough
+* essentially a [Germteig](Germteig.md)
+
+
 1. add **flour** to bowl
 2. make a small valley in the center
 	1. add $\pu{80mL}$ [handwarm](handwarm.md) milk

@@ -37,6 +37,8 @@ links:
 ## Recipe
 
 ### Dough
+* essentially a [Germteig](Germteig.md)
+
 1. add $\pu{500g}$ **flour** to bowl
 2. create small valley in center
 	1. heat **milk** until [handwarm](handwarm.md)

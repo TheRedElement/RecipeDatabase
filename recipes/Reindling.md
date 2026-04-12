@@ -48,6 +48,8 @@ links:
 1. place **raisins** into **apple juice** and let them soak for $\approx \pu{30min}$
 
 ### Dough
+* essentially a [Germteig](Germteig.md)
+
 1. add **flour** to bowl
 2. create small valley in center
 	1. heat **milk** until [handwarm](handwarm.md)

@@ -38,16 +38,19 @@ paginate: false
 ## Recipe
 
 ### Dough
+* essentially a [Germteig](Germteig.md)
+
+
 1. take **eggs**, **butter** out of fridge
- 1. to let come to room temperature (ensures that **yeast (dry)** has an easier time and will rise faster
-1. mix **yeast (dry)** with a little bit of *WARM* **milk**
- 1. to kick-start **yeast (dry)**
-2. add **flour (wheat)**, **salt**, **sugar**
-3. add $\pu{600mL}$ **milk** (ideally not cold), $1$ **egg** (room temperature)
-4. mix well
-5. add  **butter** (room temperature), **raisins**
-6. continue kneading until smooth, shiny dough emerges
- 1. make sure **butter** is completely incorporated
+ 2. to let come to room temperature (ensures that **yeast (dry)** has an easier time and will rise faster
+3. mix **yeast (dry)** with a little bit of *WARM* **milk**
+ 4. to kick-start **yeast (dry)**
+5. add **flour (wheat)**, **salt**, **sugar**
+6. add $\pu{600mL}$ **milk** (ideally not cold), $1$ **egg** (room temperature)
+7. mix well
+8. add  **butter** (room temperature), **raisins**
+9. continue kneading until smooth, shiny dough emerges
+ 10. make sure **butter** is completely incorporated
 
 ### Rest 1
 3. cover bowl with kitchen towel

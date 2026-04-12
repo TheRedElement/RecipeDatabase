@@ -61,6 +61,9 @@ paginate: false
 	1. for more aroma you can let it sit over night
 
 ### Dough
+* essentially a [Germteig](Germteig.md)
+
+
 1. place **flour (wheat)** in bowl
 2. make small pit and place **yeast (dry)** in there
 3. heat **milk** until handwarm

@@ -11,7 +11,7 @@ aliases:
 category:
 country:
 duration_min:
-todo: true
+todo: false
 acknowledgements:
 links:
 theme: tre_light
