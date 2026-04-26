@@ -5,7 +5,7 @@ tags:
 aliases:
 category:
 country:
-duration_min: 40
+duration_min: 60
 todo: true
 acknowledgements:
 links:
