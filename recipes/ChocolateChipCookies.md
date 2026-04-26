@@ -18,7 +18,7 @@ paginate: false
 
 # Chocolate chip cookies
 
-|Ingredient|Amount (26 cookies)|Alternative Units|
+|Ingredient|Amount (30 cookies)|Alternative Units|
 | :- | :- | :- |
 |flour (wheat)|530 g|
 |sugar|440 g|
@@ -56,8 +56,8 @@ paginate: false
 	2. batter should stay in mound shape when dropped on tray
 
 ### Cookie shaping
-1. scoop $\pu{1.5tbsp}$ and place on baking tray
-2. separate cookies by $\approx \pu{5cm}$
+1. scoop $\pu{1tbsp}$ (heaped) and place on baking tray
+2. separate cookies by $\approx \pu{4cm}$
 3. top with remaining **chocolate chips**
 
 ### Baking
