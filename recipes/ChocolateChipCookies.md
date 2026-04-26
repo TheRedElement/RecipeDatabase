@@ -30,7 +30,7 @@ paginate: false
 |baking soda|1 tsp|
 
 ## Recipe
-1. preheat oven ([Fan-Forced](OvenSettings.md#Fan-Forced)) to $\pu{160^\circ C}$
+1. preheat oven ([Fan-Forced](OvenSettings.md#Fan-Forced)) to $\pu{180^\circ C}$
 	1. place oven shelf in the middle position
 2. place parchment paper on baking tray(s)
 3. extract **yolk** from $\pu{2}$ of the **eggs**
@@ -62,9 +62,9 @@ paginate: false
 
 ### Baking
 1. bake 1 tray at a time
-2. bake for $\pu{6min}$
+2. bake for $\pu{9min}$
 3. rotate
-4. bake for $\pu{3min}$
+4. bake for $\pu{4min}$
 5. cookies should be
 	1. golden on edges
 	2. pale golden on top
