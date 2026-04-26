@@ -20,9 +20,9 @@ paginate: false
 
 |Ingredient|Amount (30 cookies)|Alternative Units|
 | :- | :- | :- |
-|flour (wheat)|530 g|
-|sugar|440 g|
-|chocolate chips|425 g|
+|flour (wheat)|500 g|
+|sugar|350 g|
+|chocolate chips|400 g|
 |butter|350 g|
 |egg|4|
 |vanilla extract|4 tsp|
