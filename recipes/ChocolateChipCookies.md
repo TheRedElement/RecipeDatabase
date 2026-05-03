@@ -60,7 +60,7 @@ paginate: false
 
 ### Baking
 1. bake 1 tray at a time
-2. bake for $\pu{9min}$
+2. bake for $\pu{8min}$
 3. rotate
 4. bake for $\pu{4min}$
 5. cookies should be
