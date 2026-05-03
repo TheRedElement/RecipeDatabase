@@ -18,13 +18,13 @@ paginate: false
 
 # Chocolate chip cookies
 
-|Ingredient|Amount (30 cookies)|Alternative Units|
+|Ingredient|Amount (60 cookies)|Alternative Units|
 | :- | :- | :- |
 |flour (wheat)|500 g|
-|sugar|350 g|
-|chocolate chips|400 g|
-|butter|350 g|
-|egg|4|
+|sugar|300 g|
+|chocolate chips|250 g|
+|butter|300 g|
+|egg|3|
 |vanilla extract|4 tsp|
 |salt|2 tsp|
 |baking soda|1 tsp|
@@ -33,10 +33,7 @@ paginate: false
 1. preheat oven ([Fan-Forced](OvenSettings.md#Fan-Forced)) to $\pu{180^\circ C}$
 	1. place oven shelf in the middle position
 2. place parchment paper on baking tray(s)
-3. extract **yolk** from $\pu{2}$ of the **eggs**
 
-### Flour mixture
-1. whisk **flour**, **salt**, **baking soda**
 
 ### Cookie dough
 1. heat butter until almost completely melted
@@ -44,9 +41,10 @@ paginate: false
 2. whisk to finish melting **butter**
 3. add **sugar**
 	1. whisk vigorously for $\pu{15s}$
-4. add **yolks**, **egg**, **vanilla extract**
+4. add **eggs**, **vanilla extract**
 5. whisk well for $\pu{15s}$
-6. add [Flour mixture](#Flour%20mixture)
+6. add **flour**, **salt**, **baking soda**
+ 1. I mix **salt** and **baking soda** with the **flour** before adding
 7. mix until almost fully incorporated
 8. add **chocolate chips**
 	1. stir until evenly distributed and **flour** fully incorporated
