@@ -23,17 +23,17 @@ links:
 | :- | :- |
 |milk|650 mL|
 |lasagna sheet|200 g|
-|tomato|140 g|
+|tomato|450 g|
 |tomato-sauce|140 mL|
 |parmesan|100 g|
 |flour|70 g|
-|soup vegetables|70 g|
 |butter|55 g|
 |carrot|30 g|
-|onion|1|
-|garlic|1 clove|
+|onion|1.5|
+|garlic|2 clove|
 |tomato paste|0.5 tbsp|
-|minced meat|0.5 kg|
+|minced meat|0.6 kg|
+|leek|0.2|
 |basil|-|
 |nutmeg|-|
 |oil|-|
