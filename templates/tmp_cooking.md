@@ -1,7 +1,6 @@
 ---
 tags: 
 aliases: 
-category: 
 country: 
 duration_min: 
 todo: true

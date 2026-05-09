@@ -2,6 +2,7 @@
 tags:
   - baking
   - tradition
+  - christmas
 aliases:
 category:
   - sweet
