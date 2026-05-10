@@ -20,7 +20,7 @@ paginate: false
 
 # Schoko-Nuss Stangerl
 
-|Ingredient|Amount (4 portions)|Alternative Units|
+|Ingredient|Amount (64)|Alternative Units|
 | :- | :- | :- |
 |butter|130 g|
 |chocolate|130 g|
