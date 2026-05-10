@@ -7,7 +7,7 @@ aliases:
   - Schoko-Nuss Stangerl
 country:
   - austria
-duration_min:
+duration_min: 90
 todo: true
 acknowledgements:
   - Daniela Steinwender
@@ -58,12 +58,15 @@ paginate: false
 6. fold **egg-white** into the mixture
 
 ### Baking
-1. preheat oven to $\pu{175^\circ C}$
+1. place baking tray on central position
+1. preheat oven to $\pu{175^\circ C}$ 
 2. grease baking tray with **butter**
 3. distribute result from [Main](#Main) on baking tray
+ 1. $\pu{0.5cm}$ thickness
 4. sprinkle **hazelnuts** on top
 5. bake for $\pu{20min}-\pu{25min}$
 6. while still hot
-	1. cut in cuboid pieces (stangerl)
+	1. cut in cuboid pieces of (stangerl)
+  1. pieces have dimension $\approx(1\times1\times1.5)\pu{cm}$
 
 ## Notes
