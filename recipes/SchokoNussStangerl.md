@@ -43,15 +43,18 @@ paginate: false
 ### Dry
 1. mix **flour (wheat)** (ideally you run through a sieve) with **baking powder**
 
-### Main
-1. heat **butter**
-2. stir until foaming
+### Butter - egg-yolk mixture
+1. heat **butter** in pot
+  2. stir until foaming
+2. turn off heat
 3. add **sugar**
 4. add **egg-yolk**
-5. mix the following into the **butter**-**egg-yolk** mixture
-	1. [Dry](#Dry)
-	2. **chocolate**
-	3. **walnuts**
+5. mix well
+
+### Main
+1. add [Butter - egg-yolk mixture](#Butter%20-%20egg-yolk%20mixture) to [Dry](#Dry)
+2. add **chocolate** to [Dry](#Dry)
+3. add **walnuts** to [Dry](#Dry)
 6. fold **egg-white** into the mixture
 
 ### Baking
