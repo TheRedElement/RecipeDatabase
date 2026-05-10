@@ -62,11 +62,12 @@ paginate: false
 1. preheat oven to $\pu{175^\circ C}$ 
 2. grease baking tray with **butter**
 3. distribute result from [Main](#Main) on baking tray
- 1. $\pu{0.5cm}$ thickness
+ 1. $\pu{1cm}$ thickness
 4. sprinkle **hazelnuts** on top
 5. bake for $\pu{20min}-\pu{25min}$
 6. while still hot
 	1. cut in cuboid pieces of (stangerl)
-  1. pieces have dimension $\approx(1\times1\times1.5)\pu{cm}$
+  1. pieces have dimension $\approx(2\times2\times1)\pu{cm}$ (W,L,H)
+7. let cool down before transferring to container
 
 ## Notes
