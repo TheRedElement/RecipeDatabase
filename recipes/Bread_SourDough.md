@@ -17,13 +17,12 @@ links:
   - https://www.theclevercarrot.com/2014/01/sourdough-bread-a-beginners-guide/
 ---
 
-# Sour-Dough Bread
+# Sourdough Bread
 
 
 |     |     |
 | --- | --- |
-|![](../gfx/PXL_20251011_115341457.jpg)|![](../gfx/PXL_20251011_125804126.jpg)|
-
+|||
 * see this google sheet for exemplary  baking schedules: [https://docs.google.com/spreadsheets/d/1yH_iM4KSYZGnBezECPnpf_osN13lCK4FjuAf3yHS4rE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yH_iM4KSYZGnBezECPnpf_osN13lCK4FjuAf3yHS4rE/edit?usp=sharing)
 
 |Ingredient|Amount (4 portions)|
