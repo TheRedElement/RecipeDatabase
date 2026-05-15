@@ -21,8 +21,9 @@ paginate: false
 |Ingredient|Amount (60 cookies)|Alternative Units|
 | :- | :- | :- |
 |flour (wheat)|400 g|
-|butter|250 g|
-|sugar |250 g|
+|butter (room temperature)|250 g|
+|sugar |200 g|
+|vanilla sugar |32 g|
 |chocolate|200 g|
 |baking powder|2 tsp|
 |egg|2|
