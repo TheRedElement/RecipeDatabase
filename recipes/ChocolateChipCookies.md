@@ -6,7 +6,7 @@ aliases:
 category:
 country:
 duration_min: 60
-todo: true
+todo: false
 acknowledgements:
 links:
   - https://www.recipetineats.com/chocolate-chip-cookies/#recipe
@@ -17,6 +17,8 @@ paginate: false
 
 
 # Chocolate chip cookies
+
+![](../gfx/PXL_20260426_034802219.jpg)
 
 |Ingredient|Amount (60 cookies)|Alternative Units|
 | :- | :- | :- |

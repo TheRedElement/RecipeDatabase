@@ -19,6 +19,12 @@ links:
 
 # Lasagne al forno
 
+
+|     |     |
+| --- | --- |
+|![](../gfx/PXL_20260503_030258155.jpg)|![](../gfx/PXL_20260503_035654697.jpg)|
+
+
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |milk|650 mL|

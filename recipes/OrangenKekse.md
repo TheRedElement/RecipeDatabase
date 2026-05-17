@@ -6,7 +6,7 @@ tags:
 aliases:
 country:
 duration_min: 90
-todo: true
+todo: false
 acknowledgements:
   - Daniela Steinwender
 links:
@@ -17,6 +17,12 @@ paginate: false
 
 
 # Orangen Kekse
+
+
+|     |
+| --- |
+|![](../gfx/PXL_20260517_034802219.jpg)|
+
 
 |Ingredient|Amount (60 cookies)|Alternative Units|
 | :- | :- | :- |
@@ -42,16 +48,17 @@ paginate: false
 6. add **chocolate**
 7. knead until well-distributed
 8. add a little bit of juice of **orange**
- 1. just enough so the dough smells a little orange-y
- 2. if you add too much, the consistency will be too liquid!
+	1. just enough so the dough smells a little orange-y
+		 1. if you add too much, the consistency will be too liquid!
+	2. for the amount specified in the ingredients I tend to use the juice of one **orange**
 9. place in fridge for $30\,\mathrm{min}$
 
 ### Baking
 2. preheat oven to $180^\circ\mathrm{C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
 3. place parchment paper on baking tray
 4. place [Dough](#Dough) on baking tray
- 1. balls/discs of $0.5\,\mathrm{tbsp}$ [Dough](#Dough) $3\,\mathrm{cm}$ apart
- 2. make sure discs are $1\,\mathrm{cm}$ thick
+	 1. balls/discs of $0.5\,\mathrm{tbsp}$ [Dough](#Dough) $3\,\mathrm{cm}$ apart
+	 2. make sure discs are $1\,\mathrm{cm}$ thick
 5. bake on middle position for $15\,\mathrm{min}$
 
 ## Notes

@@ -8,7 +8,7 @@ aliases:
 country:
   - austria
 duration_min: 90
-todo: true
+todo: false
 acknowledgements:
   - Daniela Steinwender
 links:
@@ -19,6 +19,11 @@ paginate: false
 
 
 # Schoko-Nuss Stangerl
+
+
+|     |     |
+| --- | --- |
+|![](../gfx/PXL_20260510_035131378.jpg)|![](../gfx/PXL_20260510_041739058.jpg)|
 
 |Ingredient|Amount (64)|Alternative Units|
 | :- | :- | :- |
