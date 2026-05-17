@@ -48,9 +48,9 @@ paginate: false
 ### Baking
 2. preheat oven to $180^\circ\mathrm{C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
 3. place parchment paper on baking tray
-4. shape [Dough](#Dough) into $3\,\mathrm{cm}$ diameter roll
-5. cut $1\,\mathrm{cm}$ thick slices off the roll
-6. place on baking tray
-7. bake on middle position for $15\,\mathrm{min}$
+4. place [Dough](#Dough) on baking tray
+ 1. balls/discs of $0.5\,\mathrm{tbsp}$ [Dough](#Dough)
+ 2. make sure discs are $1\,\mathrm{cm}$ thick
+5. bake on middle position for $15\,\mathrm{min}$
 
 ## Notes
