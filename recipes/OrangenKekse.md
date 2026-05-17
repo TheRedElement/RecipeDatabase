@@ -22,8 +22,8 @@ paginate: false
 | :- | :- | :- |
 |flour (wheat)|400 g|
 |butter (room temperature)|250 g|
-|sugar |200 g|
-|vanilla sugar |32 g|
+|sugar |150 g|
+|vanilla sugar |10 g|
 |chocolate|200 g|
 |baking powder|2 tsp|
 |egg|2|
