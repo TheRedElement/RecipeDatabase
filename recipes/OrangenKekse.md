@@ -35,7 +35,8 @@ paginate: false
 ### Dough
 1. roughly chop **chocolate**
 2. grate zests of **orange**
-3. mix **butter** (room temperature), **vanilla sugar**, **sugar**, **egg**, **orange zest**
+3. heat **butter** until almost melted
+3. mix **butter** (mixing completes melting), **vanilla sugar**, **sugar**, **egg**, **orange zest**
 4. add **flour (wheat)**, **baking powder**, **salt**
 5. knead until dough emerges
 6. add **chocolate**
@@ -49,7 +50,7 @@ paginate: false
 2. preheat oven to $180^\circ\mathrm{C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
 3. place parchment paper on baking tray
 4. place [Dough](#Dough) on baking tray
- 1. balls/discs of $0.5\,\mathrm{tbsp}$ [Dough](#Dough)
+ 1. balls/discs of $0.5\,\mathrm{tbsp}$ [Dough](#Dough) $3\,\mathrm{cm}$ apart
  2. make sure discs are $1\,\mathrm{cm}$ thick
 5. bake on middle position for $15\,\mathrm{min}$
 
