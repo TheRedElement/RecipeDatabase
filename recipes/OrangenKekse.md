@@ -40,7 +40,9 @@ paginate: false
 5. knead until dough emerges
 6. add **chocolate**
 7. knead until well-distributed
-8. add a little bit of juice of **orange** (just enough so the dough smells a little orange-y)
+8. add a little bit of juice of **orange**
+ 1. just enough so the dough smells a little orange-y
+ 2. if you add too much, the consistency will be too liquid!
 9. place in fridge for $30\,\mathrm{min}$
 
 ### Baking
