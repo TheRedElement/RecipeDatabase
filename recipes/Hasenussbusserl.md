@@ -9,7 +9,7 @@ country:
 duration_min:
 todo: true
 acknowledgements:
-  - Oma Sylvia
+  - Daniela Steinwender
 links:
 theme: tre_light
 marp: false
@@ -17,18 +17,16 @@ paginate: false
 ---
 
 
-# Klosterkipferl
+# Hasenlussbusserl
 
-|Ingredient|Amount (?? Kipferl)|Alternative Units|
+|Ingredient|Amount (60 cookies)|Alternative Units|
 | :- | :- | :- |
-|sugar|150 g|
-|chocolate|140 g|
-|flour|140 g|
-|butter|100 g|
-|hazelnuts|90 g|
-|vanilla sugar|30 g|
-|egg|1|
-|oil (olive)|0 mL|
+|hazelnuts|300|
+|sugar|180|
+|egg|4|
+|lemon (bio)|1|
+|cinnamon|1 tsp|
+|salt|1 pinch|
 
 ## Recipe
 
