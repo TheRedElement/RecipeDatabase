@@ -2,6 +2,7 @@
 tags:
   - baking
   - sweet
+  - cookies
 aliases:
 category:
 country:

@@ -3,6 +3,7 @@ tags:
   - baking
   - tradition
   - christmas
+  - cookies
 aliases:
   - Schoko-Nuss Stangerl
 country:
