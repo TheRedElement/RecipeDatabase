@@ -59,3 +59,4 @@ paginate: false
 
 ## Notes
 1. let cool down completely before placing into cookie jar
+2. for baking you can put them rather close to each other ($\approx 1\,\mathrm{cm}$)
