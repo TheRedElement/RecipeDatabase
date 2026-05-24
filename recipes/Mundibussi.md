@@ -49,10 +49,10 @@ paginate: false
 2. place parchment paper on baking tray
 3. form small ($\approx 2\,\mathrm{cm}$) balls from [Dough](#Dough)
 3. poke a small dent into the balls using a wooden spoon
-4. place baking tray in oven
+4. place baking tray in oven (middle rack)
 5. bake/dry for $\approx 25\,\mathrm{min}$
 	1. leave the oven slightly open so the moisture can escape
-6. [Mundibussi](Mundibussi.md) are done when thy are a bit firmer
+6. [Mundibussi](Mundibussi.md) are done when they are a bit firmer
 	1. inside can still be softer
 
 ## Notes
