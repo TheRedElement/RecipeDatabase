@@ -57,3 +57,4 @@ paginate: false
  2. they will not be shiny anymore
 
 ## Notes
+1. let cool down completely before placing into cookie jar
