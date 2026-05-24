@@ -19,7 +19,7 @@ paginate: false
 
 # Mundibussi
 
-|Ingredient|Amount (?? cookies)|Alternative Units|
+|Ingredient|Amount (80 cookies)|Alternative Units|
 | :- | :- | :- |
 |sugar (icing)|500 g|
 |walnuts|280 g|
