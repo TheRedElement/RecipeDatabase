@@ -4,6 +4,7 @@ tags:
   - tradition
   - christmas
   - cookies
+  - glutenfree
 aliases:
 country:
 duration_min: 90
