@@ -6,7 +6,7 @@ tags:
   - cookies
 aliases:
 country:
-duration_min:
+duration_min: 60
 todo: true
 acknowledgements:
   - Oma Sylvia
@@ -45,7 +45,7 @@ paginate: false
 
 > [Mundibussi](Mundibussi.md) are more dried than actually baked!
  
-1. preheat oven to $120^\circ\mathrm{C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
+1. preheat oven to $130^\circ\mathrm{C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
 2. place parchment paper on baking tray
 3. form small ($\approx 2\,\mathrm{cm}$) balls from [Dough](#Dough)
 3. poke a small dent into the balls using a wooden spoon
