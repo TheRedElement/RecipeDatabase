@@ -54,5 +54,6 @@ paginate: false
 	1. leave the oven slightly open so the moisture can escape
 6. [Mundibussi](Mundibussi.md) are done when they are a bit firmer
 	1. inside can still be softer
+ 2. they will not be shiny anymore
 
 ## Notes
