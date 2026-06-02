@@ -32,7 +32,7 @@ paginate: false
 ### Dough
 1. grate **walnuts**
 2. melt **chocolate** in water-bath
-3. heat **butter** until almost melted
+3. heat **butter** until it starts to melt
 4. mix **butter** and **sugar (icing)**
 5. whisk until fluffy
 6. add **walnuts**
