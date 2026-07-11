@@ -4,7 +4,7 @@ tags:
 category:
   - cooking
 country: 
-duration_min: 
+duration_min: 180
 todo: false
 theme: tre_light
 marp: false
