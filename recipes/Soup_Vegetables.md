@@ -42,8 +42,10 @@ links:
 1. clean and chop **carrot**, **leek**, **celery**, **parsley**
     1. add to broth
     1. add **bay leafs**, **juniper berries**
+1. season with **salt**, **pepper**
 1. let **broth** simmer until the vegetables become nice and soft
     1. don’t close lid entirely
+    1. $\approx 2\,\mathrm{h}$
 1. season to taste with **salt**, **pepper**, (**soup seasoning**)
 
 ## Notes
