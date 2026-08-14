@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Roesti",
+      "path": "recipes/Roesti.md"
+    },
+    {
+      "basename": "FaschierteLaibchen",
+      "path": "recipes/FaschierteLaibchen.md"
+    },
+    {
+      "basename": "ApfelKrenSuppe",
+      "path": "recipes/ApfelKrenSuppe.md"
+    },
+    {
       "basename": "AluminumCookware",
       "path": "resources/AluminumCookware.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Mermaid",
       "path": "vault/coding/Mermaid.md"
-    },
-    {
-      "basename": "@Leger1988_ShuttleRun",
-      "path": "vault/papers/@Leger1988_ShuttleRun.md"
-    },
-    {
-      "basename": "Oxygen",
-      "path": "vault/science/Oxygen.md"
-    },
-    {
-      "basename": "U9",
-      "path": "vault/badminton/U9.md"
     }
   ],
   "omittedPaths": [],
