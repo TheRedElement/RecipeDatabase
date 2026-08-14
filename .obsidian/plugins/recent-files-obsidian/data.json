@@ -5,6 +5,10 @@
       "path": "recipes/Roesti.md"
     },
     {
+      "basename": "Laberl",
+      "path": "resources/Laberl.md"
+    },
+    {
       "basename": "FaschierteLaibchen",
       "path": "recipes/FaschierteLaibchen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "U7",
       "path": "vault/badminton/U7.md"
-    },
-    {
-      "basename": "Mermaid",
-      "path": "vault/coding/Mermaid.md"
     }
   ],
   "omittedPaths": [],

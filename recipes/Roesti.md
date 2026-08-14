@@ -16,7 +16,7 @@ paginate: false
 ---
 
 
-# Name Of Dish
+# Rösti
 
 |Ingredient|Amount (1 Rösti)|Alternative Units|
 | :- | :- | :- |
@@ -39,7 +39,7 @@ paginate: false
 		1. cover bottom of pan
 			1. build base for the [Roesti](Roesti.md)
 	2. if using larger pan (several small [Roesti](Roesti.md))
-		1. form small [Laberl](Laberl.md)s out of **potatoes**
+		1. form small [Laberl](../resources/Laberl.md)s out of **potatoes**
 8. make small *well* in center of all [Roesti](Roesti.md)
 9. add **onion** to *well*
 10. cover with remaining **potatoes**
@@ -52,3 +52,4 @@ paginate: false
 14. let roast until bottom is also crisp
 
 ## Notes
+* excellent side for [SchweinsmedallionsMitPfefferrahmsauce](SchweinsmedallionsMitPfefferrahmsauce.md)
