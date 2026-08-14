@@ -23,7 +23,7 @@ paginate: false
 |potatoes|5|
 |onion|0.25|
 |oil|-|
-|salt||
+|salt|-|
 
 ## Recipe
 1. slice **onion**

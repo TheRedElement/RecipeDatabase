@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MisoRamen",
+      "path": "recipes/MisoRamen.md"
+    },
+    {
       "basename": "Roesti",
       "path": "recipes/Roesti.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ShuttleRun",
       "path": "vault/badminton/ShuttleRun.md"
-    },
-    {
-      "basename": "U7",
-      "path": "vault/badminton/U7.md"
     }
   ],
   "omittedPaths": [],
