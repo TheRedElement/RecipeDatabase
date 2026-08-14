@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "KaerntnerHausbrot",
+      "path": "recipes/KaerntnerHausbrot.md"
+    },
+    {
+      "basename": "Bread_SourDough",
+      "path": "recipes/Bread_SourDough.md"
+    },
+    {
+      "basename": "SourDoughStarter",
+      "path": "recipes/SourDoughStarter.md"
+    },
+    {
       "basename": "Chiapudding",
       "path": "recipes/Chiapudding.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "PhyiscalLiteracy",
       "path": "vault/badminton/PhyiscalLiteracy.md"
-    },
-    {
-      "basename": "FundamentalMovementSkills",
-      "path": "vault/badminton/FundamentalMovementSkills.md"
-    },
-    {
-      "basename": "LongTermAthleteDevelopment",
-      "path": "vault/badminton/LongTermAthleteDevelopment.md"
-    },
-    {
-      "basename": "Defense",
-      "path": "vault/badminton/Defense.md"
     }
   ],
   "omittedPaths": [],

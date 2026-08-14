@@ -20,9 +20,6 @@ links:
 # Sourdough Bread
 
 
-|     |     |
-| --- | --- |
-|||
 * see this google sheet for exemplary  baking schedules: [https://docs.google.com/spreadsheets/d/1yH_iM4KSYZGnBezECPnpf_osN13lCK4FjuAf3yHS4rE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yH_iM4KSYZGnBezECPnpf_osN13lCK4FjuAf3yHS4rE/edit?usp=sharing)
 
 |Ingredient|Amount (4 portions)|

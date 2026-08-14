@@ -23,10 +23,7 @@ paginate: false
 
 |     |     |     |
 | --- | --- | --- |
-|     |     |     |
 |![](../gfx/PXL_20251224_232616851.jpg)|![](../gfx/PXL_20251225_112325802.jpg)|![](../gfx/PXL_20251018_022350580.mp4)|
-
-
 
 
 
@@ -55,9 +52,11 @@ paginate: false
 > Only necessary when [SourDoughStarter](SourDoughStarter.md) stored in fridge
 
 1. take starter out of fridge
-2. [Feeding](#Feeding)
-3. let sit for $\pu{12h}-\pu{24h}$
+2. let sit for $\pu{12h}-\pu{24h}$
+3. [Feeding](#Feeding)
 4. once doubled in size, ready to use for baking
+
+> I found that you don't have to wait for the starter to double in size
 
 ### Dough
 

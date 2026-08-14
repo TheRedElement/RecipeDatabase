@@ -106,17 +106,26 @@ paginate: false
 	1. feed once 
 	2. let sit for $\pu{12}-\pu{24h}$ (reactivation) 
 	3. use as usual
-4. if you're lucky and have a strong stater, it might even survive for a few months in the fridge
 
-## Reviving For Baking when Stored in Fridge
+> based on my experiments a strong starter survives over $1\,\mathrm{month}$.
+> some people claim that it can survive several months.
+
+
+## Reviving for baking when stored in fridge
 1. take starter out of fridge
-2. [Feeding](#Feeding)
-3. let sit for $\pu{12h}-\pu{24h}$
+2. let sit for $\pu{12h}-\pu{24h}$
+	1. acclimatization to room temperature
+3. [Feeding](#Feeding)
 4. once doubled in size, ready to use for baking
 
+> I found that you don't need to wait for it to double in size before using it to initialize a [Bread_SourDough](Bread_SourDough.md)
+
 ## Notes
-* if you tend to bake in the morning, it is good to initialize and feed your starter in the evening
-	* this way it reaches just after its maximum after feeding when you're ready to bake (see [Option 2](#Option%202))
+* if you tend to bake in the morning
+	* initialize the dough and feed your starter the in the evening before
+	* this way
+		* it reaches just after its maximum after feeding when you're ready to bake (see [Option 2](#Option%202))
+		* it will actively feed on the dough-mixture yielding a fluffier crumb
 * good alternatives for **flour (rye)**
 	* **flour (wheat)**
 	* **flour (wholemeal)**
