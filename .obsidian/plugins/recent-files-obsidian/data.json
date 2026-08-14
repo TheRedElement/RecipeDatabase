@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chiapudding",
+      "path": "recipes/Chiapudding.md"
+    },
+    {
       "basename": "Klosterkipferl",
       "path": "recipes/Klosterkipferl.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Defense",
       "path": "vault/badminton/Defense.md"
-    },
-    {
-      "basename": "Drop",
-      "path": "vault/badminton/Drop.md"
     }
   ],
   "omittedPaths": [],
