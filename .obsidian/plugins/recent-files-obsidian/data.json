@@ -5,6 +5,18 @@
       "path": "recipes/MisoRamen.md"
     },
     {
+      "basename": "Mundibussi",
+      "path": "recipes/Mundibussi.md"
+    },
+    {
+      "basename": "SchokoNussStangerl",
+      "path": "recipes/SchokoNussStangerl.md"
+    },
+    {
+      "basename": "OrangenKekse",
+      "path": "recipes/OrangenKekse.md"
+    },
+    {
       "basename": "Roesti",
       "path": "recipes/Roesti.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "GitGithub",
       "path": "vault/coding/GitGithub.md"
-    },
-    {
-      "basename": "UV",
-      "path": "vault/coding/UV.md"
-    },
-    {
-      "basename": "MiseEnPlace",
-      "path": "vault/coding/MiseEnPlace.md"
-    },
-    {
-      "basename": "ShuttleRun",
-      "path": "vault/badminton/ShuttleRun.md"
     }
   ],
   "omittedPaths": [],

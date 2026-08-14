@@ -13,9 +13,13 @@ paginate: false
 aliases:
 acknowledgements:
 links:
+  - https://www.andy-cooks.com/blogs/recipes/miso-ramen
+  - https://www.justonecookbook.com/homemade-chashu-miso-ramen/
 ---
 
 # Miso ramen
+
+![](../gfx/PXL_20260812_022704373.jpg)
 
 |Ingredient|Amount (3 portions)|Alternative Units|
 | :- | :- |

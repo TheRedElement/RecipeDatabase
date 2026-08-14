@@ -20,6 +20,8 @@ paginate: false
 
 # Mundibussi
 
+![](../gfx/PXL_20260524_040007938.jpg)
+
 |Ingredient|Amount (80 cookies)|Alternative Units|
 | :- | :- | :- |
 |sugar (icing)|500 g|
