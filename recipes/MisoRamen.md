@@ -17,7 +17,7 @@ links:
 
 # Miso ramen
 
-|Ingredient|Amount (4 portions)|Alternative Units|
+|Ingredient|Amount (3 portions)|Alternative Units|
 | :- | :- |
 |chicken breast|0.7 kg|
 |ginger|200 g|
