@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "vault/papers",
+  "literatureNoteContentTemplate": "---\ntags:\n  - \ncategory:\n  -\ntodo: false\n\ntheme: tre_light\nmarp: true\npaginate: false\n\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n\n# {{title}}\n \n[{{entry.data.creators.author.[0].lastName}} et al. ({{year}})](../../references/references.pdf)\n\n",
+  "markdownCitationTemplate": "[{{entry.data.creators.author.[0].lastName}} et al. ({{year}})](../../references/references.pdf)",
+  "alternativeMarkdownCitationTemplate": "[{{entry.data.creators.author.[0].lastName}} et al., {{year}}](../../references/references.pdf)",
+  "citationExportPath": "references/bib-refs/bib-refs.bib"
+}

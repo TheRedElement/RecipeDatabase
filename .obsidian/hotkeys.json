@@ -85,5 +85,32 @@
       ],
       "key": "P"
     }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "file-explorer:new-file-in-new-pane": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file-in-current-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
   ]
 }

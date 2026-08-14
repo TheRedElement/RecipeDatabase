@@ -1,14 +1,17 @@
 [
   "marp-slides",
-  "note-refactor-obsidian",
   "better-word-count",
-  "calendar",
-  "dataview",
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-citation-plugin",
-  "obsidian-plugin-update-tracker",
   "advanced-cursors",
-  "obsidian-charts",
-  "graph-banner"
+  "obsidian-map-view",
+  "obsidian-tikzjax",
+  "tag-wrangler",
+  "recent-files-obsidian",
+  "omnisearch",
+  "settings-search",
+  "dataview",
+  "obsidian-latex",
+  "note-refactor-obsidian",
+  "obsidian-plugin-update-tracker"
 ]

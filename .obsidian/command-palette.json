@@ -3,6 +3,7 @@
     "insert-template",
     "obsidian-citation-plugin:insert-markdown-citation",
     "app:reload",
-    "obsidian-charts:creation-helper"
+    "obsidian-charts:creation-helper",
+    "obsidian-map-view:insert-geolink"
   ]
 }

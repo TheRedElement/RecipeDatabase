@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "insert-template",
+    "obsidian-citation-plugin:insert-markdown-citation",
+    "app:reload",
+    "obsidian-charts:creation-helper"
+  ]
+}
