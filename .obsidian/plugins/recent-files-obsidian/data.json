@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chiapudding",
+      "path": "recipes/Chiapudding.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "SourDoughStarter",
       "path": "recipes/SourDoughStarter.md"
-    },
-    {
-      "basename": "Chiapudding",
-      "path": "recipes/Chiapudding.md"
     },
     {
       "basename": "Klosterkipferl",
