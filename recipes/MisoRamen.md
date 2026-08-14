@@ -6,7 +6,7 @@ category:
 country:
   - japan
 duration_min: 35
-todo: true
+todo: false
 theme: tre_light
 marp: false
 paginate: false

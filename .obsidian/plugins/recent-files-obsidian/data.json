@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "MisoRamen",
       "path": "recipes/MisoRamen.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Bash",
       "path": "vault/coding/Bash.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Accuracy",
