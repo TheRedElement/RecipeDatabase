@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "AluminumCookware",
+      "path": "resources/AluminumCookware.md"
+    },
+    {
+      "basename": "SoupVegetables",
+      "path": "resources/SoupVegetables.md"
+    },
+    {
       "basename": "KaerntnerHausbrot",
       "path": "recipes/KaerntnerHausbrot.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "U9",
       "path": "vault/badminton/U9.md"
-    },
-    {
-      "basename": "BaseExercises",
-      "path": "vault/badminton/BaseExercises.md"
-    },
-    {
-      "basename": "PhyiscalLiteracy",
-      "path": "vault/badminton/PhyiscalLiteracy.md"
     }
   ],
   "omittedPaths": [],
