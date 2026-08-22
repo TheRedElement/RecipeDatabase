@@ -56,7 +56,8 @@ paginate: false
 3. [Feeding](#Feeding)
 4. once doubled in size, ready to use for baking
 
-> I found that you don't have to wait for the starter to double in size
+> I found that you don't have to wait for the starter to double in size.
+> And during the "Feeding" step I already use the half that would be discarded as the starter for the bread.
 
 ### Dough
 
