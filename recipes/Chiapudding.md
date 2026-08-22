@@ -32,7 +32,7 @@ paginate: false
 1. mix **chia seeds**, **oat milk**, $\frac{2}{3}$ of **honey**
 	1. make sure **honey** is liquid
 	2. add honey to desired sweetness
-2. let ... for $\approx 1\,\mathrm{h}$
+2. let sit for $\approx 1\,\mathrm{h}$
 	1. stir every now and again
 
 ### Merge
@@ -42,7 +42,7 @@ paginate: false
 	1. make sure **pistachio spread** is liquid-ish
 	2. until green and creamy
 3. distribute into $4$ glasses
-	1. **pistachio**-[Chiaseed base](#Chiaseed%20base) mis
+	1. **pistachio**-[Chiaseed base](#Chiaseed%20base) mix
 	2. pure [Chiaseed base](#Chiaseed%20base)
 	3. **raspberry** mixture
 	4. (crunchy) **cereal**
