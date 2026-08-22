@@ -90,6 +90,7 @@ paginate: false
 1. place dough ball into proofing basket with *seam-side down*
 	1. bowl also works
 		1. in that case cover with slightly damp  kitchen towel
+  1. sprinkle bottom with flour to ensure the dough doesn't stick 
 2. let sit for another $\pu{2h}$
 3. done when slightly puffy but _NOT_ doubled in size
 
