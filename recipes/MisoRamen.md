@@ -22,7 +22,7 @@ links:
 ![](../gfx/PXL_20260812_022704373.jpg)
 
 |Ingredient|Amount (3 portions)|Alternative Units|
-| :- | :- |
+| :- | :- | :- |
 |water|700 mL|
 |ramen noodles|270 g|
 |ginger|200 g|
