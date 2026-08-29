@@ -19,6 +19,10 @@ paginate: false
 
 # Marzipan
 
+|||
+|:-:|:-:|
+|![](../gfx/PXL_20260829_002231286.jpg)|![](../gfx/PXL_20260829_002441452.jpg)|
+
 |Ingredient|Amount (500 g)|Alternative Units|
 | :- | :- | :- |
 |sugar (icing)|350 g|

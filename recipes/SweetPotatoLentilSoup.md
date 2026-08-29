@@ -16,6 +16,8 @@ paginate: false
 
 # Sweet-Potato Lentil Soup
 
+![](../gfx/PXL_20260823_032903628.jpg)
+
 |Ingredient|Amount (6 portions)|Alternative Units|
 | :- | :- | :- |
 |water|2000 mL|
@@ -49,6 +51,7 @@ paginate: false
 9. season to taste with **salt**, **pepper**
 
 ## Notes
+* works very well together with [BreadCroutons](BreadCroutons.md)
 * you can substitute **spinach** with other greens
 * freezes well ($\approx 3\,\mathrm{months}$)
 * lasts $\approx 1\,\mathrm{week}$ in the fridge

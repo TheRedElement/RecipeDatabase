@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "KaerntnerHausbrot",
-      "path": "recipes/KaerntnerHausbrot.md"
+      "basename": "Marzipan",
+      "path": "recipes/Marzipan.md"
     },
     {
-      "basename": "Chiapudding",
-      "path": "recipes/Chiapudding.md"
+      "basename": "BreadCroutons",
+      "path": "recipes/BreadCroutons.md"
     },
     {
       "basename": "SweetPotatoLentilSoup",
       "path": "recipes/SweetPotatoLentilSoup.md"
     },
     {
-      "basename": "Marzipan",
-      "path": "recipes/Marzipan.md"
+      "basename": "KaerntnerHausbrot",
+      "path": "recipes/KaerntnerHausbrot.md"
+    },
+    {
+      "basename": "Chiapudding",
+      "path": "recipes/Chiapudding.md"
     },
     {
       "basename": "README",
@@ -195,10 +199,6 @@
     {
       "basename": "Recall",
       "path": "vault/science/Recall.md"
-    },
-    {
-      "basename": "Posterior",
-      "path": "vault/papers/Posterior.md"
     }
   ],
   "omittedPaths": [],
