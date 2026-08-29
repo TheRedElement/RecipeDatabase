@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SweetPotatoLentilSoup",
+      "path": "recipes/SweetPotatoLentilSoup.md"
+    },
+    {
       "basename": "Marzipan",
       "path": "recipes/Marzipan.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Posterior",
       "path": "vault/papers/Posterior.md"
-    },
-    {
-      "basename": "Apptainer",
-      "path": "vault/coding/Apptainer.md"
     }
   ],
   "omittedPaths": [],

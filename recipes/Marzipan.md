@@ -5,10 +5,12 @@ tags:
 aliases:
 country:
   - germany
-duration_min:
-todo: true
+duration_min: 30
+todo: false
 acknowledgements:
 links:
+  - https://www.womensweeklyfood.com.au/recipe/dessert/homemade-marzipan-recipe-12476/
+  - https://www.simplyrecipes.com/marzipan-recipe-5295688
 theme: tre_light
 marp: false
 paginate: false
