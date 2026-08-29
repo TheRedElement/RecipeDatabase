@@ -25,7 +25,7 @@ links:
 |capsicum|4|
 |onion|2|
 |chicken breast|1 kg|
-|garlic|-|
+|garlic|3 cloves|
 |oil|-|
 |parmesan|-|
 |pepper|-|
