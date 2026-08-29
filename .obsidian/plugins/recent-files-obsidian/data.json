@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Marzipan",
+      "path": "recipes/Marzipan.md"
+    },
+    {
       "basename": "Chiapudding",
       "path": "recipes/Chiapudding.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Apptainer",
       "path": "vault/coding/Apptainer.md"
-    },
-    {
-      "basename": "GitGithub",
-      "path": "vault/coding/GitGithub.md"
     }
   ],
   "omittedPaths": [],
