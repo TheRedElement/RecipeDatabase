@@ -22,7 +22,7 @@ links:
 | :- | :- |
 |rice|800 g|
 |cream|500 mL|
-|capsicum|2|
+|capsicum|4|
 |onion|2|
 |chicken breast|1 kg|
 |garlic|-|
@@ -44,6 +44,7 @@ links:
     1. add chopped **pepper**
     1. add cut **chicken** breasts to roast alongside
         1. season with **salt**, **pepper**, **pepper-powder**
+        1. it could be that you have to take part of the vegetables out at first to make everything fit
     1. once roasted add **cream**
     1. if sauce not viscous enough
         1. add **parmesan**/**flour**
@@ -55,4 +56,5 @@ links:
 * [spätzle](./Spaetzle.md)
 
 ## Notes
+* yes, 4 capsicum seems a lot, but trust me it's all comes together
 
