@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Chiapudding",
+      "path": "recipes/Chiapudding.md"
+    },
+    {
+      "basename": "KaerntnerHausbrot",
+      "path": "recipes/KaerntnerHausbrot.md"
+    },
+    {
       "basename": "Marzipan",
       "path": "recipes/Marzipan.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "SweetPotatoLentilSoup",
       "path": "recipes/SweetPotatoLentilSoup.md"
-    },
-    {
-      "basename": "KaerntnerHausbrot",
-      "path": "recipes/KaerntnerHausbrot.md"
-    },
-    {
-      "basename": "Chiapudding",
-      "path": "recipes/Chiapudding.md"
     },
     {
       "basename": "README",

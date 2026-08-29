@@ -81,7 +81,7 @@ paginate: false
 
 |||
 |:-:|:-:|
-|![](../gfx/PXL_20260822_231143788.jpg)|![](../gfx/PXL_20260822_231339797.jpg)|
+|![](../gfx/PXL_20260822_231143788.png)|![](../gfx/PXL_20260822_231339797.jpg)|
 <!-- -->
 Post-[Bulk Fermentation](#Bulk%20Fermentation).
 Left: directly after removing damp cloth and sprinkling flour along the edges.
@@ -113,7 +113,7 @@ Add flour to not stick to dough while [Shaping](#Shaping)
 
 |||
 |:-:|:-:|
-|![](../gfx/PXL_20260822_231740649.jpg)|![](../gfx/PXL_20260822_231804495.jpg)|
+|![](../gfx/PXL_20260822_231740649.jpg)|![](../gfx/PXL_20260822_231804495.png)|
 <!-- -->
 Pre-[Proofing/Bench Rest](#Proofing/Bench%20Rest).
 Left: floured bottom of the bowl to make sure dough doesn't stick after [Proofing/Bench Rest](#Proofing/Bench%20Rest) (ideally you'd have a proofing basket).
