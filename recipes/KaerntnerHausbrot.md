@@ -79,6 +79,14 @@ paginate: false
 	1. I dampen the cloth with warm water and let the bowl sit in the closed oven in case it is cold outside
 3. (optional: apply [Stretch and Fold](Bread_SourDough.md#Stretch%20and%20Fold))
 
+|||
+|:-:|:-:|
+|![](../gfx/PXL_20260822_231143788.jpg)|![](../gfx/PXL_20260822_231339797.jpg)|
+<!-- -->
+Post-[Bulk Fermentation](#Bulk%20Fermentation).
+Left: directly after removing damp cloth and sprinkling flour along the edges.
+Right: turned onto floured surface. The web-like structure is what you want to see.
+
 #### Shaping
 1. sprinkle flour along edges of dough
 2. with rubber spatula scrape dough off wall of bowl
@@ -87,6 +95,14 @@ paginate: false
 5. gently from into ball by cupping hands below rim of [Dough](#Dough)
     1. goal: surface tension
 
+||
+|:-:|
+|![](../gfx/PXL_20260822_231502931.jpg)|
+<!-- -->
+Post-[Shaping](#Shaping).
+A smooth spherical shape.
+Add flour to not stick to dough while [Shaping](#Shaping)
+
 #### Proofing/Bench Rest
 1. place dough ball into proofing basket with *seam-side down*
 	1. bowl also works
@@ -94,6 +110,14 @@ paginate: false
   1. sprinkle bottom with flour to ensure the dough doesn't stick 
 2. let sit for another $\pu{2h}$
 3. done when slightly puffy but _NOT_ doubled in size
+
+|||
+|:-:|:-:|
+|![](../gfx/PXL_20260822_231740649.jpg)|![](../gfx/PXL_20260822_231804495.jpg)|
+<!-- -->
+Pre-[Proofing/Bench Rest](#Proofing/Bench%20Rest).
+Left: floured bottom of the bowl to make sure dough doesn't stick after [Proofing/Bench Rest](#Proofing/Bench%20Rest) (ideally you'd have a proofing basket).
+Right: dough placed into bowl for [Proofing/Bench Rest](#Proofing/Bench%20Rest).
 
 ### Baking
 1. $\pu{30min}$ before [Proofing](#Proofing) is completed

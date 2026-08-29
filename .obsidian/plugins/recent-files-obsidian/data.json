@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "KaerntnerHausbrot",
+      "path": "recipes/KaerntnerHausbrot.md"
+    },
+    {
+      "basename": "Chiapudding",
+      "path": "recipes/Chiapudding.md"
+    },
+    {
       "basename": "SweetPotatoLentilSoup",
       "path": "recipes/SweetPotatoLentilSoup.md"
     },
     {
       "basename": "Marzipan",
       "path": "recipes/Marzipan.md"
-    },
-    {
-      "basename": "Chiapudding",
-      "path": "recipes/Chiapudding.md"
     },
     {
       "basename": "README",
@@ -55,10 +59,6 @@
     {
       "basename": "SoupVegetables",
       "path": "resources/SoupVegetables.md"
-    },
-    {
-      "basename": "KaerntnerHausbrot",
-      "path": "recipes/KaerntnerHausbrot.md"
     },
     {
       "basename": "Bread_SourDough",

@@ -17,6 +17,8 @@ paginate: false
 
 # Chiapudding
 
+![](../gfx/PXL_20260822_224835530.jpg)
+
 |Ingredient|Amount (4 portions)|Alternative Units|
 | :- | :- | :- |
 |oat milk|400 mL|
