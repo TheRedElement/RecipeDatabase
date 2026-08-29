@@ -40,6 +40,8 @@ paginate: false
 7. add **rum**
 8. mix well
 
+> [Marzipan](Marzipan.md) is grandma's secret ingredient. It ensures that the [Kokosbusserl](Kokosbusserl.md) stay soft and don't become hard like a rock after a few days.
+
 ### Baking
 1. preheat oven to $180^\circ\mathrm{C}$ [Top Heat](OvenSettings.md#Top%20Heat)
 2. add parchment paper to baking tray
