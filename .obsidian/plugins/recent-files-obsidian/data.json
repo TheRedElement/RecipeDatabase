@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Kokosbusserl",
+      "path": "recipes/Kokosbusserl.md"
+    },
+    {
+      "basename": "Marzipan",
+      "path": "recipes/Marzipan.md"
+    },
+    {
       "basename": "Chiapudding",
       "path": "recipes/Chiapudding.md"
     },
     {
       "basename": "KaerntnerHausbrot",
       "path": "recipes/KaerntnerHausbrot.md"
-    },
-    {
-      "basename": "Marzipan",
-      "path": "recipes/Marzipan.md"
     },
     {
       "basename": "BreadCroutons",
@@ -195,10 +199,6 @@
     {
       "basename": "@Moeller2020_SuperNNova",
       "path": "vault/papers/@Moeller2020_SuperNNova.md"
-    },
-    {
-      "basename": "Recall",
-      "path": "vault/science/Recall.md"
     }
   ],
   "omittedPaths": [],
