@@ -8,7 +8,7 @@ tags:
 aliases:
 country:
 duration_min: 90
-todo: true
+todo: false
 acknowledgements:
   - Oma Sylvia
 links:

@@ -5,7 +5,7 @@ tags:
 aliases:
 country:
 duration_min: 75
-todo: true
+todo: false
 acknowledgements:
   - Keti Khutunishvili
 links:

@@ -5,6 +5,10 @@
       "path": "recipes/Kokosbusserl.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Marzipan",
       "path": "recipes/Marzipan.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "SweetPotatoLentilSoup",
       "path": "recipes/SweetPotatoLentilSoup.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "MisoRamen",
