@@ -22,7 +22,7 @@ links:
 | :- | :- |
 |rice|800 g|
 |cream|500 mL|
-|capsicum|4|
+|capsicum|2|
 |onion|2|
 |chicken breast|1 kg|
 |garlic|-|
@@ -35,7 +35,6 @@ links:
 
 ## Recipe
 1. preparation
-    1. wash **chicken** breasts
     1. chop **onion**, **garlic** in small pieces
     1. chop **pepper** in bite-sized pieces
     1. chop **chicken** breasts in bite-sized pieces
