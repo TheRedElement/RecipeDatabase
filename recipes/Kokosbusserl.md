@@ -50,6 +50,8 @@ paginate: false
 	1. make sure there's at least $1\,\mathrm{cm}$ distance between the heaps
  2. make sure to wash your hands frequently while handling the [Dough](#Dough) to avoid stickiness
 4. bake for $\approx 10\,\mathrm{min}$
+5. let cool a bit before placing in storage box
+ 1. The Kokosbusserl will harden slightly
 
 ## Notes
 * if you're feeling fancy make [Marzipan](Marzipan.md) yourself
