@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Marzipankartoffeln",
+      "path": "recipes/Marzipankartoffeln.md"
+    },
+    {
       "basename": "Kokosbusserl",
       "path": "recipes/Kokosbusserl.md"
+    },
+    {
+      "basename": "SchokoNussStangerl",
+      "path": "recipes/SchokoNussStangerl.md"
+    },
+    {
+      "basename": "EggwhiteStiffness",
+      "path": "resources/EggwhiteStiffness.md"
+    },
+    {
+      "basename": "AluminumCookware",
+      "path": "resources/AluminumCookware.md"
+    },
+    {
+      "basename": "SoupVegetables",
+      "path": "resources/SoupVegetables.md"
+    },
+    {
+      "basename": "Laberl",
+      "path": "resources/Laberl.md"
     },
     {
       "basename": "README",
@@ -37,10 +61,6 @@
       "path": "recipes/Mundibussi.md"
     },
     {
-      "basename": "SchokoNussStangerl",
-      "path": "recipes/SchokoNussStangerl.md"
-    },
-    {
       "basename": "OrangenKekse",
       "path": "recipes/OrangenKekse.md"
     },
@@ -49,24 +69,12 @@
       "path": "recipes/Roesti.md"
     },
     {
-      "basename": "Laberl",
-      "path": "resources/Laberl.md"
-    },
-    {
       "basename": "FaschierteLaibchen",
       "path": "recipes/FaschierteLaibchen.md"
     },
     {
       "basename": "ApfelKrenSuppe",
       "path": "recipes/ApfelKrenSuppe.md"
-    },
-    {
-      "basename": "AluminumCookware",
-      "path": "resources/AluminumCookware.md"
-    },
-    {
-      "basename": "SoupVegetables",
-      "path": "resources/SoupVegetables.md"
     },
     {
       "basename": "Bread_SourDough",
@@ -191,14 +199,6 @@
     {
       "basename": "@Townsend2026_ZtfPhotSnClf",
       "path": "vault/papers/@Townsend2026_ZtfPhotSnClf.md"
-    },
-    {
-      "basename": "TypeIaSupernova",
-      "path": "vault/science/TypeIaSupernova.md"
-    },
-    {
-      "basename": "@Moeller2020_SuperNNova",
-      "path": "vault/papers/@Moeller2020_SuperNNova.md"
     }
   ],
   "omittedPaths": [],
