@@ -34,6 +34,7 @@ paginate: false
 1. extract white from **eggs**
 2. grate **marzipan**
 3. beat **egg-white** until stiff
+4. add **marzipan**
 4. add **sugar (icing)**/**honey**
 5. add **shredded coconut**
 6. add strained juice of **lemon**
