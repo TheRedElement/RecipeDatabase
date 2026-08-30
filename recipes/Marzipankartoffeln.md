@@ -5,7 +5,7 @@ aliases:
 country:
   - austria
   - germany
-duration_min:
+duration_min: 15
 todo: false
 acknowledgements:
 links:
