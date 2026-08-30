@@ -48,6 +48,7 @@ paginate: false
 2. add parchment paper to baking tray
 3. form small heaps from [Dough](#Dough)
 	1. make sure there's at least $1\,\mathrm{cm}$ distance between the heaps
+ 2. make sure to wash your hands frequently while handling the [Dough](#Dough) to avoid stickiness
 4. bake for $\approx 10\,\mathrm{min}$
 
 ## Notes
