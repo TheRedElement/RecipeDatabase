@@ -26,12 +26,13 @@ paginate: false
 |cinamon|1 pinch|
 |oil|1 tbsp|
 |sugar|1 tsp|
+|[raisins]|0|
 
 ## Recipe
 1. cut **breadrolls** into cubes (~1 cm)
 2. heat **milk**
 3. pur milk over **breadroll** pieces
-4. mix **sugar**, **cinnamon**, **eggs**
+4. mix **sugar**, **cinnamon**, **eggs**, **raisins**
 	1. let rest for a few minutes
 5. heat **oil** in pan
 	1. add softened **breadroll** pieces
