@@ -5,7 +5,7 @@ category:
   - sweet
 country:
   - austria
-duration_min: 
+duration_min: 30
 todo: true
 acknowledgements:
   - Oma Berni
