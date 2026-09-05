@@ -6,7 +6,7 @@ country:
   - austria
 category:
   - cooking
-duration_min: 
+duration_min: 30
 theme: tre_light
 marp: false
 paginate: false
