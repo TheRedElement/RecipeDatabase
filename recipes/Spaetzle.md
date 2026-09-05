@@ -51,4 +51,5 @@ links:
 1. let strand drop into boiling water
 1. repeat until all the dough is cooked
 
+> it helps if you dip the blade of your knife in the boiling water and splash some of the boiling water onto the cutting board
 ## Notes
