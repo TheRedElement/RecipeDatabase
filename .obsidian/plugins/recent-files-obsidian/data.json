@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Spaetzle",
+      "path": "recipes/Spaetzle.md"
+    },
+    {
+      "basename": "Kaesespaetzle",
+      "path": "recipes/Kaesespaetzle.md"
+    },
+    {
       "basename": "EggYolkPreservation",
       "path": "resources/EggYolkPreservation.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Prior",
       "path": "vault/papers/Prior.md"
-    },
-    {
-      "basename": "Quotes",
-      "path": "vault/science/Quotes.md"
-    },
-    {
-      "basename": "TaylorSeries",
-      "path": "vault/science/TaylorSeries.md"
     }
   ],
   "omittedPaths": [],

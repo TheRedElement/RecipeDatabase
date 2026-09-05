@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
 category:
   - cooking
 country:
@@ -9,9 +9,10 @@ todo: false
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
-acknowledgements: 
+aliases:
+acknowledgements:
 links:
+  - https://emmikochteinfach.de/kaesespaetzle-rezept-mit-roestzwiebeln/
 ---
 
 # Käsespätzle
@@ -72,7 +73,6 @@ links:
 1. serve with onion rings and garnish with **chives**
 
 ## Notes
-* [https://emmikochteinfach.de/kaesespaetzle-rezept-mit-roestzwiebeln/](https://emmikochteinfach.de/kaesespaetzle-rezept-mit-roestzwiebeln/)
 * The choice of **cheese**
     * ideally you want some cheese with a little bit of taste
     * it is recommended to combine several different cheeses
