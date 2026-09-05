@@ -52,4 +52,15 @@ links:
 1. repeat until all the dough is cooked
 
 > it helps if you dip the blade of your knife in the boiling water and splash some of the boiling water onto the cutting board
+
+## Freezing
+ > Spätzle can be easily frozen and will store for about 3 months
+
+1. make sure they are cold
+1. make sure there's no unnecessary excess water
+ 1. avoids sticking together
+1. add into ziplock bag
+1. suck out air
+1. Close airtight
+
 ## Notes
