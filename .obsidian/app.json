@@ -5,5 +5,6 @@
   "livePreview": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "vimMode": true
 }

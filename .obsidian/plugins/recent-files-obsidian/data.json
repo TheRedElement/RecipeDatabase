@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "EggYolkPreservation",
+      "path": "resources/EggYolkPreservation.md"
+    },
+    {
+      "basename": "Butterbrote",
+      "path": "recipes/Butterbrote.md"
+    },
+    {
       "basename": "Marzipankartoffeln",
       "path": "recipes/Marzipankartoffeln.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "TaylorSeries",
       "path": "vault/science/TaylorSeries.md"
-    },
-    {
-      "basename": "MaclaurinSeries",
-      "path": "vault/science/MaclaurinSeries.md"
-    },
-    {
-      "basename": "@Townsend2026_ZtfPhotSnClf",
-      "path": "vault/papers/@Townsend2026_ZtfPhotSnClf.md"
     }
   ],
   "omittedPaths": [],
