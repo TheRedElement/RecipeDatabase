@@ -42,8 +42,13 @@ paginate: false
 
 ### Baking
 1. preheat oven to $180^\circ\mathrm{C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
-2. cut out round-ish cookies
-	1. they should have the shape of an actual butter bread
+2. shape the cookies
+ 1. take a small piece of dough
+ 2. flatten it with your palms until you get a $0.5\,\mathrm{cm}$ thick disc
+  1. should resemble the shape of a slice of bread
+ 3. alternatively you can
+  1. roll the dough into a $0.5\,\mathrm{cm}$ thick sheet
+  2. cut out round cookies
 3. bake at for $\approx 7\,\mathrm{min}$ #todo
 	1. NOT TOO LONG
 4. while still warm, glaze with [Eggyolk glazing](#Eggyolk%20glazing)
