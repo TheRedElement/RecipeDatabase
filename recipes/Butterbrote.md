@@ -51,7 +51,8 @@ paginate: false
   2. cut out round cookies
 3. bake at for $\approx 7\,\mathrm{min}$ #todo
 	1. NOT TOO LONG
-4. while still warm, glaze with [Eggyolk glazing](#Eggyolk%20glazing)
+4. while still warm, spread [Eggyolk glazing](#Eggyolk%20glazing) on cookies
+ 1. I find it easiest to just use a butter knife and literally spread the like I would a butter bread
 5. let dry before placing in cookie yar
 
 ## Notes
