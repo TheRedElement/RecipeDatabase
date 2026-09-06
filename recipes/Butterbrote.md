@@ -6,7 +6,7 @@ tags:
 aliases:
 country:
   - austria
-duration_min:
+duration_min: 90
 todo: true
 acknowledgements:
   - Oma Berni
@@ -19,7 +19,7 @@ paginate: false
 
 # Butterbrote
 
-|Ingredient|Amount (XX pieces)|Alternative Units|
+|Ingredient|Amount (60 pieces)|Alternative Units|
 | :- | :- | :- |
 |flour |200 g|
 |butter |120 g|
