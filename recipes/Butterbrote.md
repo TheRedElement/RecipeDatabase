@@ -29,7 +29,6 @@ paginate: false
 |almond meal |50 g|
 |milk |45 ml|
 |egg |3|
-|baking powder |0 g|
 
 ## Recipe
 
