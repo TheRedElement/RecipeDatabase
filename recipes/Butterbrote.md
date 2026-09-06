@@ -21,15 +21,15 @@ paginate: false
 
 |Ingredient|Amount (XX pieces)|Alternative Units|
 | :- | :- | :- |
-|flour |200|
-|butter |120|
-|sugar |120|
-|sugar (icing) |100|
-|chocolate |60|
-|almond meal |50|
-|milk |44.361|
+|flour |200 g|
+|butter |120 g|
+|sugar |120 g|
+|sugar (icing) |100 g|
+|chocolate |60 g|
+|almond meal |50 g|
+|milk |45 ml|
 |egg |3|
-|baking powder |0|
+|baking powder |0 g|
 
 ## Recipe
 
