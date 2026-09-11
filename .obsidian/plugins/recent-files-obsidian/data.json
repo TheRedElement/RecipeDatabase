@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Haselnussbusserl",
+      "path": "recipes/Haselnussbusserl.md"
+    },
+    {
       "basename": "Spaetzle",
       "path": "recipes/Spaetzle.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Debugging",
       "path": "vault/coding/Debugging.md"
-    },
-    {
-      "basename": "Prior",
-      "path": "vault/papers/Prior.md"
     }
   ],
   "omittedPaths": [],
