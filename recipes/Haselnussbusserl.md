@@ -41,9 +41,11 @@ paginate: false
 4. cover and let rest in fridge for $\approx 30\,\mathrm{min}$
 
 ### Baking
-1. preheat oven to $130^\circ\mathrm{C}$
+1. preheat oven to $130^\circ\mathrm{C}$ fan-forced
 2. place little piles of [Dough](#Dough) onto **oblaten**
 3. place one **hazelnut** on each cookie
+4. place on oven tray
+5. place oven tray on middle rack
 4. bake for $\approx 10\,\mathrm{min}$
 	1. [Haselnussbusserl](Haselnussbusserl.md) shall not get color
 
