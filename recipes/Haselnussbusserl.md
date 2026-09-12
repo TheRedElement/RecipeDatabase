@@ -6,7 +6,7 @@ tags:
   - cookies
 aliases:
 country:
-duration_min: 60
+duration_min: 90
 todo: true
 acknowledgements:
   - Daniela Steinwender
