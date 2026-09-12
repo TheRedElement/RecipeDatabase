@@ -52,6 +52,9 @@ paginate: false
 5. place oven tray on middle rack
 4. bake for $\approx 10\,\mathrm{min}$
 	1. [Haselnussbusserl](Haselnussbusserl.md) shall not get color
+6. turn tray
+7. bake for another $\approx 15\,\mathrm{min}$
+7. let cool down before placing into container
 
 ## Notes
 * if you can't find **oblaten**, you can also just place the little piles directly into baking paper
