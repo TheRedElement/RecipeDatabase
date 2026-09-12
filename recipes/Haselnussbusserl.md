@@ -6,7 +6,7 @@ tags:
   - cookies
 aliases:
 country:
-duration_min: 40
+duration_min: 60
 todo: true
 acknowledgements:
   - Daniela Steinwender
@@ -22,11 +22,11 @@ paginate: false
 |Ingredient|Amount (60 cookies)|Alternative Units|
 | :- | :- | :- |
 |hazelnut meal|300 g|
-|sugar|180 g|
+|sugar|150 g|
 |hazelnuts|100 g|
 |oblaten|60|
 |egg|4|
-|lemon (bio)|1|
+|lemon (bio)|0.5|
 |cinnamon|3 g|
 |salt|1 pinch|
 
