@@ -43,10 +43,15 @@ paginate: false
 ### Baking
 1. preheat oven to $130^\circ\mathrm{C}$ fan-forced
 2. place little piles of [Dough](#Dough) onto **oblaten**
+ 1. I use a heaped teaspoon of [Dough](#Dough) per cookie
+ 2. shape it on the teaspoon to a round-ish pile
+ 3. place it into the **oblaten**
 3. place one **hazelnut** on each cookie
+ 1. Press to create a little bit of a ring around the **hazelnut**
 4. place on oven tray
 5. place oven tray on middle rack
 4. bake for $\approx 10\,\mathrm{min}$
 	1. [Haselnussbusserl](Haselnussbusserl.md) shall not get color
 
 ## Notes
+* if you can't find **oblaten**, you can also just place the little piles directly into baking paper
