@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SpaghettiMitSchinkenRahmSauce",
+      "path": "recipes/SpaghettiMitSchinkenRahmSauce.md"
+    },
+    {
       "basename": "Klosterkipferl",
       "path": "recipes/Klosterkipferl.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "BlackHole",
       "path": "vault/science/BlackHole.md"
-    },
-    {
-      "basename": "DarkEnergy",
-      "path": "vault/papers/DarkEnergy.md"
     }
   ],
   "omittedPaths": [],

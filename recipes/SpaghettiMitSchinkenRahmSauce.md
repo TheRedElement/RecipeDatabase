@@ -3,14 +3,15 @@ tags:
   - pasta
 category:
   - cooking
-country: 
-duration_min: 
+country:
+duration_min: 30
 todo: false
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
-acknowledgements: 
+aliases:
+acknowledgements:
+  - Daniela Steinwender
 links:
 ---
 
@@ -21,26 +22,30 @@ links:
 |Ingredient|Amount (4 portions)|
 | :- | :- |
 |pasta|500 g|
-|bacon cubes|-|
-|ham|-|
-|cream|-|
-|onion|-|
+|cream|300 mL|
+|ham|200 g|
+|onion|1|
+|oil (olive)|-|
 |parmesan|-|
-|water|-|
+|pepper|-|
+|rosemary|-|
+|salt|-|
+|thyme|-|
 
 
 ## Recipe
 1. prepare [pasta](Pasta.md)
-2. chop **onion**
-3. cut **ham** into small pieces
+2. finely chop **onion**
+3. dice **ham** into small pieces
 4. sauce
-    1. roast **onion** in pan
-    2. add **ham** to roast alongside for a short amount of time
-    3. add **cream**
-    4. add **cheese (hard)**
+    1. heat **oil** in pan (medium heat)
+    2. roast **ham**
+	3. add **onion** in pan
+    4. add **cream** (reduce heat to low)
+    5. add **parmesan**
         1. blend everything together
-    5. season with **salt**, **pepper**, **rosemary**, (**provence seasoning blend**)
+    6. season with **salt**, **pepper**, **rosemary**, (**provence seasoning blend**)
 5. marry [pasta](Pasta.md) and sauce
 
 ## Notes
-
+* **ham** can be substituted by **bacon cubes**
