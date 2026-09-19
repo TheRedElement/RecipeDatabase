@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Klosterkipferl",
+      "path": "recipes/Klosterkipferl.md"
+    },
+    {
+      "basename": "Muerbteig",
+      "path": "recipes/Muerbteig.md"
+    },
+    {
+      "basename": "VanilleKipferl",
+      "path": "recipes/VanilleKipferl.md"
+    },
+    {
+      "basename": "Kipferl",
+      "path": "resources/Kipferl.md"
+    },
+    {
       "basename": "Haselnussbusserl",
       "path": "recipes/Haselnussbusserl.md"
     },
@@ -105,10 +121,6 @@
       "path": "recipes/SourDoughStarter.md"
     },
     {
-      "basename": "Klosterkipferl",
-      "path": "recipes/Klosterkipferl.md"
-    },
-    {
       "basename": "@Smith2020_DESSN",
       "path": "vault/papers/@Smith2020_DESSN.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "DarkEnergy",
       "path": "vault/papers/DarkEnergy.md"
-    },
-    {
-      "basename": "Redshift",
-      "path": "vault/science/Redshift.md"
-    },
-    {
-      "basename": "@Vincenzi2023_PhotometricClassificationBiases",
-      "path": "vault/papers/@Vincenzi2023_PhotometricClassificationBiases.md"
-    },
-    {
-      "basename": "Debugging",
-      "path": "vault/coding/Debugging.md"
     }
   ],
   "omittedPaths": [],
