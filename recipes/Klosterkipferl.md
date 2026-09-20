@@ -66,7 +66,9 @@ paginate: false
 	1. do not overheat because the **chocolate** might burn!
 3. mix in $30\,\mathrm{g}$ **sugar (icing)**
 4. keep stirring until well-combined
-5. dip the ends of the post [Baking](#Baking) [Kipferl](../resources/Kipferl.md) into the glaceing
+5. dip the ends of the post [Baking](#Baking) [Kipferl](../resources/Kipferl.md) into the glazing
+6. place glazed [Klosterkipferl](Klosterkipferl.md) in  fridge for $\approx 5\,\mathrm{min}$
+	1. to solidify the chocolate glazing
 
 ## Notes
 * you can use **almond meal** instead of **hazelnut meal**
