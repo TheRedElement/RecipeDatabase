@@ -59,7 +59,7 @@ paginate: false
 4. let cool down a little bit
 
 ### Glaceing
-1. to a cold pot add **oil**, roughly chopped remainder of **chocolate**
+1. to a cold pot add **oil**, roughly chopped $100\,\mathrm{g}$ of **chocolate**
 2. melt and combine over low heat
 	1. do not overheat because the **chocolate** might burn!
 3. mix in **sugar**
