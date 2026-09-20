@@ -41,6 +41,7 @@ paginate: false
 1. melt $40\,\mathrm{g}$ of **chocolate**
 	1. ideally in water bath
 2. dice **butter** in small pieces
+ 1. grating works even better if you will knead by hand
 3. add **flour**, **hazelnut meal**, **butter** to a bowl or cutting board
 4. rub together with your hands until you have equal-sized crumbs (bröseln, crumbling)
 5. add **sugar (icing)** and continue crumbling
