@@ -7,7 +7,7 @@ tags:
 aliases:
 country:
   - austria
-duration_min:
+duration_min: 30
 todo: true
 acknowledgements:
   - Oma Sylvia
@@ -20,14 +20,13 @@ paginate: false
 
 # Klosterkipferl
 
-|Ingredient|Amount (20 Kipferl)|Alternative Units|
+|Ingredient|Amount (60 Kipferl)|Alternative Units|
 | :- | :- | :- |
-|sugar|150 g|
-|chocolate|140 g|
 |flour|140 g|
+|chocolate|110 g|
 |butter|100 g|
 |hazelnut meal|90 g|
-|sugar (icing)|30 g|
+|sugar (icing)|80 g|
 |vanilla sugar|8 g|
 |egg|1|
 |oil|0 mL|
@@ -40,18 +39,20 @@ paginate: false
 
 1. melt $40\,\mathrm{g}$ of **chocolate**
 	1. ideally in water bath
-2. dice **butter** in small pieces
- 1. grating works even better if you will knead by hand
-3. add **flour**, **hazelnut meal**, **butter** to a bowl or cutting board
-4. rub together with your hands until you have equal-sized crumbs (bröseln, crumbling)
-5. add **sugar (icing)** and continue crumbling
-6. create a opening in the center of your baking mass
-7. add **egg yolk**, **vanilla sugar** to the center
-8. knead into a dough
-9. add **chocolate**
-10. knead into dough
-11. wrap in cling-wrap
-12. place in fridge for $\approx 60\,\mathrm{min}$
+2. grate **butter**
+ 3. grating works even better if you will knead by hand
+4. add **flour**, **hazelnut meal**, **butter** to a bowl or cutting board
+5. rub together with your hands until you have equal-sized crumbs (bröseln, crumbling)
+6. add $30\,\mathrm{g}$ **sugar (icing)** and continue crumbling
+7. create a opening in the center of your baking mass
+8. add **egg yolk**, **vanilla sugar** to the center
+9. knead into a dough
+10. add **chocolate**
+	1. ONCE CHOCOLATE COOLED DOWN ENOUGH SO YOU CAN TOUCH IT 
+11. knead into dough
+	1. make sure **chocolate** is well-combined with the rest of  the dough
+12. wrap in cling-wrap
+13. place in fridge for $\approx 30\,\mathrm{min}$
 
 ### Baking
 1. preheat oven to $160\,\mathrm{^\circ C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
@@ -59,11 +60,11 @@ paginate: false
 3. bake for $\approx 10\,\mathrm{min}$
 4. let cool down a little bit
 
-### Glaceing
-1. to a cold pot add **oil**, roughly chopped $100\,\mathrm{g}$ of **chocolate**
+### Glazing
+1. to a cold pot add **oil**, roughly chopped $70\,\mathrm{g}$ of **chocolate**
 2. melt and combine over low heat
 	1. do not overheat because the **chocolate** might burn!
-3. mix in **sugar**
+3. mix in $30\,\mathrm{g}$ **sugar (icing)**
 4. keep stirring until well-combined
 5. dip the ends of the post [Baking](#Baking) [Kipferl](../resources/Kipferl.md) into the glaceing
 
