@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Wespennester",
+      "path": "recipes/Wespennester.md"
+    },
+    {
       "basename": "Klosterkipferl",
       "path": "recipes/Klosterkipferl.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Passband",
       "path": "vault/science/Passband.md"
-    },
-    {
-      "basename": "BlackHole",
-      "path": "vault/science/BlackHole.md"
     }
   ],
   "omittedPaths": [],
