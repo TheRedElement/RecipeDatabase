@@ -5,6 +5,7 @@ tags:
   - sweet
 aliases:
 country:
+  - austria
 duration_min:
 todo: true
 acknowledgements:
