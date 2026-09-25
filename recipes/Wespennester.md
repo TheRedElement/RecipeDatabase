@@ -39,11 +39,11 @@ paginate: false
 
 ### Baking
 
-1. preheat oven to $140\mathrm{^\circ C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
+1. preheat oven to $160\mathrm{^\circ C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
 2. place small piles of [Dough](#Dough) onto baking tray
  1. using two teaspoons seems to work pretty well
  2. if you want to get fancy you can use an icing bag
-3. bake on central rack for $15-18\,\mathrm{min}$
+3. bake on central rack for $18\,\mathrm{min}$
 4. take out of the oven and let dry for $\approx 2\,\mathrm{h}$
 	1. if you just bake a single batch, you can slightly open the oven and let them dry in the oven for $\approx 1.5\,\mathrm{h}$
 5. let fully cool down before placing in container 
