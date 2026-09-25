@@ -5,6 +5,14 @@
       "path": "recipes/Wespennester.md"
     },
     {
+      "basename": "Windbaeckerei",
+      "path": "recipes/Windbaeckerei.md"
+    },
+    {
+      "basename": "EggPreservation",
+      "path": "resources/EggPreservation.md"
+    },
+    {
       "basename": "Klosterkipferl",
       "path": "recipes/Klosterkipferl.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Kaesespaetzle",
       "path": "recipes/Kaesespaetzle.md"
-    },
-    {
-      "basename": "EggYolkPreservation",
-      "path": "resources/EggYolkPreservation.md"
     },
     {
       "basename": "Butterbrote",
@@ -195,10 +199,6 @@
     {
       "basename": "ObservationalAstrophysics",
       "path": "vault/science/ObservationalAstrophysics.md"
-    },
-    {
-      "basename": "Passband",
-      "path": "vault/science/Passband.md"
     }
   ],
   "omittedPaths": [],

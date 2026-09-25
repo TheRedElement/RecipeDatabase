@@ -25,3 +25,7 @@ paginate: false
 
 ## Notes
 * **egg yolks** usable for up to $4\,\mathrm{days}$ post preservation
+
+# Preservation of egg whites
+
+- you can freeze **egg whites**
