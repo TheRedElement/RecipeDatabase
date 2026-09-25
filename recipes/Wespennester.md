@@ -24,7 +24,6 @@ paginate: false
 | :- | :- | :- |
 |sugar|200 g|
 |chocolate|100 g|
-|vanilla sugar|8 g|
 |egg|4|
 |cinnamon|1 pinch|
 
@@ -35,7 +34,7 @@ paginate: false
 1. extract **egg whites**
 2. grate **chocolate**
 3. whisk until very stiff ([EggwhiteStiffness](../resources/EggwhiteStiffness.md))
-4. mix in **sugar**, **vanilla sugar**, **cinnamon**
+4. mix in **sugar**, **cinnamon**
 5. fold in **chocolate**
 
 ### Baking
