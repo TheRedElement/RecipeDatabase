@@ -50,6 +50,7 @@ links:
 ### cooking the knödel
 1. add **salt** to **water** and bring to a boil
 2. from [dough](#dough) form knödel with hands
+ 1. make sure to compress knödel tightly so they don't fall apart when cooking
 3. gently place in cooking water
 4. let sit for about 10 min
 
