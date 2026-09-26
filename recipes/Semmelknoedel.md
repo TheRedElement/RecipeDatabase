@@ -22,7 +22,7 @@ links:
 ![300](../gfx/PXL_20250323_075626273.jpg)
 
 
-|Ingredient|Amount (4 portions)|
+|Ingredient|Amount (8 knödel)|
 | :- | :- |
 |breadcrumb|300 g|
 |milk|250 mL|
