@@ -6,7 +6,7 @@ category:
 country:
   - austria
   - hungary
-duration_min: 
+duration_min: 120
 todo: false
 theme: tre_light
 marp: false
