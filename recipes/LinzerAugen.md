@@ -18,7 +18,7 @@ paginate: false
 ---
 
 
-# Linzeraugen
+# Linzer Augen
 
 |Ingredient|Amount (20 cookies)|Alternative Units|
 | :- | :- | :- |
