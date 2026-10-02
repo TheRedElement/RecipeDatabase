@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LinzerAugen",
+      "path": "recipes/LinzerAugen.md"
+    },
+    {
+      "basename": "Butterkekse",
+      "path": "recipes/Butterkekse.md"
+    },
+    {
       "basename": "Wespennester",
       "path": "recipes/Wespennester.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Cosmology",
       "path": "vault/science/Cosmology.md"
-    },
-    {
-      "basename": "Cadence",
-      "path": "vault/science/Cadence.md"
-    },
-    {
-      "basename": "ObservationalAstrophysics",
-      "path": "vault/science/ObservationalAstrophysics.md"
     }
   ],
   "omittedPaths": [],
