@@ -3,6 +3,7 @@ tags:
   - cookies
   - base
   - christmas
+  - baking
 aliases:
 country:
 duration_min:
