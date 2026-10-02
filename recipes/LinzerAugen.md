@@ -26,7 +26,7 @@ paginate: false
 |butter|150 g|
 |sugar (icing)|100 g|
 |sourcream|15 g|1 tbsp|
-|vanilla sugar|9 g|
+|vanilla sugar|8 g|
 |egg|2|
 |lemon (bio)|1|
 |baking powder|0 g|
@@ -41,7 +41,8 @@ paginate: false
 
 1. grate/cut **butter**
 2. grate zest of **lemon**
-3. in a large bowl add **flour**, **butter**, **sugar (icing)**, **sourcream**, **vanilla sugar**, **egg**, **baking powder**, **lemon zest**
+3. extract**egg yolk**
+3. in a large bowl add **flour**, **butter**, **sugar (icing)**, **sourcream**, **vanilla sugar**, **egg yolk**, **baking powder**, **lemon zest**
 4. quickly knead into dough
 5. place in fridge for $\approx 1\,\mathrm{h}$
 6. roll out into $\approx 2\,\mathrm{mm}$ thick dough
