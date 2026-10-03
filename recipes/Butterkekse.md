@@ -25,7 +25,7 @@ paginate: false
 |sugar (icing)|100 g|
 |sourcream|15 g|1 tbsp|
 |vanilla sugar|8 g|
-|egg|2|
+|egg|1|
 |lemon (bio)|1|
 |baking powder|0 g|
 
