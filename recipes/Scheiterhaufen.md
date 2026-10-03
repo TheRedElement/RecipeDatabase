@@ -42,7 +42,8 @@ paginate: false
 1. mix **egg**, **milk**, **vanilla sugar**, **sugar***
 	1. (optionally add **rum**)
 2. cover oven-form with **butter**
-3. grate **apple**
+3. Peel and grate **apple**
+4. roughly chop **nuts**
 4. repeat
 	1. dip **bread rolls** into **egg**-**milk** mixture
 	2. add to oven form until base covered
