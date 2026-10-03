@@ -47,8 +47,8 @@ paginate: false
 4. repeat
 	1. dip **bread rolls** into **egg**-**milk** mixture
 	2. add to oven form until base covered
-	3. add one layer of **apple**, **cinnamon**, **nuts**, grated **butter**
-5. finish with **apple**, **cinnamon**, **nuts**, grated **butter** layer
+	3. add one layer of **apple**, **cinnamon**, **nuts**, grated **butter**, **raisins**
+5. finish with **apple**, **cinnamon**, **nuts**, grated **butter** layer, **raisins**
 6. bake for $\pu{30min}$ in oven at $\pu{180^\circ C}$
 
 ## Notes
