@@ -32,6 +32,9 @@ paginate: false
 |baking powder|0 g|
 |jam|0 g|enough for all cookies|
 
+> even if you make more cookies than shown in the table, I recommend preparimg the dough in batches corresponding to the table above.
+> this ensures that you can handle the dough easily and consistently.
+
 ## Recipe
 
 - same as [Butterkekse](Butterkekse.md) with the addition of spreading **jam** on the cookies
