@@ -6,7 +6,7 @@ aliases:
 category:
   - sweet
 country:
-duration_min:
+duration_min: 60
 todo: false
 acknowledgements:
   - Daniela Steinwender
