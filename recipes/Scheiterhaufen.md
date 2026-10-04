@@ -6,7 +6,7 @@ aliases:
 category:
   - sweet
 country:
-duration_min:
+duration_min: 60
 todo: false
 acknowledgements:
   - Daniela Steinwender
@@ -42,12 +42,13 @@ paginate: false
 1. mix **egg**, **milk**, **vanilla sugar**, **sugar***
 	1. (optionally add **rum**)
 2. cover oven-form with **butter**
-3. grate **apple**
+3. Peel and grate **apple**
+4. roughly chop **nuts**
 4. repeat
 	1. dip **bread rolls** into **egg**-**milk** mixture
 	2. add to oven form until base covered
-	3. add one layer of **apple**, **cinnamon**, **nuts**, grated **butter**
-5. finish with **apple**, **cinnamon**, **nuts**, grated **butter** layer
+	3. add one layer of **apple**, **cinnamon**, **nuts**, grated **butter**, **raisins**
+5. finish with **apple**, **cinnamon**, **nuts**, grated **butter** layer, **raisins**
 6. bake for $\pu{30min}$ in oven at $\pu{180^\circ C}$
 
 ## Notes
