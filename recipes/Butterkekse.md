@@ -18,7 +18,7 @@ paginate: false
 
 # Butterkekse
 
-|Ingredient|Amount (40 cookies)|Alternative Units|
+|Ingredient|Amount (80 cookies)|Alternative Units|
 | :- | :- | :- |
 |flour|300 g|
 |butter|150 g|
@@ -27,7 +27,7 @@ paginate: false
 |vanilla sugar|8 g|
 |egg|1|
 |lemon (bio)|1|
-|baking powder|0 g|
+|baking powder|16 g|
 
 ## Recipe
 

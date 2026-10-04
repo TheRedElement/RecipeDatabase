@@ -20,17 +20,17 @@ paginate: false
 
 # Linzer Augen
 
-|Ingredient|Amount (20 cookies)|Alternative Units|
+|Ingredient|Amount (40 cookies)|Alternative Units|
 | :- | :- | :- |
 |flour|300 g|
 |butter|150 g|
 |sugar (icing)|100 g|
+|baking powder|16 g|
 |sourcream|15 g|1 tbsp|
 |vanilla sugar|8 g|
 |egg|1|
 |lemon (bio)|1|
-|baking powder|0 g|
-|jam|0 g|enough for all cookies|
+|jam|100 g|enough for all cookies|
 
 ## Recipe
 
