@@ -8,7 +8,7 @@ aliases:
 country:
   - austria
 duration_min: 50
-todo: true
+todo: false
 acknowledgements:
   - Oma Sylvia
 links:
@@ -21,7 +21,7 @@ paginate: false
 
 # Wespennester
 
-|Ingredient|Amount (??? cookies)|Alternative Units|
+|Ingredient|Amount (??? pieces)|Alternative Units|
 | :- | :- | :- |
 |sugar|250 g|
 |egg|3|
@@ -56,7 +56,9 @@ paginate: false
 
 ## Variations
 
-|Ingredient|Amount (100 cookies)|Alternative Units|
+![](../gfx/PXL_20260925_025220347.jpg)
+
+|Ingredient|Amount (100 pieces)|Alternative Units|
 | :- | :- | :- |
 |sugar|200 g|
 |chocolate|100 g|
@@ -75,11 +77,11 @@ paginate: false
 
 1. preheat oven to $160\mathrm{^\circ C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
 2. place small piles of [Dough](#Dough) onto baking tray
- 1. using two teaspoons seems to work pretty well
- 2. if you want to get fancy you can use an icing bag
-3. bake on central rack for $18\,\mathrm{min}$
-4. take out of the oven and let dry for $\approx 2\,\mathrm{h}$
+	1. using two teaspoons seems to work pretty well
+ 3. if you want to get fancy you can use an icing bag
+4. bake on central rack for $18\,\mathrm{min}$
+5. take out of the oven and let dry for $\approx 2\,\mathrm{h}$
 	1. if you just bake a single batch, you can slightly open the oven and let them dry in the oven for $\approx 1.5\,\mathrm{h}$
-5. let fully cool down before placing in container 
+6. let fully cool down before placing in container 
 
 ## Notes

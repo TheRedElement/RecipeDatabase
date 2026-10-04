@@ -8,7 +8,7 @@ aliases:
 country:
   - austria
 duration_min: 30
-todo: true
+todo: false
 acknowledgements:
   - Oma Sylvia
 links:
@@ -19,6 +19,8 @@ paginate: false
 
 
 # Klosterkipferl
+
+![](../gfx/PXL_20260920_033150163.jpg)
 
 |Ingredient|Amount (60 Kipferl)|Alternative Units|
 | :- | :- | :- |

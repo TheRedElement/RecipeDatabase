@@ -24,6 +24,11 @@ paginate: false
 
 ## Visual indicator
 
+||||
+|:-:|:-:|:-:|
+|![](../gfx/PXL_20260912_001419292.jpg)|![](../gfx/PXL_20260912_001602452.jpg)|![](../gfx/PXL_20260912_001809617.jpg)|
+|soft peaks|firm peaks|stiff peaks|
+
 * beating is complete once you have *stiff peaks*
 	* *soft peaks*
 		* when turning whisk upside down, the peak

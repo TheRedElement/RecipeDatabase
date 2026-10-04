@@ -5,9 +5,10 @@ tags:
   - christmas
   - cookies
 aliases:
+  - nussbusserl
 country:
 duration_min: 90
-todo: true
+todo: false
 acknowledgements:
   - Daniela Steinwender
 links:
@@ -18,6 +19,8 @@ paginate: false
 
 
 # Haselnussbusserl
+
+![](../gfx/PXL_20260912_021232342.jpg)
 
 |Ingredient|Amount (60 cookies)|Alternative Units|
 | :- | :- | :- |

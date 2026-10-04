@@ -1,12 +1,13 @@
 ---
-tags: 
-aliases: 
+tags:
+  - tradition
+aliases:
 category:
   - sweet
 country:
   - austria
 duration_min: 30
-todo: true
+todo: false
 acknowledgements:
   - Oma Berni
 theme: tre_light
@@ -17,6 +18,7 @@ paginate: false
 
 # Semmelschmarrn
 
+![](../gfx/PXL_20260904_025723216.jpg)
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |

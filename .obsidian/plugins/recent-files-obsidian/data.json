@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Butterkekse",
-      "path": "recipes/Butterkekse.md"
-    },
-    {
       "basename": "LinzerAugen",
       "path": "recipes/LinzerAugen.md"
     },
     {
+      "basename": "Butterkekse",
+      "path": "recipes/Butterkekse.md"
+    },
+    {
       "basename": "Wespennester",
       "path": "recipes/Wespennester.md"
+    },
+    {
+      "basename": "Klosterkipferl",
+      "path": "recipes/Klosterkipferl.md"
+    },
+    {
+      "basename": "Haselnussbusserl",
+      "path": "recipes/Haselnussbusserl.md"
+    },
+    {
+      "basename": "EggwhiteStiffness",
+      "path": "resources/EggwhiteStiffness.md"
+    },
+    {
+      "basename": "Butterbrote",
+      "path": "recipes/Butterbrote.md"
+    },
+    {
+      "basename": "Semmelschmarrn",
+      "path": "recipes/Semmelschmarrn.md"
     },
     {
       "basename": "Windbaeckerei",
@@ -19,10 +39,6 @@
     {
       "basename": "EggPreservation",
       "path": "resources/EggPreservation.md"
-    },
-    {
-      "basename": "Klosterkipferl",
-      "path": "recipes/Klosterkipferl.md"
     },
     {
       "basename": "SpaghettiMitSchinkenRahmSauce",
@@ -41,20 +57,12 @@
       "path": "resources/Kipferl.md"
     },
     {
-      "basename": "Haselnussbusserl",
-      "path": "recipes/Haselnussbusserl.md"
-    },
-    {
       "basename": "Spaetzle",
       "path": "recipes/Spaetzle.md"
     },
     {
       "basename": "Kaesespaetzle",
       "path": "recipes/Kaesespaetzle.md"
-    },
-    {
-      "basename": "Butterbrote",
-      "path": "recipes/Butterbrote.md"
     },
     {
       "basename": "Marzipankartoffeln",
@@ -67,10 +75,6 @@
     {
       "basename": "SchokoNussStangerl",
       "path": "recipes/SchokoNussStangerl.md"
-    },
-    {
-      "basename": "EggwhiteStiffness",
-      "path": "resources/EggwhiteStiffness.md"
     },
     {
       "basename": "AluminumCookware",
@@ -195,10 +199,6 @@
     {
       "basename": "GravitationalLensing",
       "path": "vault/science/GravitationalLensing.md"
-    },
-    {
-      "basename": "Cosmology",
-      "path": "vault/science/Cosmology.md"
     }
   ],
   "omittedPaths": [],

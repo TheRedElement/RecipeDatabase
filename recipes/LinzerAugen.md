@@ -6,8 +6,8 @@ tags:
 aliases:
 country:
   - austria
-duration_min:
-todo: true
+duration_min: 100
+todo: false
 acknowledgements:
   - Daniela Steinwender
   - Oma Sylvia
@@ -19,6 +19,8 @@ paginate: false
 
 
 # Linzer Augen
+
+![](../gfx/PXL_20261004_024128224.jpg)
 
 |Ingredient|Amount (40 cookies)|Alternative Units|
 | :- | :- | :- |
@@ -32,7 +34,7 @@ paginate: false
 |lemon (bio)|1|
 |jam|100 g|enough for all cookies|
 
-> even if you make more cookies than shown in the table, I recommend preparimg the dough in batches corresponding to the table above.
+> even if you make more cookies than shown in the table, I recommend preparing the dough in batches corresponding to the table above.
 > this ensures that you can handle the dough easily and consistently.
 
 ## Recipe
@@ -51,7 +53,12 @@ paginate: false
 6. roll out into $\approx 2\,\mathrm{mm}$ thick dough
 7. using cookie cutter
 	1. cut out cookies in shapes you desire
+		1. this recipe considers  circles with $4\,\mathrm{mm}$ diameter
 	2. for half of the cut-out cookies, cut out smaller holes in the center
+
+![](../gfx/PXL_20261004_022100077.jpg)
+<!-- -->
+example for top-bottom pairings post baking
 
 ### Baking
 
