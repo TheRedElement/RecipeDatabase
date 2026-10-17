@@ -1,6 +1,7 @@
 ---
 tags:
   - vegetarian
+  - pasta
 aliases:
 country:
   - austria
@@ -39,7 +40,7 @@ paginate: false
 1. cut **cabbage** in half and remove stem#
 2. cut **cabbage** into $2\,\mathrm{cm}\times 2\,\mathrm{cm}$ pieces
 	1. about the size of **pasta**
-3. cook **pasta** in a large pot
+3. cook [Pasta](Pasta.md) in a large pot
 4. finely chop **onion** and **garlic**
 5. move **pasta** to the side
 6. reusing the same pot
