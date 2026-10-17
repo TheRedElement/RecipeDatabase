@@ -15,7 +15,7 @@ paginate: false
 ---
 
 
-# Name Of Dish
+# Gefüllte Nudln
 
 |Ingredient|Amount (16 pieces)|Alternative Units|
 | :- | :- | :- |
@@ -39,7 +39,7 @@ paginate: false
 2. roll it out until it's about as thick as a knives back
 	1. make sure the pieces are round-ish
 	2. make sure the pieces are about the size of an average adults hand (palm + fingers)
-3. add filling i.e., [Kasnudel](Kasnudel.md), in the center
+3. add filling i.e., [Kasnudl](Kasnudl.md), in the center
 4. fold and squeeze the edges together
 	1. squeeze until you get an $\approx 1\,\mathrm{cm}$ wide border of dough
 5. apply [Krendln](#Krendln) to seal the edges
@@ -69,6 +69,9 @@ paginate: false
 	6. repeat until you went all the way to the other side
 
 ![](https://www.youtube.com/watch?v=y-ctVo35Xxo)
+
+## Variations
+- [Kasnudl](Kasnudl.md)
 
 ## Notes
 - see [Setz et al. (2006)](../references/references.pdf) for details
