@@ -32,7 +32,7 @@ paginate: false
 - **cabbage** is medium sized
 - use white cabbage
 - **pasta** is supposed to be "fleckerl"
-	- a noodle type from austria
+	- a noodle type from Austria
 	- square flat pieces
 
 ## Recipe
