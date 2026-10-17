@@ -77,15 +77,6 @@
       "key": "-"
     }
   ],
-  "command-palette:open": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
   "omnisearch:show-modal": [
     {
       "modifiers": [

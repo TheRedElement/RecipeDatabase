@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Krautfleckerl",
+      "path": "recipes/Krautfleckerl.md"
+    },
+    {
       "basename": "LinzerAugen",
       "path": "recipes/LinzerAugen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "GalaxyCluster",
       "path": "vault/science/GalaxyCluster.md"
-    },
-    {
-      "basename": "GravitationalLensing",
-      "path": "vault/science/GravitationalLensing.md"
     }
   ],
   "omittedPaths": [],
