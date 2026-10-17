@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "GefuellteNudl_Teig",
+      "path": "recipes/GefuellteNudl_Teig.md"
+    },
+    {
+      "basename": "Kasnudel",
+      "path": "recipes/Kasnudel.md"
+    },
+    {
       "basename": "Krautfleckerl",
       "path": "recipes/Krautfleckerl.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "AustralianDarkEnergySurvey",
       "path": "vault/papers/AustralianDarkEnergySurvey.md"
-    },
-    {
-      "basename": "DarkEnergySurvey",
-      "path": "vault/science/DarkEnergySurvey.md"
-    },
-    {
-      "basename": "GalaxyCluster",
-      "path": "vault/science/GalaxyCluster.md"
     }
   ],
   "omittedPaths": [],

@@ -50,7 +50,7 @@ paginate: false
 	3. add **garlic**
 	4. keep roasting for a bit
 	5. add **cabbage**, **caraway**, **salt**, **pepper**
-	6. add a little bit of **sugar** (to caramellise)
+	6. add a little bit of **sugar** (to caramelise)
 	7. roast until **cabbage** has taken on color
 7. add **pasta**
 8. let sit on low heat for for $5\,\mathrm{min}$

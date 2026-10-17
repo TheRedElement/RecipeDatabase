@@ -47,12 +47,12 @@
 %Other packages (alphabetically if no interdependencies)
 %-------------------------------------------------------
 \usepackage[\documentlanguage]{babel}   %babel system, adjust the language of the content
-\usepackage{hyperref}                   %for cross referencing, active urls ect. 
+\usepackage{hyperref}                   %for cross referencing, active urls ect.
 
 
 %setup the hyperref-package
 %--------------------------
-\hypersetup{					
+\hypersetup{
 	% pdftitle={\thesisTitle},	      % 	- title (PDF meta)
 	% pdfsubject={\thesisSubject},    % 	- subject (PDF meta)
 	% pdfauthor={\thesisName},	      % 	- author (PDF meta)
@@ -90,37 +90,17 @@
 
 %add file(s) where bib looks up stuff
 %------------------------------------
-\addbibresource{bib-refs/bib-refs.bib}                %for adding a file where bib looks up stuff
-
-% %add my publications
-% %-------------------
-% \addbibresource{bib-refs/bib-refs-mypublications.bib}
-
-% %category for my publications
-% % https://tex.stackexchange.com/questions/470035/filter-by-a-list-of-bibkey-on-printbibliograhy
-% \DeclareBibliographyCategory{pubsLS}
-% \DeclareBibliographyCategory{pubsLS_nonrefereed}
-% \DeclareBibliographyCategory{pubsLS_refereed}
-% \DeclareBibliographyCategory{media}
-% \addtocategory{pubsLS}{Steinwender2022_MLRRLyr_Steinwender}
-% \addtocategory{pubsLS}{Beck2022_SB9_Steinwender}
-% \addtocategory{pubsLS}{Beck2023_GaiaBinaryRG_Steinwender}
-% \addtocategory{pubsLS}{Steinwender2023_UnsupRRLyr_Steinwender}
-% \addtocategory{pubsLS_nonrefereed}{Steinwender2022_MLRRLyr_Steinwender}
-% \addtocategory{pubsLS_nonrefereed}{Steinwender2023_UnsupRRLyr_Steinwender}
-% \addtocategory{pubsLS_refereed}{Beck2022_SB9_Steinwender}
-% \addtocategory{pubsLS_refereed}{Beck2023_GaiaBinaryRG_Steinwender}
-% \addtocategory{media}{Unigraz2017}
+\addbibresource{bib-refs.bib}                %for adding a file where bib looks up stuff
 
 \usepackage[
     babel,
     strict=true,                    %makes warnings into errors
     german=quotes
-]{csquotes}  %german citing-style 
+]{csquotes}  %german citing-style
 
 %correct default u.a to et. al.
 %------------------------------
-\DefineBibliographyStrings{german}{andothers={et\addabbrvspace al\adddot}}  
+\DefineBibliographyStrings{german}{andothers={et\addabbrvspace al\adddot}}
 
 %redefine \cite to \citet [Name et. al., 2015 --> Name et. al. (2015)]
 %---------------------------------------------------------------------
