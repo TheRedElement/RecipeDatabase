@@ -28,6 +28,7 @@ paginate: false
 |parsley |0.|
 |pepper |0|
 |salt |0|
+|sugar |0|
 
 - **cabbage** is medium sized
 - use white cabbage
@@ -49,7 +50,8 @@ paginate: false
 	3. add **garlic**
 	4. keep roasting for a bit
 	5. add **cabbage**, **caraway**, **salt**, **pepper**
-	6. roast until **cabbage** has taken on color
+	6. add a little bit of **sugar** (to caramellise)
+	7. roast until **cabbage** has taken on color
 7. add **pasta**
 8. let sit on low heat for for $5\,\mathrm{min}$
 	1. so the aromas can combine
