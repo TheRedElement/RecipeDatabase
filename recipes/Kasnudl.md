@@ -62,7 +62,12 @@ paginate: false
 2. continue from there with [Cooking](GefuellteNudl_Teig.md#Cooking)
 	1. use **chives** as garnish in the end
 
+## Preservation
+- freeze while still raw
+- when ready to eat
+	- throw frozen [Kasnudl](Kasnudl.md) into boiling water
+	- try to make sure that they don't burst
 
 ## Notes
-- **curd** (Bröseltopfen) is a typical austrian/german product
+- **curd** (Bröseltopfen) is a typical Austrian/German product
 - see [Setz et al. (2006)](../references/references.pdf) for details
