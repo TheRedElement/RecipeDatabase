@@ -71,3 +71,4 @@ paginate: false
 ## Notes
 - **curd** (Bröseltopfen) is a typical Austrian/German product
 - see [Setz et al. (2006)](../references/references.pdf) for details
+- also parmesan is sometimes used as garnish
