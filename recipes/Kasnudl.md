@@ -52,7 +52,7 @@ paginate: false
 7. heat **butter**
 8. roast **onions**, **garlic**
 9. turn off heat
-10. add **curd**, **salt**, **chervil**, **noodle mint**, **parsley**, **marjoram**
+10. to **potatoes** add **onions**, **garlic**, **curd**, **salt**, **chervil**, **noodle mint**, **parsley**, **marjoram**
 11. knead until well-combined
 12. form small balls of the filling
 
