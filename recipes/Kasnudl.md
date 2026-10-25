@@ -26,7 +26,7 @@ paginate: false
 |flour (wheat) |250 g|
 |water |100 mL|
 |butter |50 g|
-|onion |50|
+|onion |50 g|0.5 onions|
 |egg |1|
 |garlic |1 cloves|
 |chervil |0.5 tsp|
