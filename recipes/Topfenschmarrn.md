@@ -8,6 +8,7 @@ duration_min:
 todo: true
 acknowledgements:
 links:
+  - https://www.gutekueche.at/topfenschmarren-rezept-5457
 theme: tre_light
 marp: false
 paginate: false
