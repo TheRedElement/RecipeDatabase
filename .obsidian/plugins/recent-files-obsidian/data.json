@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Kasnudl",
-      "path": "recipes/Kasnudl.md"
+      "basename": "Topfenschmarrn",
+      "path": "recipes/Topfenschmarrn.md"
     },
     {
       "basename": "GefuellteNudl_Teig",
       "path": "recipes/GefuellteNudl_Teig.md"
+    },
+    {
+      "basename": "Kasnudl",
+      "path": "recipes/Kasnudl.md"
     },
     {
       "basename": "Krautfleckerl",
@@ -195,10 +199,6 @@
     {
       "basename": "Exposure",
       "path": "vault/papers/Exposure.md"
-    },
-    {
-      "basename": "AustralianDarkEnergySurvey",
-      "path": "vault/papers/AustralianDarkEnergySurvey.md"
     }
   ],
   "omittedPaths": [],
