@@ -39,10 +39,13 @@ paginate: false
 2. roll it out until it's about as thick as a knives back
 	1. make sure the pieces are round-ish
 	2. make sure the pieces are about the size of an average adults hand (palm + fingers)
-3. add filling i.e., [Kasnudl](Kasnudl.md), in the center
+3. add $\approx 1.5\,\mathrm{tbsp}$ filling i.e., [Kasnudl](Kasnudl.md), in the center
+ 1.using a spoon helps to keep your hands dry for [Krendln](#Krendln)
 4. fold and squeeze the edges together
-	1. squeeze until you get an $\approx 1\,\mathrm{cm}$ wide border of dough
+	1. squeeze until you get an $\approx 0.5\,\mathrm{cm}$ wide border of dough
 5. apply [Krendln](#Krendln) to seal the edges
+
+> you can also portion your dough first into the expected number of gefüllte nudl
 
 ### Cooking
 
@@ -69,6 +72,8 @@ paginate: false
 	6. repeat until you went all the way to the other side
 
 ![](https://www.youtube.com/watch?v=y-ctVo35Xxo)
+
+> it is easier if your hands are not sticking to the dough (dry hands)
 
 ## Variations
 - [Kasnudl](Kasnudl.md)

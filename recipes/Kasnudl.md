@@ -26,7 +26,7 @@ paginate: false
 |flour (wheat) |250 g|
 |water |100 mL|
 |butter |50 g|
-|onion |50|
+|onion |50 g|0.25 onions|
 |egg |1|
 |garlic |1 cloves|
 |chervil |0.5 tsp|
@@ -52,7 +52,7 @@ paginate: false
 7. heat **butter**
 8. roast **onions**, **garlic**
 9. turn off heat
-10. add **curd**, **salt**, **chervil**, **noodle mint**, **parsley**, **marjoram**
+10. to **potatoes** add **onions**, **garlic**, **curd**, **salt**, **chervil**, **noodle mint**, **parsley**, **marjoram**
 11. knead until well-combined
 12. form small balls of the filling
 
@@ -71,3 +71,4 @@ paginate: false
 ## Notes
 - **curd** (Bröseltopfen) is a typical Austrian/German product
 - see [Setz et al. (2006)](../references/references.pdf) for details
+- also parmesan is sometimes used as garnish
