@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "LebkuchenGewuerz",
+      "path": "recipes/LebkuchenGewuerz.md"
+    },
+    {
       "basename": "LinzerStreifen",
       "path": "recipes/LinzerStreifen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Spectra",
       "path": "vault/science/Spectra.md"
-    },
-    {
-      "basename": "Noise",
-      "path": "vault/science/Noise.md"
     }
   ],
   "omittedPaths": [],
