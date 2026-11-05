@@ -4,7 +4,7 @@ tags:
   - tradition
   - christmas
 aliases:
-  - Lebkuchen spice
+  - Gingerbread spice
 country:
   - austria
   - germany
@@ -24,15 +24,15 @@ paginate: false
 
 |Ingredient|Amount (7 tsp)|Alternative Units|
 | :- | :- | :- |
-|cinnamon |8 tsp|
-|allspice |1 tsp|
-|cardamon |1 tsp|
-|clove powder |1 tsp|
-|coriander powder |1 tsp|
-|ginger powder |1 tsp|
-|nutmeg |1 tsp|
-|anise powder |0.5 tsp|
-|mace |0.5 tsp|
+|cinnamon |8 tsp|22.1 g|
+|allspice |1 tsp|2.2 g|
+|cardamon |1 tsp|2.4 g|
+|clove powder |1 tsp|2.2 g|
+|coriander powder |1 tsp|2 g|
+|ginger powder |1 tsp|2.2 g|
+|nutmeg |1 tsp|2.5 g|
+|anise powder |0.5 tsp|2 g|
+|mace |0.5 tsp|2 g|
 
 ## Recipe
 
