@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "LinzerStreifen",
+      "path": "recipes/LinzerStreifen.md"
+    },
+    {
       "basename": "Topfenschmarrn",
       "path": "recipes/Topfenschmarrn.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Noise",
       "path": "vault/science/Noise.md"
-    },
-    {
-      "basename": "Exposure",
-      "path": "vault/papers/Exposure.md"
     }
   ],
   "omittedPaths": [],
