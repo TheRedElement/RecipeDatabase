@@ -6,7 +6,7 @@ category:
   - cooking
 country:
   - italy
-duration_min:
+duration_min: 25
 todo: false
 theme: tre_light
 marp: false
