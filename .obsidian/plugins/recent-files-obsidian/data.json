@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lebkuchen",
+      "path": "recipes/Lebkuchen.md"
+    },
+    {
       "basename": "LebkuchenGewuerz",
       "path": "recipes/LebkuchenGewuerz.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "@Lidman2020_OzDesRelease2",
       "path": "vault/papers/@Lidman2020_OzDesRelease2.md"
-    },
-    {
-      "basename": "Spectra",
-      "path": "vault/science/Spectra.md"
     }
   ],
   "omittedPaths": [],
