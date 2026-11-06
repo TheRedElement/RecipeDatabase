@@ -5,6 +5,10 @@
       "path": "recipes/Lebkuchen.md"
     },
     {
+      "basename": "Kasnudl",
+      "path": "recipes/Kasnudl.md"
+    },
+    {
       "basename": "LebkuchenGewuerz",
       "path": "recipes/LebkuchenGewuerz.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "GefuellteNudl_Teig",
       "path": "recipes/GefuellteNudl_Teig.md"
-    },
-    {
-      "basename": "Kasnudl",
-      "path": "recipes/Kasnudl.md"
     },
     {
       "basename": "Krautfleckerl",

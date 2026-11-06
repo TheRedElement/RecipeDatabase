@@ -12,7 +12,11 @@ country:
 duration_min:
 todo: true
 acknowledgements:
+  - Setz2006_KaerntnerischKochen
+  - Elisabeth Gorgasser
 links:
+  - https://www.gutekueche.at/lebkuchen-vom-blech-rezept-943
+  - https://www.gutekueche.at/einfacher-lebkuchen-rezept-24285
 theme: tre_light
 marp: false
 paginate: false
@@ -21,7 +25,7 @@ paginate: false
 
 # Lebkuchen
 
-|Ingredient|Amount (#todo pieces)|Alternative Units|
+|Ingredient|Amount (20? pieces)|Alternative Units|
 | :- | :- | :- |
 |flour (rye) |300 g|
 |honey |250 g|
