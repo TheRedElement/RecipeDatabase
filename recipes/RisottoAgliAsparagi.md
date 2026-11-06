@@ -1,22 +1,23 @@
 ---
 tags:
   - risotto
+  - vegetarian
 category:
   - cooking
 country:
   - italy
-duration_min: 
+duration_min:
 todo: false
 theme: tre_light
 marp: false
 paginate: false
-aliases: 
-acknowledgements: 
+aliases:
+acknowledgements:
 links:
 ---
 
 
-# Risotto al'asparago
+# Risotto agli asparagi
 
 |Ingredient|Amount (4 portions)|
 | :- | :- |
@@ -53,3 +54,4 @@ links:
 9. add **parmesan** and mix until creamy
 
 ## Notes
+- variation from [RisottoAgliZucchini](RisottoAgliZucchini.md)
