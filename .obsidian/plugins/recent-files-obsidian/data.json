@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "RisottoAlAsparago",
+      "path": "recipes/RisottoAlAsparago.md"
+    },
+    {
       "basename": "Lebkuchen",
       "path": "recipes/Lebkuchen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Accuracy",
       "path": "vault/science/Accuracy.md"
-    },
-    {
-      "basename": "@Lidman2020_OzDesRelease2",
-      "path": "vault/papers/@Lidman2020_OzDesRelease2.md"
     }
   ],
   "omittedPaths": [],
