@@ -50,8 +50,10 @@ links:
 7. with the last ladle of [SoupVegetables](../resources/SoupVegetables.md)
 	1. add **asparagus**
 	2. season with **salt**, **pepper**
-8. turn down heat to low
-9. add **parmesan** and mix until creamy
+8. keep cooking until **asparagus** is cooked through
+	1. can still be a bit crunchy if you prefer
+9. turn down heat to low
+10. add **parmesan** and mix until creamy
 
 ## Notes
 - variation from [RisottoAgliZucchini](RisottoAgliZucchini.md)
