@@ -65,7 +65,7 @@ paginate: false
 
 #### Top
 
-1. roll remaining [Dough](#Dough) until $\approx 5\,\mathrm{mm}$ thick
+1. roll remaining [Dough](#Dough) until $\approx 1\,\mathrm{mm}$ thick
 2. cut in $\approx 1\,\mathrm{cm}$ wide stripes
 3. place diagonally on baking tray (on top of [Base](#Base) + [Center](#Center))
 	1. with distance of $\approx 1.5\,\mathrm{cm}$
