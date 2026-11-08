@@ -6,7 +6,7 @@ tags:
 aliases:
 country:
   - austria
-duration_min:
+duration_min: 120
 todo: true
 acknowledgements:
 links:
