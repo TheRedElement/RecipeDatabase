@@ -5,7 +5,7 @@ aliases:
 category:
 country:
   - italy
-duration_min:
+duration_min: 30
 todo: false
 acknowledgements:
 theme: tre_light
