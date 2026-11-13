@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Osterschinken",
+      "path": "recipes/Osterschinken.md"
+    },
+    {
+      "basename": "Osterjause",
+      "path": "recipes/Osterjause.md"
+    },
+    {
+      "basename": "Gulasch_Beef",
+      "path": "recipes/Gulasch_Beef.md"
+    },
+    {
       "basename": "Lebkuchen",
       "path": "recipes/Lebkuchen.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "LuminosityDistance",
       "path": "vault/science/LuminosityDistance.md"
-    },
-    {
-      "basename": "SelectionEffects",
-      "path": "vault/science/SelectionEffects.md"
-    },
-    {
-      "basename": "Bash",
-      "path": "vault/coding/Bash.md"
-    },
-    {
-      "basename": "Accuracy",
-      "path": "vault/science/Accuracy.md"
     }
   ],
   "omittedPaths": [],
