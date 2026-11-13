@@ -13,7 +13,7 @@ duration_min:
 todo: true
 acknowledgements:
   - Setz2006_KaerntnerischKochen
-  - Elisabeth Gorgasser
+  - Oma Berni
 links:
   - https://www.gutekueche.at/lebkuchen-vom-blech-rezept-943
   - https://www.gutekueche.at/einfacher-lebkuchen-rezept-24285
@@ -79,6 +79,48 @@ paginate: false
 2. place [Cookies](#Cookies) on baking tray
 3. brush with **milk**
 4. bake for $\approx 13\,\mathrm{min}$ on central rack
+
+## Variations
+
+### Oma Berni's lebkuchen
+
+|Ingredient|Amount (?? pieces)|Alternative Units|
+| :- | :- | :- |
+|flour|500 g||
+|sugar|240 g||
+|baking powder|8 g||
+|cinnamon |4 tsp||
+|coffee||
+|allspice |0.5 tsp|
+|cardamom |0.5 tsp|
+|clove powder |0.5 tsp|
+|coriander powder |0.5 tsp|
+|ginger powder |0.5 tsp|
+|nutmeg |0.5 tsp|
+|anise powder |0.25 tsp|
+|mace |0.25 tsp|
+|oil|-||
+|nuts||
+|dried fruits||
+|rum||
+
+1. the day before baking
+	1. soak **dried fruits** in **rum**
+
+#### Prep
+1. prepare [LebkuchenGewuerz](LebkuchenGewuerz.md)
+2. chop **nuts**
+3. in a pan roast $120\,\mathrm{g}$ of **sugar** until brown
+4. infuse with **coffee**
+
+#### Baking & dough
+1. preheat oven to $180\mathrm{^\circ C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
+2. in a bowl mix **flour**, **baking powder**
+3. add [LebkuchenGewuerz](LebkuchenGewuerz.md), **dried fruits**, **sugar**, **coffee-sugar**
+4. stir until not too viscous
+5. place mass onto baking tray
+6. bake quickly for $???\,\mathrm{min}$
+7. cut in small pieces
 
 ## Notes
 - add a slice of an **apple** to the cookie jar to make sure that the [Lebkuchen](Lebkuchen.md) stay soft for longer
