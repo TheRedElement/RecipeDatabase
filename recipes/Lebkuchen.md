@@ -9,7 +9,7 @@ aliases:
 country:
   - austria
   - germany
-duration_min:
+duration_min: 130
 todo: true
 acknowledgements:
   - Setz2006_KaerntnerischKochen
@@ -131,3 +131,5 @@ paginate: false
 - add a slice of an **apple** to the cookie jar to make sure that the [Lebkuchen](Lebkuchen.md) stay soft for longer
 - don't roll the [Lebkuchen](Lebkuchen.md) too thin
 	- it will get hard while baking
+- `duration_min` excluding rest period
+ - just prep + baking
