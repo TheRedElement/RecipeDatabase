@@ -71,7 +71,8 @@ paginate: false
  1. just long enough that the dough is coming together and not getting viscous again
  2. you should be able to pick it up with your hands without it sticking to your hands
 3. let [Dough](#Dough) rest (mature) in a cool place overnight ($\ge 10\,\mathrm{h}$, better $\approx 24\,\mathrm{h}$)
- 1. cool meaning temperature $< 20\mathrm{^\circ C}$
+ 1. cool meaning temperature $18-20\mathrm{^\circ C}$
+  1. if you make it in summer, you can put the dough in the fridge as well
 
 ### Cookies
 
