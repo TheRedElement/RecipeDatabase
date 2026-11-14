@@ -9,6 +9,10 @@
       "path": "recipes/Nasssuren.md"
     },
     {
+      "basename": "Reindling",
+      "path": "recipes/Reindling.md"
+    },
+    {
       "basename": "Lebkuchen",
       "path": "recipes/Lebkuchen.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "@Smith2020_DESSN",
       "path": "vault/papers/@Smith2020_DESSN.md"
-    },
-    {
-      "basename": "@Kessler2019DESDistanceBias",
-      "path": "vault/papers/@Kessler2019DESDistanceBias.md"
     }
   ],
   "omittedPaths": [],

@@ -103,7 +103,7 @@ links:
 ![](../gfx/PXL_20260329_095306343.jpg)
 
 ## Serving
-* on Easter, [Reindling](Reindling.md) is traditionally eating with **horseradish** and [EasterHam](EasterHam.md)
+* on Easter, [Reindling](Reindling.md) is traditionally eating with **horseradish** and [Osterschinken](Osterschinken.md)
 
 ## Notes
 * the name [Reindling](Reindling.md) comes from the fact that it is traditionally baked in a round baking dish (reindl)
