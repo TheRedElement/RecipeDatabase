@@ -17,6 +17,7 @@ acknowledgements:
 links:
   - https://www.gutekueche.at/lebkuchen-vom-blech-rezept-943
   - https://www.gutekueche.at/einfacher-lebkuchen-rezept-24285
+  - https://youtu.be/2-fhHBGLm10?si=Qg5IE4ZbH6Gny4sG
 theme: tre_light
 marp: false
 paginate: false
@@ -65,8 +66,12 @@ paginate: false
 
 #### Merge
 1. slowly mix [Wet](#Wet) into [Dry](#Dry)
-2. knead to medium firm dough
-3. let [Dough](#Dough) rest in a cool place overnight $\approx 10\,\mathrm{h}$
+ 1. use a fork/spoon/kitchen aid to do so
+2. keep mixing for a *short* time
+ 1. just long enough that the dough is coming together and not getting viscous again
+ 2. you should be able to pick it up with your hands without it sticking to your hands
+3. let [Dough](#Dough) rest (mature) in a cool place overnight ($\ge 10\,\mathrm{h}$, better $\approx 24\,\mathrm{h}$)
+ 1. cool meaning temperature $< 20\mathrm{^\circ C}$
 
 ### Cookies
 
