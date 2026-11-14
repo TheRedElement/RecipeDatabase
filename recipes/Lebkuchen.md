@@ -28,7 +28,7 @@ paginate: false
 |Ingredient|Amount (20? pieces)|Alternative Units|
 | :- | :- | :- |
 |flour (rye) |300 g|
-|honey |250 g|
+|honey |200 g|
 |sugar |180 g|
 |butter |60 g|
 |milk |60 mL|
