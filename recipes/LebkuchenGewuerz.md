@@ -22,7 +22,7 @@ paginate: false
 
 # Lebkuchen gewürz
 
-|Ingredient|Amount (7 tsp)|Alternative Units|
+|Ingredient|Amount (15 tsp)|Alternative Units|
 | :- | :- | :- |
 |cinnamon |8 tsp|22.1 g|
 |allspice |1 tsp|2.2 g|
@@ -41,6 +41,9 @@ paginate: false
 	1. content shall stay _dry_
 
 > ideally you find the raw (non-ground) forms of the ingredients and grind them yourself
+
+## Usecases
+- [Lebkuchen](Lebkuchen.md)
 
 ## Notes
 - stores well for $\approx 2\,\mathrm{months}$

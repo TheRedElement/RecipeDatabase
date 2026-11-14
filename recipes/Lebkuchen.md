@@ -45,8 +45,9 @@ paginate: false
 |nutmeg |0.5 tsp|
 |anise powder |0.25 tsp|
 |mace |0.25 tsp|
+|(gingerbread spice mixture)|7.5 tsp|
 
-> you can substitute **cinnamon**, **mace**, **anise powder**, **nutmeg**, **ginger powder**, **coriander powder**, **clove powder**, **cardamom**, **allspice** with **gingerbread spice mixture**
+> you can substitute **cinnamon**, **mace**, **anise powder**, **nutmeg**, **ginger powder**, **coriander powder**, **clove powder**, **cardamom**, **allspice** with **gingerbread spice mixture** ($7.5\,\mathrm{tsp}$)
 
 ## Recipe
 
@@ -66,20 +67,20 @@ paginate: false
 
 #### Merge
 1. slowly mix [Wet](#Wet) into [Dry](#Dry)
- 1. use a fork/spoon/kitchen aid to do so
+	1. use a fork/spoon/kitchen aid to do so
 2. keep mixing for a *short* time
- 1. just long enough that the dough is coming together and not getting viscous again
- 2. you should be able to pick it up with your hands without it sticking to your hands
-1. place onto cling wrap
-1. flatten until approximately thumb-thick
-1. wrap
-3. let [Dough](#Dough) rest (mature) in a cool place overnight ($\ge 10\,\mathrm{h}$, better $\approx 24\,\mathrm{h}$)
- 1. cool meaning temperature $18-20\mathrm{^\circ C}$
-  1. if you make it in summer, you can put the dough in the fridge as well
+	1. just long enough that the dough is coming together and not getting viscous again
+	2. you should be able to pick it up with your hands without it sticking to your hands
+3. place onto cling wrap
+4. flatten until approximately thumb-thick
+5. wrap
+6. let [Dough](#Dough) rest (mature) in a cool place overnight ($\ge 10\,\mathrm{h}$, better $\approx 24\,\mathrm{h}$)
+	1. cool meaning temperature $18-20\mathrm{^\circ C}$
+	2. if you make it in summer, you can put the dough in the fridge as well
 
 ### Cookies
 
-1. roll [Dough](#Dough) out on a floured surface until $\approx 5\,\mathrm{mm}$ thick
+1. roll [Dough](#Dough) out on a well-floured surface until $\approx 5\,\mathrm{mm}$ thick
 2. cut out cookies using cookie-cutters
 
 ### Baking

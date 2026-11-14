@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lebkuchen",
+      "path": "recipes/Lebkuchen.md"
+    },
+    {
+      "basename": "LebkuchenGewuerz",
+      "path": "recipes/LebkuchenGewuerz.md"
+    },
+    {
       "basename": "Osterschinken",
       "path": "recipes/Osterschinken.md"
     },
@@ -13,20 +21,12 @@
       "path": "recipes/Gulasch_Beef.md"
     },
     {
-      "basename": "Lebkuchen",
-      "path": "recipes/Lebkuchen.md"
-    },
-    {
       "basename": "RisottoAgliAsparagi",
       "path": "recipes/RisottoAgliAsparagi.md"
     },
     {
       "basename": "Kasnudl",
       "path": "recipes/Kasnudl.md"
-    },
-    {
-      "basename": "LebkuchenGewuerz",
-      "path": "recipes/LebkuchenGewuerz.md"
     },
     {
       "basename": "LinzerStreifen",
@@ -195,10 +195,6 @@
     {
       "basename": "@Kessler2019DESDistanceBias",
       "path": "vault/papers/@Kessler2019DESDistanceBias.md"
-    },
-    {
-      "basename": "LuminosityDistance",
-      "path": "vault/science/LuminosityDistance.md"
     }
   ],
   "omittedPaths": [],
