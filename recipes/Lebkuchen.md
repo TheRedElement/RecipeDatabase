@@ -49,6 +49,9 @@ paginate: false
 
 > you can substitute **cinnamon**, **mace**, **anise powder**, **nutmeg**, **ginger powder**, **coriander powder**, **clove powder**, **cardamom**, **allspice** with **gingerbread spice mixture** ($7.5\,\mathrm{tsp}$)
 
+- prep: 30min for dough (day 1)
+- baking: 45min (day 2)
+
 ## Recipe
 
 ### Dough
