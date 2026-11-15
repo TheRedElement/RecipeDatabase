@@ -83,19 +83,30 @@ paginate: false
 
 ### Cookies
 
+> before starting it helps to put the dough into the fridge for $\approx 44\,\mathrm{min}$
+
+1. execute lamination of [Dough](#Dough) (2-3 times)
+  1. roll [Dough](#Dough) out on a well-floured surface until $\approx 5\,\mathrm{mm}$ thick
+  1. fold the two ends on top of each other
+  1. repeat (add flour to your surface as needed)
 1. roll [Dough](#Dough) out on a well-floured surface until $\approx 5\,\mathrm{mm}$ thick
 2. cut out cookies using cookie-cutters
+
+> lamination makes sure that the dough stays in shape and doesn't spread horizontally too much when rolling
 
 ### Baking
 
 1. preheat oven to $180\mathrm{^\circ C}$ [Fan-Forced](OvenSettings.md#Fan-Forced)
 2. place [Cookies](#Cookies) on baking tray
+  1. $\approx 1\,\mathrm{cm}$ distance between instances
 3. brush with **milk**
 4. bake for $\approx 13\,\mathrm{min}$ on central rack
 
 ## Variations
 
 ### Oma Berni's lebkuchen
+
+#todo 
 
 |Ingredient|Amount (?? pieces)|Alternative Units|
 | :- | :- | :- |
