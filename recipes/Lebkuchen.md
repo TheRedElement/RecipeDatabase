@@ -26,7 +26,7 @@ paginate: false
 
 # Lebkuchen
 
-|Ingredient|Amount (20? pieces)|Alternative Units|
+|Ingredient|Amount (70 pieces)|Alternative Units|
 | :- | :- | :- |
 |flour (rye) |300 g|
 |honey |200 g|
