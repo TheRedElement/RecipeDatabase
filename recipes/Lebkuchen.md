@@ -30,7 +30,7 @@ paginate: false
 | :- | :- | :- |
 |flour (rye) |300 g|
 |honey |200 g|
-|sugar |180 g|
+|sugar |160 g|
 |butter |60 g|
 |milk |60 mL|
 |water |30 mL|
